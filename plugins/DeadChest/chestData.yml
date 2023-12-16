@@ -1,0 +1,276 @@
+chestData:
+- ==: ChestData
+  playerUUID: f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
+  holographicTimer: Tierra;-1287.5;60.799999952316284;-7485.5
+  worldName: Tierra
+  as_timer_id: c21edfb4-7bb3-4ecc-8d38-de05ccd17fa3
+  playerName: eldiosx
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 11308218-2b92-4a92-b9fe-aae174f57edb
+  chestDate: 2023-10-19T10:14:02.664Z
+  xpStored: 6976
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WRITTEN_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: BOOK_SIGNED
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Utilidades"}],"text":""}'
+      lore:
+      - '{"extra":[{"text":"Click para abrir"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+      PublicBukkitValues: |-
+        {
+            "commandpanels:commandpanelshotbar": "panel-1:8"
+        }
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WHEAT_SEEDS
+    amount: 2
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Tobacco
+        Plant"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"You
+        can use this seed to create new Tobacco."}],"text":""}'
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WHEAT_SEEDS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Weed
+        Seed"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"You
+        can use this seed to create new weed."}],"text":""}'
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHULKER_BOX
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHULKER_BOX
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      internal: H4sIAAAAAAAA/2WNsQ6CMBRFb0VUOjiQ+DOOooObie6mlAqV0pe0j6B/LwmYmLjd4ZxzJSCxPTjS7cmz5fdN1RssbIVdZ73RQT14H5vetSbcS3plSM9suigBLASWV0eMSch/BE9DqZwTSAvqPQvMqPhDdaAYSxokElZ1gtVRdao2Y3501kWjQm0qZMjneQn0NJqtMxGYqO8H8AGqYy4xzgAAAA==
+      blockMaterial: SHULKER_BOX
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIRT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 7
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: CHICKEN
+    amount: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FEATHER
+    amount: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 4
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: Tierra;-1288.0;60.0;-7486.0
+- ==: ChestData
+  playerUUID: e38b74c1-a31a-3225-a2cc-1e164af9d128
+  holographicTimer: Tierra;-27053.5;66.79999995231628;-9213.5
+  worldName: Tierra
+  as_timer_id: 03f7a8b2-f118-47b0-956c-983592dc34cb
+  playerName: sebijuan
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 470d1be2-0dcf-49aa-bf23-d79487766a57
+  chestDate: 2023-11-22T23:29:50.804Z
+  xpStored: 0
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FF0000","text":"sebijuan"}],"text":""}'
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: STONE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FF0000","text":"sebijuan"}],"text":""}'
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WOODEN_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"ClaimTool"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"/buyclaim"}],"text":""}'
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"ClaimInfo"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"/unclaim"}],"text":""}'
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BREAD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FF0000","text":"sebijuan"}],"text":""}'
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_BOAT
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FF0000","text":"sebijuan"}],"text":""}'
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WRITTEN_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: BOOK_SIGNED
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Utilidades"}],"text":""}'
+      lore:
+      - '{"extra":[{"text":"Click para abrir"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+      PublicBukkitValues: |-
+        {
+            "commandpanels:commandpanelshotbar": "panel-1:8"
+        }
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: STICK
+    amount: 4
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 26
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      display-name: '{"extra":[{"text":"GorraNike"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FF0000","text":"sebijuan"}],"text":""}'
+      Damage: 4
+      color:
+        ==: Color
+        ALPHA: 255
+        RED: 255
+        BLUE: 255
+        GREEN: 255
+  - null
+  chestLocation: Tierra;-27054.0;66.0;-9214.0

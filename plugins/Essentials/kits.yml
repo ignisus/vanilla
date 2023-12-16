@@ -1,0 +1,52 @@
+kits:
+  Diario:
+    delay: 30000
+    items:
+    - stone_pickaxe 1 lore:&#FF0000{USERNAME}
+    - stone_axe 1 lore:&#FF0000{USERNAME}
+    - lhelm 1 color:255,255,255 name:GorraNike lore:&#FF0000{USERNAME}
+    - wooden_shovel 1 name:ClaimTool lore:&O&7/buyclaim
+    - stick 1 name:ClaimInfo lore:&O&7/unclaim
+    - bread 5 lore:&#FF0000{USERNAME}
+    - oak_boat 1 lore:&#FF0000{USERNAME}
+    - /eco give {USERNAME} 5000
+    - /broadcast ¡{USERNAME} recibió el kit diario!
+  Hierro:
+    delay: 144000
+    items:
+    - iron_sword 1 lore:&#FF0000{USERNAME}
+    - iron_shovel 1 lore:&#FF0000{USERNAME}
+    - iron_pickaxe 1 lore:&#FF0000{USERNAME}
+    - iron_axe 1 lore:&#FF0000{USERNAME}
+    - iron_hoe 1 lore:&#FF0000{USERNAME}
+    - iron_helmet 1 lore:&#FF0000{USERNAME}
+    - iron_chestplate 1 lore:&#FF0000{USERNAME}
+    - iron_leggings 1 lore:&#FF0000{USERNAME}
+    - iron_boots 1 lore:&#FF0000{USERNAME}
+    - /broadcast ¡{USERNAME} recibió el kit de hierro!
+  Diamante:
+    delay: 1000000
+    items:
+    - diamond_sword 1 lore:&#FF0000{USERNAME}
+    - diamond_shovel 1 lore:&#FF0000{USERNAME}
+    - diamond_pickaxe 1 lore:&#FF0000{USERNAME}
+    - diamond_axe 1 lore:&#FF0000{USERNAME}
+    - diamond_hoe 1 lore:&#FF0000{USERNAME}
+    - diamond_helmet 1 lore:&#FF0000{USERNAME}
+    - diamond_chestplate 1 lore:&#FF0000{USERNAME}
+    - diamond_leggings 1 lore:&#FF0000{USERNAME}
+    - diamond_boots 1 lore:&#FF0000{USERNAME}
+    - /broadcast ¡{USERNAME} recibió el kit de diamante!
+  Netherita:
+    delay: 3000000
+    items:
+    - netherite_sword 1 lore:&#FF0000{USERNAME}
+    - netherite_shovel 1 lore:&#FF0000{USERNAME}
+    - netherite_pickaxe 1 lore:&#FF0000{USERNAME}
+    - netherite_axe 1 lore:&#FF0000{USERNAME}
+    - netherite_hoe 1 lore:&#FF0000{USERNAME}
+    - netherite_boots 1 lore:&#FF0000{USERNAME}
+    - netherite_leggings 1 lore:&#FF0000{USERNAME}
+    - netherite_chestplate 1 lore:&#FF0000{USERNAME}
+    - netherite_helmet 1 lore:&#FF0000{USERNAME}
+    - /broadcast ¡{USERNAME} recibió el kit de netherita!

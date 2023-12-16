@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.177.202.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697843562611
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702239059281
+  login: 1702237685022
+money: '100095529940.0'
+last-account-name: Darkness___boy
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1831.300000011921
+  y: 44.3000040560146
+  z: -7571.166667752223
+  yaw: -84.58528137207031
+  pitch: -83.84993743896484
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -1830.442393880486
+    y: 63.0
+    z: -7571.000544232414
+    yaw: 103.5030746459961
+    pitch: 62.8499755859375
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1817.62231422119
+  y: 63.0
+  z: -7586.18520827596
+  yaw: 80.412109375
+  pitch: 3.300100326538086

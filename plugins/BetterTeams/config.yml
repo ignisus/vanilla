@@ -1,0 +1,120 @@
+language: es_mx
+storageType: YAML
+prefix: name
+prefixFormat: '&7[&7BetterTeams&7] '
+allyLimit: 5
+maxTeamLength: 15
+maxTagLength: 15
+maxTitleLength: 10
+disableCombat: true
+disablePotions: true
+playerDamageSelf: true
+blacklist:
+- betterteamsisbad
+bannedChars: ',.!"ï¿½$%^&*()[]{};:#~\|`ï¿½'
+allowedChars: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmÑñnopqrstuvwxyz0123456789_-
+helpCommandColor: b
+helpDescriptionColor: '6'
+maxHologramLines: 10
+fullyCustomHelpMessages: false
+useVault: true
+logTeamChat: true
+allowToggleTeamChat: true
+colorTeamName: true
+defaultColor: 7
+tpDelay: 10
+noMove: false
+maxMove: 0
+singleOwner: false
+enforceTag: true
+allowPassword: true
+allowAllyChests: true
+invite: 200
+command:
+  team: []
+  teama:
+  - teama
+levels:
+  l1:
+    price: 1000m
+    teamLimit: 5
+    maxChests: 0
+    maxWarps: 0
+    maxBal: 100000
+    maxAdmins: 2
+    maxOwners: 1
+    rankLore:
+    - '&7Rango 1'
+  l2:
+    price: 10000m
+    teamLimit: 10
+    maxChests: 2
+    maxWarps: 1
+    maxBal: 1000000
+    maxAdmins: 5
+    maxOwners: 1
+    rankLore:
+    - '&7Rango 2'
+  l3:
+    price: 100000m
+    teamLimit: 20
+    maxChests: 0
+    maxWarps: 2
+    maxBal: 10000000
+    maxAdmins: 10
+    maxOwners: 2
+    rankLore:
+    - '&7Rango 3'
+  l4:
+    price: 1000000m
+    teamLimit: 40
+    maxChests: 0
+    maxWarps: 3
+    maxBal: 100000000
+    maxAdmins: 15
+    maxOwners: 2
+    rankLore:
+    - '&7Rango 4'
+  l5:
+    price: 10000000m
+    teamLimit: 50
+    maxChests: 0
+    maxWarps: 4
+    maxBal: 1000000000
+    maxAdmins: 20
+    maxOwners: 3
+    rankLore:
+    - '&7Rango 5'
+purgeCommands:
+- give @a minecraft:dirt 1
+spamThreshold: 60
+events:
+  death:
+    score: -5
+    spam: -10
+  kill:
+    score: 5
+    spam: -5
+useTeams: true
+displayTeamName: prefix
+collide: false
+privateDeath: false
+privateName: false
+canSeeFriendlyInvisibles: true
+zkoth:
+  pointsPerCapture: 0
+ultimateClaims:
+  enabled: false
+worldGuard:
+  enabled: true
+rebuildLookups: false
+permissionLevels: false
+minScore: 0
+checkUpdates: true
+database:
+  host: localhost
+  port: 3306
+  database: spigot
+  user: root
+  password: password
+titleRemoval: true

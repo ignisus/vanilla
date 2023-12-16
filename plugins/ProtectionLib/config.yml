@@ -1,0 +1,10 @@
+config:
+  GriefDefender:
+    enabled: true
+    RegionClearEvent: true
+  metrics: false
+  WorldGuard:
+    enabled: true
+  GriefPrevention:
+    enabled: true
+    RegionClearEvent: true

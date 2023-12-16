@@ -1,0 +1,69 @@
+#This is where you create the scoreboard, the first section will always be the title. 
+#Every section after that will be a line displayed on the scoreboard. You can have a max
+#of 15 lines display due to the limitations of minecraft.
+display:
+    title:
+      text:
+      - "&lClan: %betterTeams_tag% ⛨"
+      random: false
+      interval: 2
+    line-1:
+      text:
+      - ""
+      random: false
+      interval: 200
+      score: 11   
+    line-2:
+      text:
+      - "&#ffff00Rank: %betterTeams_rank%"
+      random: false
+      interval: 5
+      score: 10
+    line-3:
+      text:
+      - "&dScore: %betterTeams_score%"
+      random: false
+      interval: 5
+      score: 10
+    line-4:
+      text:
+      - "&2Bank: &2%betterTeams_money%€"
+      random: false
+      interval: 20
+      score: 8
+    line-5:
+      text:
+      - ""
+      random: false
+      interval: 20
+      score: 5
+    line-6:
+      text:
+      - "&#FF5C00Job: %jobsr_user_jobs%"
+      random: false
+      interval: 20
+      score: 3
+    line-7:
+      text:
+      - "&2Wallet: %vault_eco_balance_fixed%€"
+      random: false
+      interval: 20
+      score: 4
+    line-8:
+      text:
+      - "&dPower: %aureliumskills_power%"
+      random: false
+      interval: 20
+      score: 0
+    line-9:
+      text:
+      - ""
+      random: false
+      interval: 20
+      score: -1
+    line-10:
+      text:
+      - "Web: &b&nignisus.org"
+      random: false
+      interval: 20
+      score: -2

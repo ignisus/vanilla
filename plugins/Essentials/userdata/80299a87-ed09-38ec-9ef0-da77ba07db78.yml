@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.9.193.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1686423876337
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686425852897
+  login: 1686421945983
+money: '12170.0'
+last-account-name: sarittadg
+lastlocation:
+  world: 2021cd60-dc50-4358-931a-ccc7310a3ae4
+  world-name: Tierra_nether
+  x: 340.9002235904728
+  y: 32.0
+  z: -1100.759530104604
+  yaw: 18.513427734375
+  pitch: 17.70002555847168
+logoutlocation:
+  world: dead4337-6fb1-417e-8067-2f241ccce9de
+  world-name: Mining
+  x: 199.30000001192093
+  y: 62.0
+  z: -835.3000000119209
+  yaw: -44.091251373291016
+  pitch: 49.80048370361328

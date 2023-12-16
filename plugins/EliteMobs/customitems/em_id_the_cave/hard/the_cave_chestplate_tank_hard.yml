@@ -1,0 +1,13 @@
+name: "&cBoiled Chestplate"
+material: DIAMOND_CHESTPLATE
+level: 10
+lore:
+- "&cWhy does this smell like hot dogs?"
+enchantments:
+- "PROTECTION_ENVIRONMENTAL,7"
+- "DURABILITY,4"
+- "DAMAGE_ALL,3"
+- "LOUD_STRIKES,2"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

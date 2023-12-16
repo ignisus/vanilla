@@ -1,0 +1,164 @@
+# For non-English characters, this file MUST stay encoded in UTF-8
+quests:
+  default1:
+    name: Levantar España
+    ask-message: Escaba 10 bloques de tierra a tiempo
+    finish-message: Toma pico y pala y a levantar España
+    npc-giver-uuid: dcbe6f10-76e4-4535-9205-1822a962c06b
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3120
+      type: IRON_SHOVEL
+    requirements:
+      fail-requirement-message:
+      - <red>Complete <pink>Iron Miner<red> or <pink>Mob Hunter<red> first.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 10
+          break-block-durability:
+          - 0
+          start-event: TimerStart
+          finish-event: CancelTimer
+    rewards:
+      items:
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3120
+        type: DIAMOND_SHOVEL
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3120
+        type: DIAMOND_PICKAXE
+      exp: 150
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-parties-plugin: true
+      share-progress-level: 1
+      same-quest-only: true
+      share-distance: 0.0
+      handle-offline-players: false
+      ignore-block-replace: true
+  custom1:
+    name: Finn1
+    ask-message: Necesito que limpies Ooo de zombies...
+    finish-message: Ole ole ahora Ooo esta más seguro. Espero que esta recompensa
+      te sirva
+    npc-giver-id: 27
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3120
+      type: CLOCK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        lore:
+        - '{"extra":[{"text":"Misiones"}],"text":""}'
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 100
+          start-message: Mata a 100 zombies de cualquier nivel
+          complete-message: Mision Finn 1.0 completada
+    rewards:
+      items:
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3120
+        type: NETHERITE_INGOT
+      money: 1000000
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-parties-plugin: true
+      share-progress-level: 1
+      same-quest-only: true
+      share-distance: 0.0
+      handle-offline-players: false
+  custom2:
+    name: Krillin_1
+    ask-message: Necesito energía
+    finish-message: Gracias ahora tengo fuerzas para seguir peleando
+    npc-giver-id: 5
+    gui-display:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3120
+      type: PAPER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_purple","text":"Krillin_1"}],"text":""}'
+        lore:
+        - '{"extra":[{"text":"Mision 1.0 Salvar el mundo"}],"text":""}'
+        ItemFlags:
+        - HIDE_ENCHANTS
+        - HIDE_ATTRIBUTES
+        - HIDE_UNBREAKABLE
+        - HIDE_DESTROYS
+        - HIDE_PLACED_ON
+        - HIDE_POTION_EFFECTS
+        - HIDE_DYE
+    stages:
+      ordered:
+        '1':
+          items-to-deliver:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 3120
+            type: GOLDEN_APPLE
+            amount: 5
+          npc-delivery-ids:
+          - 5
+          delivery-messages:
+          - <npc> Gracias
+          start-message: Dame 5 manzanas doradas para restablecer mi energía
+          complete-message: Gracias, ahora tengo fuerzas para seguir peleando
+        '2':
+          npc-ids-to-talk-to:
+          - 6
+          start-message: Encuentra a Tao-Paipai que esta haciendo de las suyas
+          complete-message: Gracias ahora podre eliminarlo de una vez
+    rewards:
+      items:
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3120
+        type: NETHERITE_INGOT
+      money: 1000000
+    planner:
+      override: false
+    options:
+      allow-commands: true
+      allow-quitting: true
+      ignore-silk-touch: true
+      use-parties-plugin: true
+      share-progress-level: 1
+      same-quest-only: true
+      share-distance: 0.0
+      handle-offline-players: false
+  custom3:
+    name: Unidas Podemos
+    ask-message: Necesito 64 Bloques de ladrillo...
+    finish-message: Con esto podremos defender la clase obrera (y la nueva reforma
+      de mi chalet...)
+    npc-giver-uuid: 55cd20ed-c3cd-488c-be41-53681d56a043
+    stages:
+      ordered:
+        '1':
+          damage-block-durability: []
+          items-to-craft:
+          - ==: org.bukkit.inventory.ItemStack
+            v: 3120
+            type: BRICKS
+            amount: 64
+    rewards:
+      money: 58
+      exp: 10

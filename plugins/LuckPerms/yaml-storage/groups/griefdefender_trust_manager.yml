@@ -1,0 +1,5 @@
+name: griefdefender_trust_manager
+permissions:
+- weight.-70
+parents:
+- griefdefender_trust_builder

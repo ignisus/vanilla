@@ -1,0 +1,14 @@
+name: "&cBoiled Shield"
+material: SHIELD
+level: 10
+lore:
+- "&cHas a fresh wooden aroma."
+enchantments:
+- "PROTECTION_PROJECTILE,10"
+- "PROTECTION_ENVIRONMENTAL,5"
+- "DURABILITY,5"
+- "DAMAGE_ALL,4"
+- "LOUD_STRIKES,3"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

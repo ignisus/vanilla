@@ -1,0 +1,302 @@
+###########################################################
+# SCUBA SET
+#
+# Overall weak set, but increases mobility when in water
+# When wearing the full set, the user never needs to emerge
+# to breath.
+###########################################################
+
+Scuba_Helmet:
+  Type: PLAYER_HEAD
+  Skull_Owning_Player: "cd737173-c336-444e-b132-88e2760259d6 https://textures.minecraft.net/texture/dc7843730f0cdada084777a2029ad7a5fea1d83886aa6cb4436e4aa65a4d89d1"
+  Name: "&bScuba Mask"
+  Lore:
+    - "<gray>Darth Vader sounds not included"
+    - ""
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increases breath under water"
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Improves vision while under water"
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed on land"
+    - " "
+    - "&6Full Set Bonus: &oWater Breathing"
+    - "<gray>Allows infinite breath under water"
+  Hide_Flags: true
+  Enchantments:
+    - RESPIRATION 3
+    - AQUA_AFFINITY 1
+  Attributes:
+    - GENERIC_ARMOR 2 HEAD
+    - GENERIC_MOVEMENT_SPEED -0.003 HEAD
+
+Scuba_Chestplate:
+  Type: LEATHER_CHESTPLATE
+  Name: "&bScuba Chestplate"
+  Lore:
+    - "<gray>Please no do not bring this Armor into a fight"
+    - " "
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed on land"
+    - " "
+    - "&6Full Set Bonus: &oWater Breathing"
+    - "<gray>Allows infinite breath under water"
+  Hide_Flags: true
+  Attributes:
+    - GENERIC_MOVEMENT_SPEED -0.003 CHEST
+  Leather_Color: "#0000F0"
+
+Scuba_Leggings:
+  Type: LEATHER_LEGGINGS
+  Name: "&bScuba Leggings"
+  Lore:
+    - "<gray>Doesn't offer much protection, but hey, swim"
+    - " "
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed on land"
+    - " "
+    - "&6Full Set Bonus: &oWater Breathing"
+    - "<gray>Allows infinite breath under water"
+  Hide_Flags: true
+  Attributes:
+    - GENERIC_MOVEMENT_SPEED -0.003 LEGS
+  Leather_Color: "#0000F0"
+
+Scuba_Boots:
+  Type: LEATHER_BOOTS
+  Name: "&bScuba Flippers"
+  Lore:
+    - "<gray>How the hell are you supposed to run in these?"
+    - ""
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increases movement speed under water"
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed on land"
+    - " "
+    - "&6Full Set Bonus: &oWater Breathing"
+    - "<gray>Allows infinite breath under water"
+  Hide_Flags: true
+  Enchantments:
+    - DEPTH_STRIDER 4
+  Attributes:
+    - GENERIC_MOVEMENT_SPEED -0.003 FEET
+  Leather_Color: "#0000F0"
+
+###########################################################
+# TACTICAL SET
+#
+# This armor is not so strong against vanilla Minecraft
+# attacks, but it does well against bullets from WeaponMechanics
+# https://www.spigotmc.org/resources/.99913/
+###########################################################
+
+Tactical_Helmet:
+  Type: LEATHER_HELMET
+  Name: "<yellow>Tactical Helmet"
+  Lore:
+    - "<gray>Now with night vision goggles!"
+    - ""
+    - " <dark_gray>[<green>+<dark_gray>] <gray>See in the dark"
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Decreased damage from bullets"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's just cloth... What did you expect?"
+  Hide_Flags: true
+  Leather_Color: "#4b5320"
+  Attributes:
+    - GENERIC_ARMOR 2 HEAD
+  Bonus_Effects:
+    Bullet_Resistance:
+      Base: 0.04
+    Potion_Effects:
+      - "Potion{potion=NIGHT_VISION}"
+
+Tactical_Chestplate:
+  Type: LEATHER_CHESTPLATE
+  Name: "<yellow>Tactical Chestplate"
+  Lore:
+    - "<gray>Surprisingly ineffective against knives"
+    - ""
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Decreased damage from bullets"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's just cloth... What did you expect?"
+  Hide_Flags: true
+  Leather_Color: "#4b5320"
+  Attributes:
+    - GENERIC_ARMOR 6 CHEST
+  Bonus_Effects:
+    Bullet_Resistance:
+      Base: 0.07
+
+Tactical_Leggings:
+  Type: LEATHER_LEGGINGS
+  Name: "<yellow>Tactical Leggings"
+  Lore:
+    - "<gray>Getting shot in the leg hurts, so wear this"
+    - ""
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Decreased damage from bullets"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's just cloth... What did you expect?"
+  Hide_Flags: true
+  Leather_Color: "#4b5320"
+  Attributes:
+    - GENERIC_ARMOR 5 LEGS
+  Bonus_Effects:
+    Bullet_Resistance:
+      Base: 0.05
+
+Tactical_Boots:
+  Type: LEATHER_BOOTS
+  Name: "<yellow>Tactical Boots"
+  Lore:
+    - "<gray>SOMEHOW faster then wearing nothing at all!"
+    - ""
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increased movement speed"
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Decreased damage from bullets"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's just cloth... What did you expect?"
+  Hide_Flags: true
+  Leather_Color: "#4b5320"
+  Attributes:
+    - GENERIC_MOVEMENT_SPEED 0.002 FEET
+    - GENERIC_ARMOR 2 FEET
+  Bonus_Effects:
+    Bullet_Resistance:
+      Base: 0.04
+
+###########################################################
+# Radiation Suit
+#
+# Weak against literally everything, but hey, no poison or
+# wither debuffs (only when wearing full set)!
+###########################################################
+
+Radiation_Helmet:
+  Type: PLAYER_HEAD
+  Skull_Owning_Player: "970e0a59-b95d-45a9-9039-b43ac4fbfc7c https://textures.minecraft.net/texture/a0564817fcc8dd51bc1957c0b7ea142db687dd6f1caafd35bb4dcfee592421c"
+  Name: "<yellow>Gas Mask"
+  Lore:
+    - "<gray>Wait, you're supposed to clean these?"
+    - " "
+    - "&6Full Set Bonus: &oRadiation Immunity"
+    - "<gray>Prevents you from getting poisoned or withered"
+  Hide_Flags: true
+  Attributes:
+    - GENERIC_ARMOR 2 HEAD
+
+Radiation_Chestplate:
+  Type: LEATHER_CHESTPLATE
+  Name: "<yellow>Rad Suit Chestplate"
+  Lore:
+    - "<gray>I'm pretty sure this is just plastic?"
+    - " "
+    - "&6Full Set Bonus: &oRadiation Immunity"
+    - "<gray>Prevents you from getting poisoned or withered"
+  Hide_Flags: true
+  Leather_Color: "#fafa00"
+
+Radiation_Leggings:
+  Type: LEATHER_LEGGINGS
+  Name: "<yellow>Rad Suit Leggings"
+  Lore:
+    - "<gray>Go to the bathroom before wearing"
+    - " "
+    - "&6Full Set Bonus: &oRadiation Immunity"
+    - "<gray>Prevents you from getting poisoned or withered"
+  Hide_Flags: true
+  Leather_Color: "#fafa00"
+
+Radiation_Boots:
+  Type: LEATHER_BOOTS
+  Name: "<yellow>Rad Suit Boots"
+  Lore:
+    - "<gray>Don't step on anything sharp"
+    - " "
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increased movement speed"
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Decreased damage from bullets"
+    - "&6Full Set Bonus: &oRadiation Immunity"
+    - "<gray>Prevents you from getting poisoned or withered"
+  Hide_Flags: true
+  Leather_Color: "#fafa00"
+
+###########################################################
+# Heavy Set
+#
+# Very powerful set of armor that makes the user extremely strong
+# at the expense of all of their movement.
+###########################################################
+Heavy_Helmet:
+  Type: NETHERITE_HELMET
+  Name: "<yellow>Heavy Helmet"
+  Lore:
+    - "<gray>Clang clang clang"
+    - " "
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increased health"
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's plenty strong already"
+  Hide_Flags: true
+  Unbreakable: true
+  Attributes:
+    - GENERIC_MAX_HEALTH 5 head
+    - GENERIC_KNOCKBACK_RESISTANCE 0.25 head
+    - GENERIC_MOVEMENT_SPEED -0.07 head
+  Enchantments:
+    - PROTECTION 5
+
+Heavy_Chestplate:
+  Type: NETHERITE_CHESTPLATE
+  Name: "<yellow>Heavy Chestplate"
+  Lore:
+    - "<gray>Clang clang clang"
+    - " "
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increased health"
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's plenty strong already"
+  Hide_Flags: true
+  Unbreakable: true
+  Attributes:
+    - GENERIC_MAX_HEALTH 5 chest
+    - GENERIC_KNOCKBACK_RESISTANCE 0.25 chest
+    - GENERIC_MOVEMENT_SPEED -0.07 chest
+  Enchantments:
+    - PROTECTION 5
+
+Heavy_Leggings:
+  Type: NETHERITE_LEGGINGS
+  Name: "<yellow>Heavy Leggings"
+  Lore:
+    - "<gray>Clang clang clang"
+    - " "
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increased health"
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's plenty strong already"
+  Hide_Flags: true
+  Unbreakable: true
+  Attributes:
+    - GENERIC_MAX_HEALTH 5 legs
+    - GENERIC_KNOCKBACK_RESISTANCE 0.25 legs
+    - GENERIC_MOVEMENT_SPEED -0.07 legs
+  Enchantments:
+    - PROTECTION 5
+
+Heavy_Boots:
+  Type: NETHERITE_BOOTS
+  Name: "<yellow>Heavy Boots"
+  Lore:
+    - "<gray>Clang clang clang"
+    - " "
+    - " <dark_gray>[<green>+<dark_gray>] <gray>Increased health"
+    - " <dark_gray>[<red>-<dark_gray>] <gray>Decreased movement speed"
+    - " "
+    - "&6Full Set Bonus: &oNone"
+    - "<gray>It's plenty strong already"
+  Hide_Flags: true
+  Unbreakable: true
+  Attributes:
+    - GENERIC_MAX_HEALTH 5 feet
+    - GENERIC_KNOCKBACK_RESISTANCE 0.25 feet
+    - GENERIC_MOVEMENT_SPEED -0.07 feet
+  Enchantments:
+    - PROTECTION 5

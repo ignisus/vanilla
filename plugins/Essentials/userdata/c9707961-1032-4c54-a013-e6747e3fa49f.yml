@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.203.24.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1695051376489
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1695051584912
+  login: 1695051338739
+money: '1730.0'
+last-account-name: SrNes
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 2959.5454953894923
+  y: 63.0
+  z: -7350.248845292158
+  yaw: -162.14349365234375
+  pitch: 14.100003242492676
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -1825.8636203446838
+    y: 65.0
+    z: -7598.174847472825
+    yaw: 166.65145874023438
+    pitch: 33.29930877685547
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1450.9892301257803
+  y: 97.0
+  z: -7782.635806364956
+  yaw: -6.895605087280273
+  pitch: 10.049444198608398

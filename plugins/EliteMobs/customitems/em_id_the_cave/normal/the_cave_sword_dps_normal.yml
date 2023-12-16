@@ -1,0 +1,13 @@
+name: "&cSlimed Sword"
+material: IRON_SWORD
+level: 10
+lore:
+- "&cIt is kind of hard to grip it well."
+enchantments:
+- "DAMAGE_ALL,5"
+- "DURABILITY,3"
+- "DAMAGE_ARTHROPODS,3"
+- "DAMAGE_UNDEAD,5"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

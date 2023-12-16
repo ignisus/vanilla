@@ -1,0 +1,9 @@
+isEnabled: true
+entityType: GHAST
+name: $reinforcementLevel &5Reality Shredder
+level: 200
+normalizedCombat: true
+healthMultiplier: 1.0
+damageMultiplier: 0.8
+dropsEliteMobsLoot: false
+followDistance: 200

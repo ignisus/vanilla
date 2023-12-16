@@ -1,0 +1,184 @@
+isEnabled: true
+entityType: SLIME
+name: $bossLevel &cThe Boiler
+level: 10
+instanced: true
+healthMultiplier: 10.0
+damageMultiplier: 1.75
+movementSpeedAttribute: 2.5
+powers:
+- the_cave_roof_fall.yml
+- shield_wall.yml
+- invulnerability_arrow.yml
+- attack_push.yml
+- filename: attack_poison.yml
+  difficultyID:
+  - 1
+  - 2
+- filename: attack_web.yml
+  difficultyID:
+  - 2
+dropsEliteMobsLoot: false
+dropsVanillaLoot: false
+followDistance: 80
+leashRadius: 80
+normalizedCombat: true
+dropsRandomLoot: false
+song: name=elitemobs:the_cave_sanctum.phase2 length=35996
+eliteScript:
+  Summon:
+    Events:
+    - EliteMobDamagedByPlayerEvent
+    - PlayerDamagedByEliteMobEvent
+    - EliteMobTargetPlayerEvent
+    - ElitePhaseSwitchEvent
+    - EliteMobEnterCombatEvent
+    - EliteMobDamagedEvent
+    Actions:
+    - action: SUMMON_REINFORCEMENT
+      Target:
+        targetType: SELF
+      sValue: the_cave_broiled_miner.yml
+    Cooldowns:
+      local: 244
+      global: 20
+  Summon2:
+    Events:
+    - EliteMobTargetPlayerEvent
+    - ElitePhaseSwitchEvent
+    - EliteMobEnterCombatEvent
+    Actions:
+    - action: SUMMON_REINFORCEMENT
+      Target:
+        targetType: SELF
+      sValue: the_cave_broiled_miner.yml
+    Cooldowns:
+      local: 122
+      global: 20
+  Message:
+    Events:
+    - ElitePhaseSwitchEvent
+    Actions:
+    - action: MESSAGE
+      Target: 
+        targetType: NEARBY_PLAYERS
+        range: 10
+      sValue: "&cThe Boiler's &7hard boiled magma shell has cracked, exposing it's slimy insides."
+uniqueLootList:
+- filename: the_cave_axe_dps_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_axe_dps_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_axe_dps_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_axe_tank_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_axe_tank_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_axe_tank_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_boots_dps_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_boots_dps_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_boots_dps_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_boots_tank_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_boots_tank_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_boots_tank_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_bow_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_bow_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_bow_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_chestplate_dps_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_chestplate_dps_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_chestplate_dps_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_chestplate_tank_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_chestplate_tank_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_chestplate_tank_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_helmet_dps_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_helmet_dps_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_helmet_dps_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_helmet_tank_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_helmet_tank_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_helmet_tank_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_leggings_dps_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_leggings_dps_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_leggings_dps_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_leggings_tank_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_leggings_tank_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_leggings_tank_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_shield_tank_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_shield_tank_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_shield_tank_mythic.yml
+  chance: 0.05
+  difficultyID: 2
+- filename: the_cave_sword_dps_normal.yml
+  chance: 0.05
+  difficultyID: 0
+- filename: the_cave_sword_dps_hard.yml
+  chance: 0.05
+  difficultyID: 1
+- filename: the_cave_sword_dps_mythic.yml
+  chance: 0.05
+  difficultyID: 2

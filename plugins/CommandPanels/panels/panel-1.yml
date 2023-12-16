@@ -1,0 +1,247 @@
+panels:
+  panel-1:
+    perm: default
+    rows: 5
+    commands:
+    - menu
+    title: '&c&lUtilidades:'
+    open-with-item:
+      material: WRITTEN_BOOK
+      name: '&c&lUtilidades'
+      lore:
+      - Click para abrir
+      stationary: 8
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      '0':
+        material: cps= self
+        stack: 1
+        name: 'Skills'
+        commands:
+        - skill
+      '2':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '3':
+        material: RAW_GOLD
+        stack: 1
+        name: 'eShop'
+        lore:
+        - '&6Buy and Sell items'
+        commands:
+        - shop
+      '4':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '5':
+        material: BELL
+        stack: 1
+        name: 'Events'
+        lore:
+        - '&6Ningún evento activo...'
+      '6':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '7':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '9':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '10':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '11':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '12':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '13':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '14':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '15':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '16':
+        material: YELLOW_STAINED_GLASS_PANE
+        name: ' '
+        stack: 1
+      '17':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '18':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '20':
+        material: RED_BED
+        stack: 1
+        name: 'Home'
+        lore:
+        - 'Ve a tu casa con un click'
+        - 'Si no tienes usa /sethome'
+        - 'dentro de tu casa.'
+        commands:
+        - home
+      '21':
+        material: SPYGLASS
+        stack: 1
+        name: 'Tierra'
+        lore:
+        - 'PVP'
+        - 'Puedes proteger tu casa'
+        commands:
+        - warp Malta
+      '22':
+        material: EMERALD
+        stack: 1
+        name: 'Town'
+        lore:
+        - 'No PVP'
+        - 'No pierdes el inventario'
+        - 'Tiendas, zonas pvp...'
+        commands:
+        - warp Dragonball
+      '23':
+        material: WOODEN_SHOVEL
+        stack: 1
+        name: 'Mining'
+        lore:
+        - 'PVP'
+        - 'Recursos con reseteo de semilla.'
+        - 'Wipeo semanal (No dejes tus cosas ahi)'
+        commands:
+        - rtp world Mining
+      '24':
+        material: BOW
+        stack: 1
+        name: 'Adventure'
+        lore:
+        - 'Enchanced rewards'
+        - 'Spawners for farming'
+        - 'No PVP'
+        commands:
+        - warp Ooo
+      '25':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '26':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '27':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '28':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '29':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '30':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '31':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '32':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '33':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '34':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '35':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '36':
+        material: CLOCK
+        stack: 1
+        name: Volver al lobby
+        commands:
+        - force-server= lobby
+      '37':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '38':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '39':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '40':
+        material: JUKEBOX
+        stack: 1
+        name: 'Música'
+        lore:
+        - 'Sonando: %jukebox_active%'
+        commands:
+        - music
+        stack: 1
+      '41':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '42':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '43':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '44':
+        material: FILLED_MAP
+        name: Mapa online
+        lore:
+        - '&bhttps://ignisus.org/'
+        commands:
+        - op= tellraw @p {"text":"Click aqui para abrir el mapa","italic":true,"underlined":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://map.ignisus.org/"}}
+        stack: 1
+      '19':
+        material: YELLOW_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '1':
+        material: RED_STAINED_GLASS_PANE
+        stack: 1
+        name: ' '
+      '8':
+        material: CHEST
+        stack: 1
+        name: "Reclamar Kit Diario"
+        commands:
+        - kit Diario
+    panelType:
+    - fd

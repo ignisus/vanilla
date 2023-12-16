@@ -1,0 +1,14 @@
+name: "&cBoiled Boots"
+material: NETHERITE_BOOTS
+level: 10
+lore:
+- "&cThe boiling did not get rid of the smell."
+enchantments:
+- "PROTECTION_FALL,4"
+- "PROTECTION_ENVIRONMENTAL,10"
+- "DURABILITY,5"
+- "DAMAGE_ALL,4"
+- "LOUD_STRIKES,3"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

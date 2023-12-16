@@ -1,0 +1,26 @@
+entityType: VINDICATOR
+name: $minibossLevel &dSorcerer
+level: dynamic
+healthMultiplier: 2
+damageMultiplier: 1
+isBaby: false
+powers:
+- BB_HiddenChamber_Grasslands_RotatingRay.yml
+- invulnerability_fire.yml
+- thunderstorm.yml
+- attack_confusing.yml
+normalizedCombat: true
+dropsEliteMobsLoot: true
+dropsVanillaLoot: false
+dropsRandomLoot: false
+trails: CLOUD
+isRegionalBoss: true
+leashRadius: 16
+removeAfterDeath: true
+uniqueLootList:
+- filename: Hiddenchamber_grassland_Wand.yml
+  chance: 1
+spawnLocations:
+- Mining,888.5,25.0,-39.5,0.0,0.0
+- Mining,56.5,48.0,72.5,0.0,0.0
+# Generated with https://magmaguy.com/webapp/webapp.html !

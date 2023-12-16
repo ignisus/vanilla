@@ -1,0 +1,25 @@
+isEnabled: true
+entityType: SKELETON
+name: $reinforcementLevel &fBoiled Bones
+level: 10
+healthMultiplier: 0.25
+damageMultiplier: 0.6
+mainHand: BOW
+powers:
+- filename: attack_weakness.yml
+  difficultyID:
+  - 1
+- filename: implosion.yml
+  difficultyID:
+  - 2
+- filename: invulnerability_arrow.yml
+  difficultyID:
+  - 2
+- invulnerability_fire.yml
+- attack_push.yml
+leashRadius: 25
+followDistance: 25
+dropsEliteMobsLoot: false
+dropsVanillaLoot: false
+normalizedCombat: true
+dropsRandomLoot: false

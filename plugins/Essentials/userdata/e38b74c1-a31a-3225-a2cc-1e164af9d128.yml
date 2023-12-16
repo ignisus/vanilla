@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.136.119.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700696676265
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700696775084
+  login: 1700694514339
+  kits:
+    diario: 1700695128599
+money: '7550.0'
+last-account-name: sebijuan
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 2958.04480791377
+  y: 63.0
+  z: -7343.534681498928
+  yaw: 53.85042953491211
+  pitch: 14.100018501281738
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1216.5706153544654
+  y: 63.512499928474426
+  z: -7567.492685545453
+  yaw: 57.855072021484375
+  pitch: 27.00004768371582

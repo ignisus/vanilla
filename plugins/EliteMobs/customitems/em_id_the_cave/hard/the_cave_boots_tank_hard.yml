@@ -1,0 +1,14 @@
+name: "&cBoiled Boots"
+material: DIAMOND_BOOTS
+level: 10
+lore:
+- "&cThe boiling did not get rid of the smell."
+enchantments:
+- "PROTECTION_FALL,3"
+- "PROTECTION_ENVIRONMENTAL,7"
+- "DURABILITY,4"
+- "DAMAGE_ALL,3"
+- "LOUD_STRIKES,2"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

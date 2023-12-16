@@ -1,0 +1,40 @@
+update:
+  # Seconds between checks for Residence updates
+  period: 300
+layer:
+  name: WorldGuard
+  # Make mobs layer hidden by default
+  hidebydefault: false
+  # ordering priority in layer menu (low goes before high - default is 0)
+  layerprio: 0
+  # (optional) set minimum zoom level before layer is visible (0 = defalt, always visible)
+  minzoom: 0
+use3dregions: false
+infowindow: <div class=\"infowindow\"><span style=\"font-size:120%;">%regionname%</span></div>
+regionstyle:
+  strokeColor: '#00FF00'
+  strokeOpacity: 0.8
+  strokeWeight: 3
+  fillColor: '#00FF00'
+  fillOpacity: 0
+  unownedStrokeColor: '#00FF00'
+visibleregions: []
+hiddenregions:
+- pueblo
+- torneocelula
+- torneomundial
+- supermercado
+- navebulman
+- whiterlow
+- saladeltiempo
+- tenkaichibudokai
+- whiter
+- zoo
+custstyle:
+  customregion1:
+    strokeColor: '#00FF00'
+ownerstyle:
+  kingoftheworld:
+    strokecolor: '#C0C0C0'
+maxdepth: 16
+updates-per-tick: 20

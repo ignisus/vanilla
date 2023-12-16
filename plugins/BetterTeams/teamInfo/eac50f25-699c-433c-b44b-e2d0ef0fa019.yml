@@ -1,0 +1,53 @@
+name: las_putitas
+description: ''
+open: false
+pvp: true
+home: Tierra:-1043.9484092840082:73.0:-8169.912556936836:113.4485:17.369963
+color: a
+chests: []
+players:
+- 788dfdbb-dd26-38c9-b4a3-46a606225ebe,OWNER
+- 44a0ba73-5a78-3121-ab4a-3289d9f22bf2,DEFAULT
+- 0e3d2aa5-0a64-3304-ac23-13d10fea16c0,DEFAULT
+- 7b61e01f-e50d-325a-8cf7-964ceaaf063a,DEFAULT
+level: 1
+tag: putitas
+allyrequests:
+- c67bf225-5377-408c-b423-25b486bba15e
+score: 0
+money: 100000.0
+echest:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3105
+    type: CARROT
+    amount: 64
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3105
+    type: COOKED_PORKCHOP
+    amount: 64
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3105
+    type: MELON_SLICE
+    amount: 64
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3105
+    type: MELON_SLICE
+    amount: 36
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3105
+    type: NETHERITE_INGOT
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3105
+    type: DIAMOND_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 3
+        MENDING: 1

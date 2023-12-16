@@ -1,0 +1,52 @@
+# See https://pikamug.gitbook.io/quests/setup/configuration
+
+show-completed-objectives: true
+language-override-client: false
+clickable-prompts: true
+condition-interval: 10
+confirm-abandon: true
+confirm-accept: true
+give-journal-item: false
+# See https://pikamug.gitbook.io/quests/setup/configuration
+accept-timeout: 20
+allow-command-questing: true
+allow-command-quests-with-npcs: false
+allow-pranks: true
+allow-quitting: true
+ask-confirmation: true
+console-logging: 2
+disable-command-feedback: true
+generate-files-on-join: true
+ignore-locked-quests: false
+kill-delay: 600
+language: es-ES
+max-quests: 0
+show-requirements: true
+show-titles: true
+strict-player-movement: 0
+storage-data:
+  address: localhost:3306
+  database: ignisusland
+  username: root
+  password: ''
+  table_prefix: quests_
+  pool-settings:
+    keepalive-time: 0
+    properties:
+      useUnicode: true
+      characterEncoding: utf8
+    max-pool-size: 10
+    min-idle: 10
+    max-lifetime: 1800000
+    connection-timeout: 5000
+storage-method:
+  player-data: mysql
+trial-save: false
+top-limit: 150
+translate-names: false
+translate-subcommands: false
+update-check: true
+npc-effects:
+  enabled: true
+  new-quest: note
+  redo-quest: heart

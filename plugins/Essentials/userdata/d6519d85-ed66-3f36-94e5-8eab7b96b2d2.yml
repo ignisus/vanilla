@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.8.172.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685875345427
+  login: 1685875332832
+money: '0'
+last-account-name: Adri_GM
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 2958.04480791377
+  y: 63.0
+  z: -7343.534681498928
+  yaw: 91.50044250488281
+  pitch: -9.599980354309082

@@ -1,0 +1,28 @@
+isEnabled: true
+entityType: HUSK
+isBaby: true
+name: $reinforcementLevel &4Broiled Miner
+level: 10
+instanced: true
+frozen: false
+healthMultiplier: 0.25
+damageMultiplier: 0.6
+movementSpeedAttribute: 0.38
+uniqueLootList: []
+dropsEliteMobsLoot: false
+dropsVanillaLoot: false
+normalizedCombat: true
+dropsRandomLoot: false
+mainHand: IRON_PICKAXE
+powers:
+- filename: attack_weakness.yml
+  difficultyID:
+  - 1
+- filename: implosion.yml
+  difficultyID:
+  - 2
+- filename: invulnerability_arrow.yml
+  difficultyID:
+  - 2
+- invulnerability_fire.yml
+- attack_vacuum.yml

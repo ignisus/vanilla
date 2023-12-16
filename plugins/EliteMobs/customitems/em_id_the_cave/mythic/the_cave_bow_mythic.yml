@@ -1,0 +1,11 @@
+name: "&cBoiled Bow"
+material: BOW
+level: 10
+lore:
+- "&cIt will not stop steaming."
+enchantments:
+- "ARROW_DAMAGE,4"
+- "ARROW_FIRE,5"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

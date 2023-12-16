@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.48.237.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687546255791
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699734684627
+  login: 1699734362325
+  kits:
+    diario: 1685323902321
+money: '200013334.0'
+last-account-name: HuggoSan
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -6485.275603514653
+  y: 63.0
+  z: -13761.13594670391
+  yaw: 55.519508361816406
+  pitch: 7.049801349639893
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 2912.2552938626927
+  y: 71.0
+  z: -8658.506289091863
+  yaw: -108.27389526367188
+  pitch: 11.399754524230957
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: 2916.3479382171527
+    y: 71.0
+    z: -8650.817550334817
+    yaw: 171.7315216064453
+    pitch: 26.699769973754883

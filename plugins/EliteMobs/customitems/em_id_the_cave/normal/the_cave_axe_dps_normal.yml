@@ -1,0 +1,13 @@
+name: "&cSlimed Axe"
+material: IRON_AXE
+level: 10
+lore:
+- "&cBeautiful green slime adorns this axe."
+enchantments:
+- "DAMAGE_ALL,6"
+- "DURABILITY,5"
+- "DAMAGE_ARTHROPODS,5"
+- "DAMAGE_UNDEAD,3"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

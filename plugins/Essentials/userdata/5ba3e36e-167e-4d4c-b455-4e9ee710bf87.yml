@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.31.106.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701129722361
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701129992172
+  login: 1701129840911
+  kits:
+    diario: 1684282980251
+money: '43218.1841050000077135'
+last-account-name: WORLDcodGAMER
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -27090.781905307078
+  y: 68.0
+  z: -9236.687520937698
+  yaw: -14.118255615234375
+  pitch: 9.751072883605957
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -6544.345758343446
+  y: 107.0
+  z: -13784.032435709456
+  yaw: 0.6568603515625
+  pitch: 34.80000305175781
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -6581.047278045863
+    y: 99.0
+    z: -13826.270350608673
+    yaw: -90.34793090820312
+    pitch: 18.749582290649414

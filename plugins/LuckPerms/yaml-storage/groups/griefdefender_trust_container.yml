@@ -1,0 +1,5 @@
+name: griefdefender_trust_container
+permissions:
+- weight.-70
+parents:
+- griefdefender_trust_accessor

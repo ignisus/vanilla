@@ -1,0 +1,13 @@
+name: "&cSlimed Axe"
+material: NETHERITE_AXE
+level: 10
+lore:
+- "&cBeautiful green slime adorns this axe."
+enchantments:
+- "DAMAGE_ALL,11"
+- "DURABILITY,7"
+- "DAMAGE_ARTHROPODS,11"
+- "DAMAGE_UNDEAD,5"
+scalability: fixed
+itemType: unique
+# Generated with https://magmaguy.com/webapp/webapp.html !

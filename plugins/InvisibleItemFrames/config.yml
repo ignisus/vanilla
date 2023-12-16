@@ -1,0 +1,29 @@
+# Thank you for Downloading InvisibleItemFrames!
+#
+# Feel free to check out my other plugins here:
+# https://www.spigotmc.org/members/429752/#resources
+
+Messages:
+
+  Only Players: "&cThis can only be used by a player."
+  
+  No Permission: "&cYou don't have permission to do this."
+
+  Toggle: "&aYou have toggled this Item Frame to be %status%"
+  Toggle On: "&2&lVISIBLE"
+  Toggle Off: "&c&lINVISIBLE"
+
+  Toggle Mode: "&aYou have %status%&a toggle mode!"
+  Toggle Mode On: "&2&lENABLED"
+  Toggle Mode Off: "&c&lDISABLED"
+  
+  Scan: "&aFound %count% item frames."
+  
+  Not Looking: "&cYou're not looking at an Item Frame."
+  Non Number: "&c%value% is not a number, defaulting to %default% radius..."
+  
+  Command Usage:
+    - "&cInvisibleItemFrames Usages:"
+    - "&a/ITF toggle &7- &fWhile looking at Item Frame."
+    - "&a/ITF togglemode &7- &fEnable/Disable where you can right click Item Frames"
+    - "&a/ITF scan (radius) &7- &fScan for Item Frames and make them glow for a moment."

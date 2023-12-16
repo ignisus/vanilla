@@ -1,0 +1,44 @@
+# Dynmap-Quests configuration
+
+area:
+  boost-flag: false
+  fill-style:
+    opacity: 0.35
+    color: '0xFF0000'
+  line-style:
+    weight: 3
+    opacity: 0.8
+    color: '0xFF0000'
+circle:
+  boost-flag: false
+  fill-style:
+    opacity: 0.35
+    color: '0xFF0000'
+  line-style:
+    weight: 3
+    opacity: 0.8
+    color: '0xFF0000'
+icons:
+  start-NPC: compass
+  interact-NPC: comment
+  kill-NPC: skull
+  delivery-NPC: basket
+prefixes:
+  interact: '-'
+  kill: '-'
+  delivery: '-'
+  wg-region: '-'
+  start: Start
+  kill-area: '-'
+  reach-area: '-'
+layer:
+  name: Quests
+  # Whether layer should be hidden by default
+  hide-by-default: false
+  # Order priority in layer menu (low goes before high - default is 0)
+  layer-priority: 0
+  # Minimum zoom level before layer is visible (0 = default, always visible)
+  min-zoom: 0
+update:
+  # Seconds between checks for layer updates
+  period: 150

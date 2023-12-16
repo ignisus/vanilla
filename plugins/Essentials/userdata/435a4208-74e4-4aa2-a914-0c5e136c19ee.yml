@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.60.68.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1692625117951
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1692625197573
+  login: 1692625042722
+  kits:
+    diario: 1687468803421
+money: '0.7666900000007557'
+last-account-name: CarlosYisuX
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 29585.901772563197
+  y: 6.0
+  z: -8683.63083028308
+  yaw: 1.2529710531234741
+  pitch: 10.518247604370117
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 29314.92755362041
+  y: 13.0
+  z: -8839.60703269943
+  yaw: -115.31707763671875
+  pitch: 5.399862289428711
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -6570.073811235143
+    y: 99.0
+    z: -13826.476882792429
+    yaw: -7.40313720703125
+    pitch: 30.600013732910156

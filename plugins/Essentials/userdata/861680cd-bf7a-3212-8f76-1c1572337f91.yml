@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.56.91.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1689718041439
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1689720207055
+  login: 1689712274147
+  kits:
+    diario: 1689712601709
+    hierro: 1689714758171
+money: '16723.635'
+last-account-name: Miguexino
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1247.3764535085818
+  y: 63.0
+  z: -7599.597135140791
+  yaw: 153.53680419921875
+  pitch: 25.350122451782227
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1207.1489217450473
+  y: 71.0
+  z: -7641.724750078333
+  yaw: -111.0086669921875
+  pitch: 68.1000747680664
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -1156.7597702096962
+    y: 67.0
+    z: -7673.564108355527
+    yaw: 84.26177978515625
+    pitch: 28.19977378845215

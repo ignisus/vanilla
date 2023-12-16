@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.117.241.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700696678815
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700696742026
+  login: 1700694514702
+  kits:
+    diario: 1691345386992
+money: '46225.4406999999951058'
+last-account-name: zencare4k
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1200.906678337807
+  y: 63.0
+  z: -7579.836519583437
+  yaw: -154.67295837402344
+  pitch: 14.54994010925293
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1194.5999588303816
+  y: 64.0
+  z: -7636.994842635656
+  yaw: -33.89988708496094
+  pitch: 5.549969673156738
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -1153.9328701252275
+    y: 65.0
+    z: -7669.443921286938
+    yaw: -174.77935791015625
+    pitch: 7.79966402053833

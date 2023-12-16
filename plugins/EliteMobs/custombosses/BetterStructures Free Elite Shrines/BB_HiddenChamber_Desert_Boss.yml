@@ -1,0 +1,29 @@
+entityType: MAGMA_CUBE
+name: $minibossLevel &6Firecore
+level: dynamic
+healthMultiplier: 3
+damageMultiplier: 1
+powers:
+- invulnerability_fire.yml
+- attack_vacuum.yml
+- tracking_fireball.yml
+- BB_HiddenChamber_Desert_MagmaFloor.yml
+normalizedCombat: true
+dropsEliteMobsLoot: true
+dropsVanillaLoot: false
+dropsRandomLoot: false
+trails: FLAME
+isRegionalBoss: true
+leashRadius: 20
+slimeSize: 4
+removeAfterDeath: true
+uniqueLootList:
+- filename: hiddenchamber_desert_fire_charm.yml
+  chance: 1
+spawnLocations:
+- Mining,1080.5,-37.0,-391.5,0.0,0.0
+- Mining,1128.5,-18.0,-1063.5,0.0,0.0
+- Mining,12088.5,31.0,1384.5,0.0,0.0
+- Mining,-7.5,-19.0,1032.5,0.0,0.0
+- Mining,120.5,-38.0,1256.5,0.0,0.0
+# Generated with https://magmaguy.com/webapp/webapp.html !

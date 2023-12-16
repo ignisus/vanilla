@@ -1,0 +1,51 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.117.241.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702239017063
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702728288365
+  login: 1702728241809
+  kits:
+    diario: 1698358903536
+    hierro: 1689714772260
+    netherita: 1698359172406
+money: '99967837771.8606899999990939'
+last-account-name: eldiosx
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -1204.6207261659792
+    y: 70.0
+    z: -7638.055170621479
+    yaw: -132.1920166015625
+    pitch: 11.549768447875977
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1197.3940490309699
+  y: 64.0
+  z: -7639.212664335541
+  yaw: 160.61460876464844
+  pitch: 5.399592399597168
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -1852.03653670643
+  y: 36.0
+  z: -7554.767052683067
+  yaw: 165.997802734375
+  pitch: 13.349591255187988

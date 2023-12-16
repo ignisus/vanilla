@@ -1,0 +1,23 @@
+# ------------------------------------  #
+#                                       #
+#       never touch the system-ID !     #
+#                                       #
+# ------------------------------------  #
+
+cDeskLampBlack:
+  displayName: '&ccDeskLampBlack'
+  system-ID: cDeskLampBlack
+  spawnMaterial: COW_SPAWN_EGG
+  itemGlowEffect: false
+  itemLore: []
+  crafting:
+    disable: true
+    recipe: xxx,xxx,xxx
+    index:
+      x: BEDROCK
+  projectData:
+    entities:
+      '0': H4sIAAAAAAAAAI1TwW7aQBBdCgRDLr1U6rFCPbRqkWxCQOSSQmzAEbYBO4C5oAUvxrC20domMVU/oMee+hP9gN6iXqoee+i9H9Cf6BpMSBtVqk8zb2beeN/M5ABIgmMZ2qhvedYEIwAiJK3aEGNqJpIgVSO2t4OPJEiWiOzwTBO715ZjRiEGpCKOyMgJjm/5oRauEDiu9SSlN1a1mswnQbYOPdTB0I+bpBoWic2s6Kzv+idylCTAiNQcE6McYNpCQxu3heYRSAxvP/xs5n+8GVNbB/FH7dEeBzmQagk1Psq9F/8jd2+DPTf9zS3318HTX+876wfcMR5x1xVe/0/ubE9stg7k3790Pn5j6n8XnB/I44L4pef/eOke37aguiHHd0nIgPRFS1A1OghFFmIRGPDIMsAT23LQlMCZf7bCMERkPEfQSNACN3B8qnbShybVXF0GGCvXDiK0TjTA8/KkMoMV1iiwpeqkUIJctVCF5UoBFotctcpBjjuBtK5D3BUivoW8LGB8dOMHBHm5aJAMyKqW6cAIiXYj3Yc4QOATCi/Z0XDOGsNLPA3FMvU1lcWKuFhVRKcfTi7EsmjTeKtWbofVe7mnPhycYv3kcj5yusHE7rPtkx5GrR43ta/WUrFbkniBkxf1pT4YzUeaeSPxXVbXenN507P1gcQqvIwVbcnpG4kdNa9K8obWLIy5vDBsidc3crF7Kke+LVizIVc9LPdjdWWZrt+i4nVwYFoOHUDGsLxI1H3Oq7f5qYtdkj/LmwSG+df5SBDqtaG98ubQQM9eTDCcLl/m323vJqM0Gi16Hru5MYCRaqJ8H0jRdVDvnIYgxCPeLq87hb7lOkeAGRaU2cxD/mFTmNFDSI+h2887KA2SOrwGuyPMNAlc09Pdur8BPuc0FBkEAAA=
+      '1': H4sIAAAAAAAAANVUvXLaQBA+wp+QmzSZibskkxYPFja209hgCRCDBAbMjxrmJA5xcJIYSWArVdqUqfIIafMGnqTIpEyRPg+QKnWarEAYjz1+gKjQ7H27+93tt3vHIxRHOyq2SJd6VGcEoRBJti3MGJixOEoUXctbwykFuzPirvF0hTlX1DZDF4cSIUdo8JLtUz/oBHOCdootpdEatjtFVYyjTAl7pMmwH22SKFM3MjOyvbzdP8YDyYIRt2ibjPCIq0vlzrAuVVIo1r/58Kvy6ufZEOwBij6wtQ2OeJSoSkUxjD3bffm3I2af34/d2GjDDcdccX/rPf/9vrl8wB3hIXepIQ7C2Dv+x7gzLblS3ZL/+NL8+J0r3U843ZJHCVGlp49UusFXW4BuxPYdN+BQ8rwqtTvQiIYqRSJw6AkdoWcWtYnh4rH/Zs5wQNzhhOBRDBKche2D2nEfmzx62p5T0/Gr4GuyhUltaKrheD6KC3s5DqV9cu0voGGfSVDLaf1JbtSvMSOQC7DutHOsIU/nR7LdDfRzuSBb4K8WC/Xg5E7soY97h2yQr000+2KhW91cPd9ipNraN6zLpSKUqSLKgiLUZppoCNpUZaooHWiV2kTt1SxVNK8H01mg9FSmicqhKlwcDKaTifK2NVE7l4LS06gq1NigJ+VUqzvVOhId9/dPoA47HE6+xLAxe9FzHAZjOieuRT2POjbalebUCOv29gyYThPk3NOZY8y8tYDxvAACcBsfSpVWTtCfb88WjDWubOJCqDxCr491TPQxKWQPCgX4GYV8Vj/ScZYY+dx4dIxPdMGAvKbrwAF8SrwM4iJlPT4cfg5l2tS08UpruE/JLmaL/1D17aPwYLBAuPSIeuEwZlCi7riECytHma+fjiNpw+x0o1yuwsuxHmlogFKU1btAAm5K+3ZRlqRo+lf32oF2QXNTiOtnG+OxR/ztJeK0h9Aggm7+vFtBSRQf4Cu0fp/SFRcv4VVbLf8BOGRBiDQFAAA=
+      '2': H4sIAAAAAAAAAHVSPU/CQBh+KwWOMrk5ObizGxco0g8SoAiNAktzwkEa26u5Fgg/wMHRyb/iRlgMo4O7ceZPeKVXIBhueu65533er1MAMlBsYZ/cu6H76BGAmMl2fex5CZZV5ocJzDUxeyKMYykDecML5i6dxE8I5NgjBopGIzda2ItnAkW107Q6TtdWW7UMFKo4JG0PRyKJrLtMwEKdznb5JYWbTD3CVDrxiAKooem209CMHEi95duPcfVdcTjugzgcD1IeFJBNTa3F2gqsOtelkBxrUwypNy9z6/35cLF5bc/+eQs+9q5atX6sPXg/5V3o1A1zb/61ar+vUfU4oLw3FwGi0/KJTlN+m4LPjdAoYAsE2VtT69p8EVZLE0NAcOaO4Nx3KRkyPI5uCB05LBhJXBxMaSTxfeUtXTf5fpJABKip1luHhMzr6e4uuqaJHNvpBUMcuQHNAeqVrPE4JNG+VDQQ1HJ9t3m5/Iipfkr9JqosZPp4DskvyBsMz/jf2V7/APGy1oOaAgAA
+  placeAbleSide: TOP

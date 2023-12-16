@@ -1,0 +1,6 @@
+name: griefdefender_option
+permissions:
+- weight.0
+meta:
+- griefdefender.economy-block-cost:
+    value: '1000'

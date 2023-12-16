@@ -1,0 +1,53 @@
+Fisherman:
+  fullname: Pescador
+  shortname: P
+  FullDescription:
+  - "Gana dinero pescando."
+  ChatColour: BLUE
+  chat-display: full
+  max-level: 100
+  leveling-progression-equation: 10*(joblevel)+(joblevel*joblevel*4)
+  income-progression-equation: baseincome+(baseincome*(joblevel-1)*0.01)-((baseincome+(baseincome*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  points-progression-equation: basepoints+(basepoints*(joblevel-1)*0.01)-((basepoints+(basepoints*(joblevel-1)*0.01))
+    * ((numjobs-1)*0.05))
+  experience-progression-equation: baseexperience-(baseexperience*((numjobs-1) *0.01))
+  rejoinCooldown: 10
+  maxDailyQuests: 1
+  Quests:
+    '1':
+      Name: Catcher
+      Objectives:
+      - Fish;cod;2
+      - Fish;salmon;2
+      - Fish;tropical_fish;2
+      RewardCommands:
+      - eco give [playerName] 100
+      - msg [playerName] Completed quest!
+      RewardDesc:
+      - Catch fish and get money
+      - Get 100 for this!
+  Gui:
+    Item: fishing_rod
+  Fish:
+    cod:
+      income: 10.0
+      points: 10.0
+      experience: 10.0
+    salmon:
+      income: 15.0
+      points: 15.0
+      experience: 15.0
+    tropical_fish:
+      income: 20.0
+      points: 20.0
+      experience: 20.0
+    pufferfish:
+      income: 20.0
+      points: 20.0
+      experience: 20.0
+  Kill:
+    Player:
+      income: 5.0
+      points: 5.0
+      experience: 5.0

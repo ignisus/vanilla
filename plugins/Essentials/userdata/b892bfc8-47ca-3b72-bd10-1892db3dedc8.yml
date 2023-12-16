@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1697931676762
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1697931700267
+  login: 1697931640211
+money: '0'
+last-account-name: eldiosx
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 28649.734487604805
+  y: 92.0
+  z: -7332.50982648843
+  yaw: 25.397754669189453
+  pitch: 6.89999532699585
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 2957.6213239958547
+  y: 63.5
+  z: -7314.849386058027
+  yaw: -173.24839782714844
+  pitch: -17.24997329711914

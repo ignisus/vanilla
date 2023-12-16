@@ -1,0 +1,54 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.216.236.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1691097479439
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1691247905070
+  login: 1691246174780
+  kits:
+    diario: 1688587051429
+    netherita: 1635897699435
+    diamante: 1636819282945
+    hierro: 1636819223159
+money: '60369.35480999999945694'
+last-account-name: Esparya
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: -26384.02029362847
+  y: 63.0
+  z: -7763.400970175104
+  yaw: 65.87158966064453
+  pitch: -4.949432849884033
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Tierra
+    x: -6590.699999988079
+    y: 99.0
+    z: -13844.471575310627
+    yaw: -123.7364501953125
+    pitch: 22.349517822265625
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Tierra
+  x: 2438.7098653722355
+  y: 79.0
+  z: -6124.707454088924
+  yaw: 72.162109375
+  pitch: 26.099868774414062
+past-usernames:
+- esparya

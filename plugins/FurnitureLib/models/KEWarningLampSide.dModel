@@ -1,0 +1,22 @@
+# ------------------------------------  #
+#                                       #
+#       never touch the system-ID !     #
+#                                       #
+# ------------------------------------  #
+
+KEWarningLampSide:
+  displayName: '&fWarning Lamp - Side'
+  system-ID: KEWarningLampSide
+  spawnMaterial: BRICK
+  itemGlowEffect: false
+  itemLore: []
+  crafting:
+    disable: true
+    recipe: xxx,xxx,xxx
+    index:
+      x: BEDROCK
+  projectData:
+    entities:
+      '0': H4sIAAAAAAAA/41TPW/TUBR9adLUNTAiITFQPkYiOUnjpEhVcBsncRTbzUeT2Ev0Er8kbp+d4I8Wm4WlAyO/gQGpAxMDWysGRiYk2BhRVSSGjiw8J3YpQkhYsnTvefcc+95zHw1AHFyToIE6uq0PMAIgQFa3oI12MHTCfLllQIwXcaKsWyGc4CzDDhmCeXCpEIuDpAitfWQtkpUKnh7q5jgopQHNuxhZnDnGiAZUnS+3+3W+kgSx3snLr5V7nx73SayA8CGxGuGEnKjyXCmovXL+R20Ug0iba4pz7Q/dW+cvdg7+0g7xQHtLLin/qb3aFCrVS/HiN/fGUfH+j4BQPP54dvHs+8Vc/Ozuz4e3j+/8JoSdFv/RaYTPP0FGikxnankUWN6u8q02SEiyxFOLIUTJilwuVzkpzEnXIidIAUCBJV0DNw3dREMLjpxHMww9ZPUnCGoxojh1TSdGg7gDx8SU1r6LsXxoIovwBA08yLOFdC6TYVLZQjqTWs+yWmqDGRVS2Qy7XmDzWn4wZAhvx5rOkOXoyF4FlIOeOq6FbDrwnfx1B2IXgbfIqzFqb8JovRoeegJL8naLwbKwN8sLZscbbAusYJDzKsfWvY0rtTkHdnNYydYmqtlwB0aHqWebGFWb6aGxeyB3FUYqqRO5ouTEvTGj+IqnZJR1tdTIiV1VVyuCL/oTQy2JObVb08mLRb+D5fZuTvFrhuI3DckfZwgvK7UFTyUcwUxvjBqbm3OXVzTdDqZGRh7cEXC9Cy2TLPJaHRozAJZAsgQNOEbkApAS4m3r0qIyz4d+gYgdf/96GGzldAgdfWomAdVLyaORjZyT01ef6c0nZAUoNYLevGucH60FkBJBXxaLsgziCjw8fR7EvwAnvhKFwQMAAA==
+      '1': H4sIAAAAAAAA/3VSy07CQBS9SIER94atsm6CoOGxwWIfkEAhQlTYkClMsbGPpB0w+gcuXfkX/oIxMcalC/fGtV9g3DiFqRgMXbTnnnvOmd6ZSQPEYUvHDjmxAsuwCUDIbNZwQDo2prxOdB1s2wzG4iColk84lHwn4I6GO/tNYK1kC/sXxF80U5rtXVruJKzSkFamNvEld2KTNKCmovaGTUVLQuzs4fZd2307HDLcB/4wPIh4ZhbqiiTPtV873z1ZzKxqIwxRtnTcmuufTzOfN53Zv2zOh9m1ttwPtX/667I3jxtafRn++ti5e0G1VUN1Gc4NfNLqmkkjfr4E21LiUs+/QpA4qivdHgh6W1f4JiDYsMaw7VguGfnYpJWAei4ZGlPKvjHm8KYujW1AUsYOnoTHgiDVVtW6pMuLIASoJTX0v4TA/q/7W6iKwtdkXiG8JZDLNq3JOa0UciXDKBaIaJqFkrifY6/SuLgvlstGfnxQzB/k93DFM81seAzeCFPLc5OAzsS2aQaELmdGA049PF1/aPeZkOpH1MtClYB4H18u8A+Paf1tsgIAAA==
+  placeAbleSide: TOP

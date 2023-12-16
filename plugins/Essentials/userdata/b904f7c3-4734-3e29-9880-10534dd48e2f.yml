@@ -1,0 +1,24 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.78.181.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1688684071142
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688684569988
+  login: 1688682281546
+  kits:
+    diario: 1688683918989
+money: '7658.080'
+last-account-name: asjkdasjdhs
