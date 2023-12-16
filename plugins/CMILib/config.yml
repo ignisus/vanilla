@@ -34,7 +34,7 @@ RMCCommands:
   ConsoleLog: true
 Heads:
   # When processing head item stack we will apply owners name instead of letting game client to use its own
-  # This will change 'Zrips's head' to 'Zrips'
+  # This will change 'Zrips's head' to 'Head of Zrips'
   PlayerName: true
 Images:
   # Symbol to be used to create image fields

@@ -1,3 +1,9 @@
+cache/
+crash-reports/
+logs/
+plugins/update
+usercache.json
+#Worlds
 Mining/
 Earth/region/
 Earth_nether/
