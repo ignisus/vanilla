@@ -1,8 +1,10 @@
 cache/
 crash-reports/
 logs/
-plugins/update
+plugins/update/
 usercache.json
+usernamecache.json
+.console_history
 #Worlds
 Mining/
 Earth/region/
