@@ -2,16 +2,16 @@
 
 WorldLimit:
   worlds:
-    Tierra: -1
-    Tierra_nether: -1
-    Tierra_the_end: -1
+    Earth: -1
+    Earth_nether: -1
+    Earth_the_end: -1
     Mining: -1
   total:
     enable: false
     amount: -1
     global: false
 Projects:
-  Tierra:
+  Earth:
     cSandCastle: -1
     WirdowwScarecrow: -1
     cGlassDoubleDoorHandles: -1
@@ -114,7 +114,7 @@ Projects:
     SnowGolem: -1
     CandyCane: -1
     HumanSkeleton: -1
-  Tierra_nether:
+  Earth_nether:
     cSandCastle: -1
     WirdowwScarecrow: -1
     cGlassDoubleDoorHandles: -1
@@ -217,7 +217,7 @@ Projects:
     SnowGolem: -1
     CandyCane: -1
     HumanSkeleton: -1
-  Tierra_the_end:
+  Earth_the_end:
     cSandCastle: -1
     WirdowwScarecrow: -1
     cGlassDoubleDoorHandles: -1

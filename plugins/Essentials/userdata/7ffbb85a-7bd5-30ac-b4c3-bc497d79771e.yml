@@ -27,7 +27,7 @@ money: '60369.35480999999945694'
 last-account-name: Esparya
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -26384.02029362847
   y: 63.0
   z: -7763.400970175104
@@ -36,7 +36,7 @@ lastlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: -6590.699999988079
     y: 99.0
     z: -13844.471575310627
@@ -44,7 +44,7 @@ homes:
     pitch: 22.349517822265625
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 2438.7098653722355
   y: 79.0
   z: -6124.707454088924

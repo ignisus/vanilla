@@ -1,8 +1,8 @@
 chestData:
 - ==: ChestData
   playerUUID: f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
-  holographicTimer: Tierra;-1287.5;60.799999952316284;-7485.5
-  worldName: Tierra
+  holographicTimer: Earth;-1287.5;60.799999952316284;-7485.5
+  worldName: Earth
   as_timer_id: c21edfb4-7bb3-4ecc-8d38-de05ccd17fa3
   playerName: eldiosx
   isRemovedBlock: false
@@ -136,11 +136,11 @@ chestData:
   - null
   - null
   - null
-  chestLocation: Tierra;-1288.0;60.0;-7486.0
+  chestLocation: Earth;-1288.0;60.0;-7486.0
 - ==: ChestData
   playerUUID: e38b74c1-a31a-3225-a2cc-1e164af9d128
-  holographicTimer: Tierra;-27053.5;66.79999995231628;-9213.5
-  worldName: Tierra
+  holographicTimer: Earth;-27053.5;66.79999995231628;-9213.5
+  worldName: Earth
   as_timer_id: 03f7a8b2-f118-47b0-956c-983592dc34cb
   playerName: sebijuan
   isRemovedBlock: false
@@ -273,4 +273,4 @@ chestData:
         BLUE: 255
         GREEN: 255
   - null
-  chestLocation: Tierra;-27054.0;66.0;-9214.0
+  chestLocation: Earth;-27054.0;66.0;-9214.0

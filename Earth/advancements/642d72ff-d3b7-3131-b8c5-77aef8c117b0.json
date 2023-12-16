@@ -1,0 +1,27 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-10-29 23:27:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-10-29 23:27:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-10-29 23:27:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-10-29 23:27:40 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

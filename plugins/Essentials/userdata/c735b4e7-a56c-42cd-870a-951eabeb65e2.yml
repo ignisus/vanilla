@@ -24,7 +24,7 @@ money: '46225.4406999999951058'
 last-account-name: zencare4k
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -1200.906678337807
   y: 63.0
   z: -7579.836519583437
@@ -32,7 +32,7 @@ logoutlocation:
   pitch: 14.54994010925293
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -1194.5999588303816
   y: 64.0
   z: -7636.994842635656
@@ -41,7 +41,7 @@ lastlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: -1153.9328701252275
     y: 65.0
     z: -7669.443921286938

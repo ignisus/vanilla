@@ -46,10 +46,10 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Tierra_the_end:
+  Earth_the_end:
     ==: MVWorld
     hidden: 'false'
-    alias: Tierra_the_end
+    alias: Earth_the_end
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -93,10 +93,10 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Tierra_nether:
+  Earth_nether:
     ==: MVWorld
     hidden: 'false'
-    alias: Tierra_nether
+    alias: Earth_nether
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -140,10 +140,10 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  Tierra:
+  Earth:
     ==: MVWorld
     hidden: 'false'
-    alias: Tierra
+    alias: Earth
     color: WHITE
     style: NORMAL
     pvp: 'true'

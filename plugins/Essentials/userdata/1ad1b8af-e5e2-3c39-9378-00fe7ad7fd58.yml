@@ -25,7 +25,7 @@ last-account-name: Manueh585_
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: 2403.745991187437
     y: 79.0
     z: -6188.403682275361
@@ -33,7 +33,7 @@ homes:
     pitch: 27.00006866455078
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 2368.1763660261795
   y: 79.0
   z: -6076.468217262028

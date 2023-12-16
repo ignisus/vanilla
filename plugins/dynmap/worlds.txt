@@ -9,7 +9,7 @@ worlds:
   # Worlds can be handled by templates, based on world type
   # You can override the properties of the template by specifying them in this section
   #    for example 'Title: "My Awesome World"'
-  - name: Tierra
+  - name: Earth
     title: "La Tierra"
     extrazoomout: 2
   #   Use sendposition: false to prevent player positions from showing when on this world (if sendposition is globally enabled)
@@ -74,11 +74,11 @@ worlds:
         lighting: shadows
         showborder: false
         mapzoomin: 1
-  - name: Tierra_nether
-    title: "Tierra_nether"
+  - name: Earth_nether
+    title: "Earth_nether"
     enabled: false
-  - name: Tierra_the_end
-    title: "Tierra_the_end"
+  - name: Earth_the_end
+    title: "Earth_the_end"
     enabled: false
   - name: Mining
     title: "Recursos"

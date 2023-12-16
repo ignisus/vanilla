@@ -24,7 +24,7 @@ money: '173200.0'
 last-account-name: DennisKarba
 lastlocation:
   world: 2021cd60-dc50-4358-931a-ccc7310a3ae4
-  world-name: Tierra_nether
+  world-name: Earth_nether
   x: -136.30000001192093
   y: 72.0
   z: 55.4467748479412
@@ -33,7 +33,7 @@ lastlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: 2918.5432656200283
     y: 66.0
     z: -8664.102597376957
@@ -41,7 +41,7 @@ homes:
     pitch: 12.591764450073242
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 2908.303696637235
   y: 66.0
   z: -8672.419613316095

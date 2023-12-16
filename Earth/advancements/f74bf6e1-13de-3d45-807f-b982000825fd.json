@@ -1,0 +1,27 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-11-04 18:22:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-11-04 18:22:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-11-04 18:22:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-11-04 18:22:13 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

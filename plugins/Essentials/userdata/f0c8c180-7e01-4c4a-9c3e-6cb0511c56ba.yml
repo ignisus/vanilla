@@ -27,7 +27,7 @@ last-account-name: eldiosx
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: -1204.6207261659792
     y: 70.0
     z: -7638.055170621479
@@ -35,7 +35,7 @@ homes:
     pitch: 11.549768447875977
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -1197.3940490309699
   y: 64.0
   z: -7639.212664335541
@@ -43,7 +43,7 @@ logoutlocation:
   pitch: 5.399592399597168
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -1852.03653670643
   y: 36.0
   z: -7554.767052683067

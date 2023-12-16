@@ -22,7 +22,7 @@ money: '1730.0'
 last-account-name: SrNes
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 2959.5454953894923
   y: 63.0
   z: -7350.248845292158
@@ -31,7 +31,7 @@ lastlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: -1825.8636203446838
     y: 65.0
     z: -7598.174847472825
@@ -39,7 +39,7 @@ homes:
     pitch: 33.29930877685547
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -1450.9892301257803
   y: 97.0
   z: -7782.635806364956

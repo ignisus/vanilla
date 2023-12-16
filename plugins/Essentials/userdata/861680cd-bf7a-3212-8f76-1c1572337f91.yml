@@ -25,7 +25,7 @@ money: '16723.635'
 last-account-name: Miguexino
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -1247.3764535085818
   y: 63.0
   z: -7599.597135140791
@@ -33,7 +33,7 @@ lastlocation:
   pitch: 25.350122451782227
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -1207.1489217450473
   y: 71.0
   z: -7641.724750078333
@@ -42,7 +42,7 @@ logoutlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: -1156.7597702096962
     y: 67.0
     z: -7673.564108355527

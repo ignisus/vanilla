@@ -22,7 +22,7 @@ money: '0'
 last-account-name: eldiosx
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 28649.734487604805
   y: 92.0
   z: -7332.50982648843
@@ -30,7 +30,7 @@ logoutlocation:
   pitch: 6.89999532699585
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 2957.6213239958547
   y: 63.5
   z: -7314.849386058027

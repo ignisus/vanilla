@@ -1,0 +1,27 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-10-13 06:04:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-10-13 06:04:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2021-10-13 06:04:18 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-10-13 06:04:28 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

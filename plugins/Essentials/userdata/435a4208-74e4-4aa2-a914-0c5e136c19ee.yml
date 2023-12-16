@@ -24,7 +24,7 @@ money: '0.7666900000007557'
 last-account-name: CarlosYisuX
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 29585.901772563197
   y: 6.0
   z: -8683.63083028308
@@ -32,7 +32,7 @@ logoutlocation:
   pitch: 10.518247604370117
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 29314.92755362041
   y: 13.0
   z: -8839.60703269943
@@ -41,7 +41,7 @@ lastlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: -6570.073811235143
     y: 99.0
     z: -13826.476882792429

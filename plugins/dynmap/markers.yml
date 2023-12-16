@@ -14,7 +14,7 @@ sets:
         label: Markers
         markers:
             marker_5:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: -7701.0
                 icon: pin
@@ -22,7 +22,7 @@ sets:
                 z: -14870.0
                 label: Greenland
             marker_6:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 3030.0
                 icon: pin
@@ -30,7 +30,7 @@ sets:
                 z: -7579.0
                 label: Italy
             marker_7:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 2911.0
                 icon: portal
@@ -38,7 +38,7 @@ sets:
                 z: -7384.0
                 label: Nether
             marker_8:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: -1303.0
                 icon: beer
@@ -46,7 +46,7 @@ sets:
                 z: -7519.0
                 label: Chiringuito
             marker_9:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 29422.0
                 icon: cart
@@ -54,7 +54,7 @@ sets:
                 z: -8670.0
                 label: Mercadona
             marker_12:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 29416.0
                 icon: bookshelf
@@ -62,7 +62,7 @@ sets:
                 z: -8704.0
                 label: Bookstore
             marker_13:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 29562.0
                 icon: fire
@@ -70,7 +70,7 @@ sets:
                 z: -8880.0
                 label: Army
             marker_10:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 29541.0
                 icon: truck
@@ -78,7 +78,7 @@ sets:
                 z: -8668.0
                 label: Vehicles
             marker_21:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 28042.0
                 icon: pin
@@ -86,7 +86,7 @@ sets:
                 z: -7412.0
                 label: Japan
             marker_11:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 29447.0
                 icon: dog
@@ -94,7 +94,7 @@ sets:
                 z: -8639.0
                 label: PetShop
             marker_1:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 28650.0
                 icon: tower
@@ -102,7 +102,7 @@ sets:
                 z: -7377.0
                 label: Ignisus
             marker_2:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 294.0
                 icon: drink
@@ -110,7 +110,7 @@ sets:
                 z: -7971.0
                 label: Ibiza
             marker_20:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: -1131.0
                 icon: pin
@@ -118,7 +118,7 @@ sets:
                 z: -8267.0
                 label: Spain
             marker_3:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 30978.0
                 icon: temple
@@ -126,7 +126,7 @@ sets:
                 z: 6951.0
                 label: SydneyOperaHouse
             marker_4:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: -6573.0
                 icon: tower
@@ -134,7 +134,7 @@ sets:
                 z: -13827.0
                 label: Terminus
             marker_18:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 459.0
                 icon: temple
@@ -142,7 +142,7 @@ sets:
                 z: -9775.0
                 label: EiffelTower
             marker_19:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: -15151.0
                 icon: temple
@@ -150,7 +150,7 @@ sets:
                 z: -8323.0
                 label: StatueOfLiberty
             marker_16:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: -1185.0
                 icon: pin
@@ -158,7 +158,7 @@ sets:
                 z: -7654.0
                 label: Seville
             marker_17:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 28848.0
                 icon: bighouse
@@ -166,7 +166,7 @@ sets:
                 z: -8139.0
                 label: Raimon
             marker_14:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 29199.0
                 icon: star
@@ -174,7 +174,7 @@ sets:
                 z: -8888.0
                 label: Magicstore
             marker_15:
-                world: Tierra
+                world: Earth
                 markup: false
                 x: 29289.0
                 icon: hammer

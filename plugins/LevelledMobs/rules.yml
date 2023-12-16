@@ -521,7 +521,7 @@ custom-rules:
     use-preset: extreme_challenge, spawn_Levelling, nametag_using_numbers
     conditions:
       worlds:
-        allowed-list: ['Tierra_nether', 'Tierra_the_end']
+        allowed-list: ['Earth_nether', 'Earth_the_end']
       
   - enabled: false
     name: 'CR - Custom Nether Levelling'
@@ -545,7 +545,7 @@ custom-rules:
   - enabled: false
     name: 'CR - Custom Zombie Piglin Levelling'
     conditions:
-      worlds: ['Tierra_the_end']
+      worlds: ['Earth_the_end']
       entities: 'ENDER_DRAGON'
     strategies:
       random: true

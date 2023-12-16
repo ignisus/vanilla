@@ -78,7 +78,7 @@ regions:
             mob-spawning: deny, natural-hunger-drain: deny, enderpearl: deny, item-drop: deny,
             creeper-explosion: deny, exp-drops: deny, fall-damage: deny, item-frame-rotation: deny,
             item-pickup: allow, potion-splash: deny, tnt: deny, greeting-title: §2Planeta
-                Tierra, ghast-fireball: deny, farewell-title: Guiate con el mapa online,
+                Earth, ghast-fireball: deny, farewell-title: Guiate con el mapa online,
             entity-item-frame-destroy: deny, farewell: 'Tienes el manual y el mapa
                 online en nuestra web:§b https://map.ignisus.org/'}
         owners: {}

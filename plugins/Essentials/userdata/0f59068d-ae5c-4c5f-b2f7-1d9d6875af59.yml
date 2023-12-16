@@ -24,7 +24,7 @@ money: '200013334.0'
 last-account-name: HuggoSan
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -6485.275603514653
   y: 63.0
   z: -13761.13594670391
@@ -32,7 +32,7 @@ lastlocation:
   pitch: 7.049801349639893
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: 2912.2552938626927
   y: 71.0
   z: -8658.506289091863
@@ -41,7 +41,7 @@ logoutlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: 2916.3479382171527
     y: 71.0
     z: -8650.817550334817

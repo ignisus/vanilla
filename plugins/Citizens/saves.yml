@@ -29,7 +29,7 @@ npc:
         updateSkins: false
       location:
         bodyYaw: 19.00853
-        world: Tierra
+        world: Earth
         x: '29448.5591'
         y: '6.0'
         z: '-8659.3927'
@@ -87,7 +87,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -115.59122
-        world: Tierra
+        world: Earth
         x: '29234.3'
         y: '6.0'
         z: '-8832.3'
@@ -149,7 +149,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: 91.55
-        world: Tierra
+        world: Earth
         x: '29481.7213'
         y: '6.0'
         z: '-8689.0552'
@@ -234,7 +234,7 @@ npc:
         updateSkins: false
       location:
         bodyYaw: 126.78726
-        world: Tierra
+        world: Earth
         x: '29661.2415'
         y: '6.0625'
         z: '-8663.0466'
@@ -286,7 +286,7 @@ npc:
         uuid: 3d39bc34-4d98-37c2-8ce1-e874d12cc51d
       location:
         bodyYaw: -178.15346
-        world: Tierra
+        world: Earth
         x: '28650.8269'
         y: '68.0'
         z: '-7444.7865'
@@ -387,7 +387,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: 107.08942
-        world: Tierra
+        world: Earth
         x: '29429.4006'
         y: '6.0'
         z: '-8804.0123'
@@ -474,7 +474,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -13.347565
-        world: Tierra
+        world: Earth
         x: '29213.7792'
         y: '228.0'
         z: '-8818.8056'
@@ -510,7 +510,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: 131.74042
-        world: Tierra
+        world: Earth
         x: '29346.4677'
         y: '6.0'
         z: '-8675.0202'
@@ -570,7 +570,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -26.682922
-        world: Tierra
+        world: Earth
         x: '29344.4357'
         y: '6.0'
         z: '-8677.0153'
@@ -629,7 +629,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -161.36305
-        world: Tierra
+        world: Earth
         x: '29411.7942'
         y: '6.0'
         z: '-8905.1545'
@@ -726,7 +726,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -44.01836
-        world: Tierra
+        world: Earth
         x: '2954.5922'
         y: '66.0'
         z: '-7352.2836'
@@ -787,7 +787,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -51.25989
-        world: Tierra
+        world: Earth
         x: '29208.694'
         y: '207.0'
         z: '-8847.888'
@@ -839,7 +839,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: 4.9242096
-        world: Tierra
+        world: Earth
         x: '29405.5'
         y: '7.0'
         z: '-8876.5'
@@ -937,7 +937,7 @@ npc:
         respawnTime: 100
         chaseRange: 100.0
         spawnPoint:
-          world: Tierra
+          world: Earth
           x: '29405.5'
           y: '7.0'
           z: '-8876.5'
@@ -994,7 +994,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: 173.96924
-        world: Tierra
+        world: Earth
         x: '29062.5'
         y: '7.0'
         z: '-8580.5'
@@ -1102,7 +1102,7 @@ npc:
         respawnTime: 100
         chaseRange: 100.0
         spawnPoint:
-          world: Tierra
+          world: Earth
           x: '29062.5'
           y: '7.0'
           z: '-8580.5'
@@ -1178,7 +1178,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: 157.15477
-        world: Tierra
+        world: Earth
         x: '29051.1921'
         y: '6.0'
         z: '-8883.2806'
@@ -1219,7 +1219,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -88.53317
-        world: Tierra
+        world: Earth
         x: '28977.0943'
         y: '34.0'
         z: '-8745.5239'
@@ -1295,7 +1295,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -177.10968
-        world: Tierra
+        world: Earth
         x: '29679.5815'
         y: '6.0'
         z: '-8591.4083'
@@ -1337,7 +1337,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -22.041748
-        world: Tierra
+        world: Earth
         x: '29652.3632'
         y: '37.0'
         z: '-8924.7081'
@@ -1395,7 +1395,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: 54.241882
-        world: Tierra
+        world: Earth
         x: '29340.3575'
         y: '2.0'
         z: '-9185.0594'
@@ -1454,7 +1454,7 @@ npc:
       type: PLAYER
       location:
         bodyYaw: -170.88547
-        world: Tierra
+        world: Earth
         x: '29651.5'
         y: '6.0'
         z: '-9178.5'
@@ -1535,7 +1535,7 @@ npc:
         respawnTime: 100
         chaseRange: 100.0
         spawnPoint:
-          world: Tierra
+          world: Earth
           x: '29651.5'
           y: '6.0'
           z: '-9178.5'
@@ -1608,7 +1608,7 @@ npc:
         right-sleeve: true
       location:
         bodyYaw: -8.121512
-        world: Tierra
+        world: Earth
         x: '-27082.6703'
         y: '72.0'
         z: '-9253.1775'
@@ -1704,7 +1704,7 @@ npc:
         viewRange: -1
       location:
         bodyYaw: 112.96663
-        world: Tierra
+        world: Earth
         x: '259.9161'
         y: '63.0'
         z: '-7967.103'
@@ -1760,7 +1760,7 @@ npc:
         updateSkins: false
       location:
         bodyYaw: 27.765217
-        world: Tierra
+        world: Earth
         x: '251.7774'
         y: '63.0'
         z: '-7976.1481'
@@ -1810,7 +1810,7 @@ npc:
         updateSkins: false
       location:
         bodyYaw: -122.53375
-        world: Tierra
+        world: Earth
         x: '249.4033'
         y: '63.0'
         z: '-7965.9578'
@@ -1865,7 +1865,7 @@ npc:
         updateSkins: false
       location:
         bodyYaw: 69.46506
-        world: Tierra
+        world: Earth
         x: '246.2454'
         y: '63.0'
         z: '-7973.8115'
@@ -1921,7 +1921,7 @@ npc:
         updateSkins: false
       location:
         bodyYaw: -89.381645
-        world: Tierra
+        world: Earth
         x: '239.7'
         y: '64.0'
         z: '-7971.0576'
@@ -1994,7 +1994,7 @@ npc:
           '1': 360.0
       location:
         bodyYaw: -115.31213
-        world: Tierra
+        world: Earth
         x: '267.1135'
         y: '63.0'
         z: '-7965.6982'
@@ -2055,7 +2055,7 @@ npc:
           '1': 360.0
       location:
         bodyYaw: 99.163635
-        world: Tierra
+        world: Earth
         x: '-1132.003'
         y: '90.0'
         z: '-8262.6423'
@@ -2117,7 +2117,7 @@ npc:
           '1': 360.0
       location:
         bodyYaw: -85.51727
-        world: Tierra
+        world: Earth
         x: '-1134.7'
         y: '90.0'
         z: '-8263.0659'
@@ -2175,7 +2175,7 @@ npc:
       spawned: true
       location:
         bodyYaw: -171.97964
-        world: Tierra
+        world: Earth
         x: '29542.5'
         y: '6.0'
         z: '-8644.5'
@@ -2226,7 +2226,7 @@ npc:
       spawned: true
       location:
         bodyYaw: -32.45607
-        world: Tierra
+        world: Earth
         x: '29542.5'
         y: '6.0'
         z: '-8689.5'
@@ -2277,7 +2277,7 @@ npc:
       spawned: true
       location:
         bodyYaw: 136.85583
-        world: Tierra
+        world: Earth
         x: '29542.5'
         y: '17.0'
         z: '-8644.5'
@@ -2328,7 +2328,7 @@ npc:
       spawned: true
       location:
         bodyYaw: 94.99878
-        world: Tierra
+        world: Earth
         x: '29542.5'
         y: '17.0'
         z: '-8689.5'
@@ -2379,7 +2379,7 @@ npc:
       spawned: true
       location:
         bodyYaw: 98.34891
-        world: Tierra
+        world: Earth
         x: '29542.5'
         y: '12.0'
         z: '-8689.5'
@@ -2430,7 +2430,7 @@ npc:
       spawned: true
       location:
         bodyYaw: 85.88179
-        world: Tierra
+        world: Earth
         x: '29542.5'
         y: '12.0'
         z: '-8644.5'
@@ -2457,7 +2457,7 @@ npc:
     traits:
       location:
         bodyYaw: -73.435295
-        world: Tierra
+        world: Earth
         x: '29538.5'
         y: '6.5'
         z: '-8687.5'
@@ -2530,7 +2530,7 @@ npc:
           '1': 360.0
       location:
         bodyYaw: 120.924805
-        world: Tierra
+        world: Earth
         x: '29654.3603'
         y: '6.0'
         z: '-9174.1487'
@@ -2575,7 +2575,7 @@ npc:
       spawned: true
       location:
         bodyYaw: 149.81276
-        world: Tierra
+        world: Earth
         x: '-27275.5'
         y: '-50.5'
         z: '-6718.5'
@@ -2613,7 +2613,7 @@ npc:
     traits:
       sittrait:
         sittingAt:
-          world: Tierra
+          world: Earth
           x: '28956.5679'
           y: '69.7'
           z: '-7874.3671'
@@ -2621,7 +2621,7 @@ npc:
           pitch: '11.4'
       location:
         bodyYaw: 91.63431
-        world: Tierra
+        world: Earth
         x: '28956.5679'
         y: '69.1'
         z: '-7874.3671'
@@ -2653,7 +2653,7 @@ npc:
     traits:
       location:
         bodyYaw: 89.87535
-        world: Tierra
+        world: Earth
         x: '28954.537'
         y: '70.0'
         z: '-7872.8897'
@@ -2712,7 +2712,7 @@ npc:
     traits:
       location:
         bodyYaw: -42.360107
-        world: Tierra
+        world: Earth
         x: '29065.7466'
         y: '37.0'
         z: '-9228.2591'
@@ -2741,7 +2741,7 @@ npc:
     traits:
       location:
         bodyYaw: -179.67862
-        world: Tierra
+        world: Earth
         x: '28981.5772'
         y: '6.0'
         z: '-9030.7358'
@@ -2788,7 +2788,7 @@ npc:
     traits:
       location:
         bodyYaw: -9.434631
-        world: Tierra
+        world: Earth
         x: '29040.99'
         y: '7.0625'
         z: '-8915.2607'
@@ -2818,7 +2818,7 @@ npc:
     traits:
       location:
         bodyYaw: -45.7265
-        world: Tierra
+        world: Earth
         x: '29192.4679'
         y: '10.0'
         z: '-9313.4305'
@@ -2848,7 +2848,7 @@ npc:
     traits:
       location:
         bodyYaw: 89.72296
-        world: Tierra
+        world: Earth
         x: '29437.6344'
         y: '6.0'
         z: '-8691.2119'
@@ -2895,7 +2895,7 @@ npc:
     traits:
       location:
         bodyYaw: 143.0415
-        world: Tierra
+        world: Earth
         x: '29495.7'
         y: '12.0'
         z: '-8618.3'
@@ -2927,7 +2927,7 @@ npc:
       spawned: true
       location:
         bodyYaw: -60.860565
-        world: Tierra
+        world: Earth
         x: '29411.0517'
         y: '6.0'
         z: '-8676.6062'
@@ -2956,7 +2956,7 @@ npc:
       spawned: true
       location:
         bodyYaw: -170.9917
-        world: Tierra
+        world: Earth
         x: '29569.0203'
         y: '6.0'
         z: '-8885.0228'
@@ -2985,7 +2985,7 @@ npc:
       spawned: true
       location:
         bodyYaw: -174.84326
-        world: Tierra
+        world: Earth
         x: '29569.8785'
         y: '6.0'
         z: '-8884.7451'
@@ -3015,7 +3015,7 @@ npc:
       spawned: true
       location:
         bodyYaw: -160.76236
-        world: Tierra
+        world: Earth
         x: '29429.2387'
         y: '6.0'
         z: '-8675.8631'
@@ -3045,7 +3045,7 @@ npc:
       spawned: true
       location:
         bodyYaw: 89.74609
-        world: Tierra
+        world: Earth
         x: '29410.9282'
         y: '6.0'
         z: '-8703.396'

@@ -4,7 +4,7 @@ name: Ignisus
 description: 'ADMINS '
 open: false
 pvp: false
-home: Tierra:-1156.006424391071:66.0:-7671.620658285748:-54.336304:17.699768
+home: Earth:-1156.006424391071:66.0:-7671.620658285748:-54.336304:17.699768
 color: '4'
 chests: []
 players:
@@ -19,7 +19,7 @@ tag: Ignisus
 money: 1000000.0
 score: 0
 warps:
-- Ignisus;Tierra:28650.807971001574:77.0:-7383.5678876714155:3.4000244:10.518032
+- Ignisus;Earth:28650.807971001574:77.0:-7383.5678876714155:3.4000244:10.518032
 echest:
   '0':
     ==: org.bukkit.inventory.ItemStack

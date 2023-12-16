@@ -666,9 +666,9 @@ Location:
   Pitch: '&ePitch: &6[pitch]'
   Yaw: '&eYaw: &6[yaw]'
   WorldNames:
-  - Tierra-&2Tierra
-  - Tierra_nether-&2Tierra Nether
-  - Tierra_the_end-&2Tierra The End
+  - Earth-&2Earth
+  - Earth_nether-&2Earth Nether
+  - Earth_the_end-&2Earth The End
   - Mining-&2Mining
 Locations: '&7Locations: '
 command:

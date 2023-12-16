@@ -24,7 +24,7 @@ money: '232655.2863479999970444'
 last-account-name: WORLDcodGAMER
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Tierra
+  world-name: Earth
   x: -6557.539325840605
   y: 96.0
   z: -13872.701557466378
@@ -33,7 +33,7 @@ logoutlocation:
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-    world-name: Tierra
+    world-name: Earth
     x: -6554.634654553122
     y: 111.0
     z: -13866.700012229816

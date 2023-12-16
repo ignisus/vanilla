@@ -488,7 +488,7 @@ RockPaperScissors menu description:
 - '&8Piedra &f⚔ &7Tijeras'
 - '&8Piedra &f⚔ &cFuego'
 - '&7Tijeras &f⚔ &fPapeL'
-- '&7Tijeras &f⚔ &aTierra'
+- '&7Tijeras &f⚔ &aEarth'
 - '&fPapel &f⚔ &8Piedra'
 - '&fPapel &f⚔ &bAgua'
 - '&bAgua &f⚔ &8Piedra'
@@ -496,10 +496,10 @@ RockPaperScissors menu description:
 - '&bAgua &f⚔ &cFuego'
 - '&cFuego &f⚔ &7Tijeras'
 - '&cFuego &f⚔ &fPapel'
-- '&cFuego &f⚔ &aTierra'
-- '&aTierra &f⚔ &8Piedra'
-- '&aTierra &f⚔ &fPapel'
-- '&aTierra &f⚔ &bAgua'
+- '&cFuego &f⚔ &aEarth'
+- '&aEarth &f⚔ &8Piedra'
+- '&aEarth &f⚔ &fPapel'
+- '&aEarth &f⚔ &bAgua'
 
 
 # ➥ DESCRIPCIÓN DE FIGURAS EN PIEDRA, PAPEL Y TIJERAS
@@ -520,7 +520,7 @@ RockPaperScissors scissors title: '&7✂ &lTIJERAS&r &7✂'
 RockPaperScissors scissors description:
 - '&a&lCombinaciones:'
 - '&7Tijeras &f⚔ &fPapel'
-- '&7Tijeras &f⚔ &aTierra'
+- '&7Tijeras &f⚔ &aEarth'
 
 RockPaperScissors well title: '&b☔ &lAGUA&r &b☔'
 RockPaperScissors well description:
@@ -534,14 +534,14 @@ RockPaperScissors fire description:
 - '&a&lCombinaciones:'
 - '&cFuego &f⚔ &7Tijeras'
 - '&cFuego &f⚔ &fPapel'
-- '&cFuego &f⚔ &aTierra'
+- '&cFuego &f⚔ &aEarth'
 
 RockPaperScissors tree title: '&a❀ &lTIERRA&r &a❀'
 RockPaperScissors tree description:
 - '&a&lCombinaciones:'
-- '&aTierra &f⚔ &8Piedra'
-- '&aTierra &f⚔ &fPapel'
-- '&aTierra &f⚔ &bAgua'
+- '&aEarth &f⚔ &8Piedra'
+- '&aEarth &f⚔ &fPapel'
+- '&aEarth &f⚔ &bAgua'
 
 RockPaperScissors score number title: '&fPuntaje &a%player% &f➠ &a%score% ✪'
 RockPaperScissors score number description: []

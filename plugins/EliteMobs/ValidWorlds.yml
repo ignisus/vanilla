@@ -7,7 +7,7 @@ zoneBasedWorlds: []
 # https://github.com/MagmaGuy/EliteMobs/wiki/%5BGame-Mode%5D-Nightmare-mode
 nightmareWorlds: []
 Valid worlds:
-  Tierra: true
-  Tierra_nether: true
-  Tierra_the_end: true
+  Earth: true
+  Earth_nether: true
+  Earth_the_end: true
   Mining: true

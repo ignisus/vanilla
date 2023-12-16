@@ -21,7 +21,7 @@ prevent-block-place: false
 prevent-mob-spawn: false
 no-players-toggle: false
 worlds:
-  Tierra:
+  Earth:
     x: -0.5
     z: -0.5
     radiusX: 36864

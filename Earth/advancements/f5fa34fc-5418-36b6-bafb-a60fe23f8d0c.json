@@ -1,0 +1,21 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-11-01 04:05:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-11-01 04:05:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-11-01 04:05:59 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

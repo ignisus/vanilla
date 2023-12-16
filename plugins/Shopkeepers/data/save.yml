@@ -3,7 +3,7 @@
 data-version: 3|2|3578
 '5':
   uniqueId: 6f3b4d69-e3c9-4c92-8efa-c6f13640a7cc
-  world: Tierra
+  world: Earth
   x: 29199
   y: 6
   z: -8894
@@ -196,7 +196,7 @@ data-version: 3|2|3578
   snapshots: []
 '6':
   uniqueId: 47c0bc08-a11c-41d0-a0a5-6934be696b00
-  world: Tierra
+  world: Earth
   x: 29408
   y: 6
   z: -8669
@@ -260,7 +260,7 @@ data-version: 3|2|3578
   snapshots: []
 '9':
   uniqueId: 5b16adf1-6c00-4daa-b60f-45970e6550d4
-  world: Tierra
+  world: Earth
   x: 29408
   y: 6
   z: -8704
@@ -467,7 +467,7 @@ data-version: 3|2|3578
   snapshots: []
 '14':
   uniqueId: 58dccb62-bfcd-421f-b2e3-02407b6def54
-  world: Tierra
+  world: Earth
   x: 29065
   y: 8
   z: -8590
@@ -802,7 +802,7 @@ data-version: 3|2|3578
   snapshots: []
 '22':
   uniqueId: 911edd7a-5499-469a-8cac-15d08d865986
-  world: Tierra
+  world: Earth
   x: 29705
   y: 7
   z: -8681
@@ -898,7 +898,7 @@ data-version: 3|2|3578
   snapshots: []
 '26':
   uniqueId: d06e580b-c16f-4c94-aefb-01d0946b2f63
-  world: Tierra
+  world: Earth
   x: 29551
   y: 6
   z: -8876
@@ -1417,7 +1417,7 @@ data-version: 3|2|3578
   snapshots: []
 '30':
   uniqueId: 2ac047ce-e034-4112-9d10-60276053d903
-  world: Tierra
+  world: Earth
   x: 29709
   y: 7
   z: -8657
@@ -1705,7 +1705,7 @@ data-version: 3|2|3578
   snapshots: []
 '31':
   uniqueId: 45bdfb45-3b48-4556-ae3f-c494c40316b0
-  world: Tierra
+  world: Earth
   x: 29413
   y: 6
   z: -8658
@@ -1842,7 +1842,7 @@ data-version: 3|2|3578
   snapshots: []
 '33':
   uniqueId: 8750b404-af87-4502-ae0f-b7c6e84fc953
-  world: Tierra
+  world: Earth
   x: 29421
   y: 6
   z: -8658
@@ -2078,7 +2078,7 @@ data-version: 3|2|3578
   snapshots: []
 '34':
   uniqueId: a54a944a-0f2a-4c31-94ad-5ba67da24580
-  world: Tierra
+  world: Earth
   x: 29492
   y: 6
   z: -8706
@@ -2257,7 +2257,7 @@ data-version: 3|2|3578
   snapshots: []
 '35':
   uniqueId: bab11830-c526-4d1d-bd86-82eb8e977838
-  world: Tierra
+  world: Earth
   x: 29417
   y: 6
   z: -8658
@@ -2628,7 +2628,7 @@ data-version: 3|2|3578
   snapshots: []
 '36':
   uniqueId: c83d1943-98cf-4fec-9f3c-fb80696c3d15
-  world: Tierra
+  world: Earth
   x: 29425
   y: 6
   z: -8658
@@ -3451,7 +3451,7 @@ data-version: 3|2|3578
   snapshots: []
 '37':
   uniqueId: 5a65267a-b2e0-4e1a-905a-f2f74bbf3778
-  world: Tierra
+  world: Earth
   x: 29429
   y: 6
   z: -8658
@@ -3644,7 +3644,7 @@ data-version: 3|2|3578
   snapshots: []
 '38':
   uniqueId: ab5c0d08-7ab3-4aee-a34d-381ad46bf514
-  world: Tierra
+  world: Earth
   x: 29408
   y: 6
   z: -8672
@@ -3713,7 +3713,7 @@ data-version: 3|2|3578
   snapshots: []
 '42':
   uniqueId: b4cbd826-3320-4f17-aba3-85c3d595c265
-  world: Tierra
+  world: Earth
   x: 29433
   y: 6
   z: -8658
@@ -4139,7 +4139,7 @@ data-version: 3|2|3578
   snapshots: []
 '43':
   uniqueId: 77fd8beb-24de-4f18-a37c-78f82b721394
-  world: Tierra_the_end
+  world: Earth_the_end
   x: 5
   y: 64
   z: 5
@@ -4235,7 +4235,7 @@ data-version: 3|2|3578
   snapshots: []
 '47':
   uniqueId: 7df7c53f-fbb5-4c2b-885b-e5a863eb02bc
-  world: Tierra
+  world: Earth
   x: 28622
   y: 76
   z: -7348
@@ -4262,7 +4262,7 @@ data-version: 3|2|3578
   snapshots: []
 '48':
   uniqueId: 4a8f6c44-050b-40f1-b87f-981f66c9b543
-  world: Tierra
+  world: Earth
   x: 28622
   y: 76
   z: -7350
@@ -4288,7 +4288,7 @@ data-version: 3|2|3578
   snapshots: []
 '49':
   uniqueId: c6e220c8-9ab8-4533-bf5e-31a91f1aa868
-  world: Tierra
+  world: Earth
   x: 28622
   y: 76
   z: -7346
@@ -4325,7 +4325,7 @@ data-version: 3|2|3578
   snapshots: []
 '50':
   uniqueId: 0e90a6b8-2e3b-4f3d-9a19-c01cf84f9c9e
-  world: Tierra
+  world: Earth
   x: 29499
   y: 6
   z: -8737
@@ -4974,7 +4974,7 @@ data-version: 3|2|3578
   snapshots: []
 '53':
   uniqueId: d6fd9ddc-6acd-4e78-b59a-2e4c074ce9f9
-  world: Tierra
+  world: Earth
   x: 29213
   y: 228
   z: -8819
@@ -5108,7 +5108,7 @@ data-version: 3|2|3578
   snapshots: []
 '54':
   uniqueId: 6d9f4d99-db7b-4f5e-86a0-f4e5df031216
-  world: Tierra
+  world: Earth
   x: 29424
   y: 6
   z: -8658
@@ -5248,7 +5248,7 @@ data-version: 3|2|3578
   snapshots: []
 '55':
   uniqueId: 717bd496-db3c-4f36-a9d1-d044312a01d8
-  world: Tierra
+  world: Earth
   x: 29426
   y: 6
   z: -8658
@@ -5425,7 +5425,7 @@ data-version: 3|2|3578
   snapshots: []
 '56':
   uniqueId: 2bbc1fe3-f39f-4257-b76b-9c6ba27b5676
-  world: Tierra
+  world: Earth
   x: -1305
   y: 63
   z: -7503
@@ -5629,7 +5629,7 @@ data-version: 3|2|3578
   snapshots: []
 '59':
   uniqueId: e467b366-42ca-4d73-9002-8bd3f2bc4102
-  world: Tierra
+  world: Earth
   x: 29542
   y: 6
   z: -8690
@@ -5794,7 +5794,7 @@ data-version: 3|2|3578
   snapshots: []
 '60':
   uniqueId: 9564c031-ca75-4753-adc8-5beb35444f9a
-  world: Tierra
+  world: Earth
   x: 29542
   y: 6
   z: -8645
@@ -5964,7 +5964,7 @@ data-version: 3|2|3578
   snapshots: []
 '61':
   uniqueId: ba75645d-e736-4d66-80cf-21df3f3de43d
-  world: Tierra
+  world: Earth
   x: 29542
   y: 12
   z: -8645
@@ -6127,7 +6127,7 @@ data-version: 3|2|3578
   snapshots: []
 '62':
   uniqueId: e67c792b-e487-4ac3-9a31-c755e7a911b4
-  world: Tierra
+  world: Earth
   x: 29542
   y: 12
   z: -8690
@@ -6287,7 +6287,7 @@ data-version: 3|2|3578
   snapshots: []
 '63':
   uniqueId: 1efd5d0b-a3e7-46bc-a8d8-5d895e387a00
-  world: Tierra
+  world: Earth
   x: 29542
   y: 17
   z: -8690
@@ -6374,7 +6374,7 @@ data-version: 3|2|3578
   snapshots: []
 '64':
   uniqueId: 4a9880b8-d09e-498c-846e-0019065980f9
-  world: Tierra
+  world: Earth
   x: 29542
   y: 17
   z: -8645
@@ -6466,7 +6466,7 @@ data-version: 3|2|3578
   snapshots: []
 '65':
   uniqueId: e6c5d74e-55f4-4e03-a844-141932166605
-  world: Tierra
+  world: Earth
   x: 29447
   y: 6
   z: -8632
@@ -6566,7 +6566,7 @@ data-version: 3|2|3578
   snapshots: []
 '66':
   uniqueId: 9732ca7c-194e-484b-95c5-53f0a49bfe5f
-  world: Tierra
+  world: Earth
   x: 29538
   y: 7
   z: -8688
@@ -6724,7 +6724,7 @@ data-version: 3|2|3578
   snapshots: []
 '68':
   uniqueId: 66f89431-22c1-4d4b-9d7d-510b49e7adbf
-  world: Tierra
+  world: Earth
   x: 29707
   y: 7
   z: -8670
@@ -6810,7 +6810,7 @@ data-version: 3|2|3578
   snapshots: []
 '69':
   uniqueId: a19f9572-112b-4122-88ee-4b7cc9ef17ba
-  world: Tierra
+  world: Earth
   x: 29654
   y: 6
   z: -9175
@@ -7006,7 +7006,7 @@ data-version: 3|2|3578
   snapshots: []
 '72':
   uniqueId: e0b9cd73-f450-4850-bf44-de027c82f589
-  world: Tierra
+  world: Earth
   x: 29205
   y: 100
   z: -8841
@@ -7111,7 +7111,7 @@ data-version: 3|2|3578
   snapshots: []
 '73':
   uniqueId: 5a62c264-7ae9-45c8-a547-1ddb656a656f
-  world: Tierra
+  world: Earth
   x: -27276
   y: -50
   z: -6719
@@ -7144,7 +7144,7 @@ data-version: 3|2|3578
   snapshots: []
 '74':
   uniqueId: e003fcb0-c42a-4dc2-ae34-452ec40325be
-  world: Tierra
+  world: Earth
   x: 29490
   y: 6
   z: -8679

@@ -1,0 +1,73 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-09-20 19:04:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-09-20 19:04:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-09-20 19:04:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-09-20 19:04:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-09-20 18:54:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-09-20 19:04:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-09-20 19:04:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-09-20 18:54:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-09-20 18:54:46 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-09-20 18:53:22 +0200",
+      "minecraft:forest": "2021-09-20 18:53:43 +0200",
+      "minecraft:beach": "2021-09-20 18:53:13 +0200",
+      "minecraft:river": "2021-09-20 18:53:37 +0200",
+      "minecraft:wooded_hills": "2021-09-20 18:55:58 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2021-09-20 18:55:58 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}
