@@ -77,7 +77,7 @@ chestData:
     meta:
       ==: ItemMeta
       meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/2WNsQ6CMBRFb0VUOjiQ+DOOooObie6mlAqV0pe0j6B/LwmYmLjd4ZxzJSCxPTjS7cmz5fdN1RssbIVdZ73RQT14H5vetSbcS3plSM9suigBLASWV0eMSch/BE9DqZwTSAvqPQvMqPhDdaAYSxokElZ1gtVRdao2Y3501kWjQm0qZMjneQn0NJqtMxGYqO8H8AGqYy4xzgAAAA==
+      internal: H4sIAAAAAAAA/2WNsQ6CMBRFb0VUOjiQ+DOOooObie6mlAqV0pe0j6B/L4loTLzTGc7JlYDEeudItwfPlp8XVa8wsxU2nfVGB3XjbWx615pwLemRIT2y6aIEMBOYnx0x3kH+E3gaSuWcQFpQ71lgUsWfqgPFWNLwVSUSVnWCxV51qjbjzxgvi0aF2lTIkE94CnQ3mq0zEZ+9AOYrZ2TOAAAA
       blockMaterial: SHULKER_BOX
   - ==: org.bukkit.inventory.ItemStack
     v: 3578
