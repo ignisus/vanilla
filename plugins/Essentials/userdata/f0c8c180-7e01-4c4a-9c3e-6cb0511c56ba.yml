@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 79.117.241.18
+ip-address: 86.127.225.199
 afk: false
 socialspy: false
 npc: false
@@ -11,18 +11,18 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1702776039679
+  lastteleport: 1703259433130
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1702776356231
-  login: 1702774443363
+  logout: 1703259438549
+  login: 1703258857681
   kits:
-    diario: 1698358903536
+    diario: 1703259435449
     hierro: 1689714772260
     netherita: 1698359172406
-money: '99967837943.2980899999990858'
+money: '99967842943.2980899999990858'
 last-account-name: eldiosx
 homes:
   home:
@@ -36,16 +36,16 @@ homes:
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: 28916.708221353147
-  y: 165.09342258739377
-  z: -7967.7994457620825
-  yaw: 33.202789306640625
-  pitch: 40.65107727050781
+  x: -1204.5
+  y: 70.0
+  z: -7638.5
+  yaw: -132.49200439453125
+  pitch: 10.949769973754883
 lastlocation:
-  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
-  world-name: Earth
-  x: 28769.997114405392
-  y: 69.9375
-  z: -7971.447651151441
-  yaw: -98.14291381835938
-  pitch: 7.199944496154785
+  world: 1f984a03-5c37-4d02-8afe-5057165fe5ea
+  world-name: Mining
+  x: -73.66989563683617
+  y: 119.0
+  z: -472.62415619831205
+  yaw: 172.1700439453125
+  pitch: -0.45016467571258545

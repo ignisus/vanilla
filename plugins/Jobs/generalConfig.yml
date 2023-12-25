@@ -435,6 +435,9 @@ ExploitProtections:
       # This prevents from killing monsters in one hit when they suffer in example fall damage
       Use: false
       Percentage: 60
+      # When enabled we will avoid checking damage done to ender dragon, wither and warden
+      # This can help out in case you have server with custom damage sources which might not be registered and payouts might not be given out
+      IgnoreBosses: true
   # McMMO abilities
   McMMO:
     # Players will get part of money from cutting trees with treefeller ability enabled.

@@ -1,19 +1,21 @@
-2023-12-19 21:19:42 [INFO]: Loading Overrides...
-2023-12-19 21:19:42 [WARNING]: The world `world` doesn't seem to exist! Please update `master_world's` override! Maybe there are capital letters?
-2023-12-19 21:19:42 [WARNING]: The world `world` doesn't seem to exist! Please update `creative_world's` override! Maybe there are capital letters?
-2023-12-19 21:19:42 [INFO]: Loading World Types...
-2023-12-19 21:19:42 [INFO]: - World Type for 'world' set to 'NORMAL'
-2023-12-19 21:19:42 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2023-12-19 21:19:42 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2023-12-19 21:19:42 [INFO]: Loading Defaults...
-2023-12-19 21:19:42 [INFO]: Loading Custom Worlds...
-2023-12-19 21:19:42 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2023-12-19 21:19:42 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2023-12-19 21:19:44 [INFO]: Database PLAYERS:Players configured and loaded!
-2023-12-19 21:19:44 [INFO]: Database QUEUE:Queue configured and loaded!
-2023-12-19 21:19:44 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2023-12-19 21:19:46 [INFO]: Attempting to queue up some more safe locations...
-2023-12-19 21:19:47 [WARNING]: Seems like the world `Earth_nether` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- Earth_nether: NETHER`
-2023-12-19 21:20:40 [INFO]: Max attempts to create a Queue reached for default_Earth_nether (amount: 0)
-2023-12-19 21:20:40 [INFO]: Queueing paused, max queue limit reached!
-2023-12-22 14:27:51 [INFO]: Disabling BetterRTP v3.6.11
+2023-12-22 15:04:05 [INFO]: Loading Overrides...
+2023-12-22 15:04:05 [WARNING]: The world `world` doesn't seem to exist! Please update `master_world's` override! Maybe there are capital letters?
+2023-12-22 15:04:05 [WARNING]: The world `world` doesn't seem to exist! Please update `creative_world's` override! Maybe there are capital letters?
+2023-12-22 15:04:05 [INFO]: Loading World Types...
+2023-12-22 15:04:05 [INFO]: - World Type for 'world' set to 'NORMAL'
+2023-12-22 15:04:05 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2023-12-22 15:04:05 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2023-12-22 15:04:05 [INFO]: Loading Defaults...
+2023-12-22 15:04:05 [INFO]: Loading Custom Worlds...
+2023-12-22 15:04:05 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2023-12-22 15:04:05 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2023-12-22 15:04:06 [INFO]: Database PLAYERS:Players configured and loaded!
+2023-12-22 15:04:06 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2023-12-22 15:04:06 [INFO]: Database QUEUE:Queue configured and loaded!
+2023-12-22 15:04:09 [INFO]: Attempting to queue up some more safe locations...
+2023-12-22 15:04:09 [WARNING]: Seems like the world `Earth_nether` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- Earth_nether: NETHER`
+2023-12-22 15:05:03 [INFO]: Max attempts to create a Queue reached for default_Earth_nether (amount: 0)
+2023-12-22 15:05:03 [INFO]: Queueing paused, max queue limit reached!
+2023-12-22 16:36:33 [INFO]: eldiosx executed: /rtp world Mining
+2023-12-22 16:36:33 [WARNING]: Seems like the world `Mining` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- Mining: NETHER`
+2023-12-22 16:36:33 [INFO]: -Removed a queue Location{world=CraftWorld{name=Mining},x=-44.5,y=121.0,z=-452.5,pitch=10.499851,yaw=76.92166}
