@@ -19,3 +19,4 @@
 2023-12-22 16:36:33 [INFO]: eldiosx executed: /rtp world Mining
 2023-12-22 16:36:33 [WARNING]: Seems like the world `Mining` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- Mining: NETHER`
 2023-12-22 16:36:33 [INFO]: -Removed a queue Location{world=CraftWorld{name=Mining},x=-44.5,y=121.0,z=-452.5,pitch=10.499851,yaw=76.92166}
+2023-12-25 17:56:38 [INFO]: Disabling BetterRTP v3.6.11
