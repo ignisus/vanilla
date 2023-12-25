@@ -5,6 +5,7 @@ plugins/update/
 usercache.json
 usernamecache.json
 ops.json
+version_history.json
 .console_history
 #Worlds
 Mining/
