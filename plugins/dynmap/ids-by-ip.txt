@@ -1,30 +1,15 @@
 %YAML 1.1
 ---
-'81_40_242_52':
-- zencare4k
-- sebijuan
 '46_234_128_251':
 - WORLDcodGAMER
 '46_234_128_137':
 - WORLDcodGAMER
-'90_167_167_102':
-- eldiosx
 '84_78_245_27':
 - eldiosx
-'84_78_244_12':
-- Sisternita452
-'213_194_147_200':
-- WORLDcodGAMER
 '213_177_202_248':
 - Darkness___boy
-'86_127_227_98':
-- edjac37
-'213_194_145_75':
-- WORLDcodGAMER
 '2_153_233_58':
 - OpusCostum
-'188_26_223_107':
-- Warrolio
 '85_58_206_33':
 - SoJezz
 - CoDpLaYeR_YT
@@ -34,48 +19,16 @@
 - eldiosx
 '212_230_27_72':
 - HuggoSan
-'77_211_4_89':
-- SteelFox113
 '89_44_26_142':
 - DennisKarba
 '84_78_245_189':
 - eldiosx
-'37_133_65_70':
-- xDeshh
-'82_130_175_141':
-- SteelFox113
-'90_167_167_194':
-- eldiosx
 '90_173_88_171':
 - Jkgarrido08
-'213_177_202_179':
-- Darkness___boy
-'84_78_240_146':
-- HuggoSan
-'193_125_30_129':
-- DeadBoy
 '81_9_193_165':
 - sarittadg
-'90_167_98_227':
-- eldiosx
-'46_234_129_40':
-- Atomic4nt
-- DeadBoy
-- WORLDcodGAMER
-'46_234_128_228':
-- WORLDcodGAMER
-'37_223_71_126':
-- Wensitus
-'86_127_225_241':
-- eldiosx
-'79_108_71_253':
-- Rocio_131
-'178_60_68_234':
-- CarlosYisuX
 '90_167_99_139':
 - eldiosx
-'217_216_236_21':
-- Esparya
 '86_127_225_200':
 - eldiosx
 '85_136_119_253':
@@ -88,16 +41,6 @@
 - PSPSPS
 '79_116_202_125':
 - zencare4k
-'185_31_106_37':
-- WORLDcodGAMER
-- CarlosYisuX
-'46_234_128_69':
-- WORLDcodGAMER
-'84_78_245_157':
-- eldiosx
-'127_0_0_1':
-- eldiosx
-- eldiosx41020
 '213_37_106_123':
 - pollagorDARK
 - Whiltrak19
@@ -114,13 +57,111 @@
 '104_28_234_235':
 - Elqueleto
 - Ivii
-'79_153_155_1':
-- Jacquexz2aaa
 '46_24_92_65':
 - eldiosx
 - RigbyJC
 - FFran_Mayo
 - pablo
+'90_203_24_49':
+- SrNes
+'83_63_65_175':
+- Esparya
+'86_127_227_67':
+- edjac37
+'84_78_245_160':
+- eldiosx
+'86_127_225_199':
+- eldiosx
+'46_234_129_206':
+- WORLDcodGAMER
+'90_167_167_171':
+- eldiosx
+'46_234_129_21':
+- WORLDcodGAMER
+'104_28_202_235':
+- Ivii
+'46_37_82_205':
+- Pandora200013
+'90_167_166_53':
+- eldiosx
+'37_14_71_101':
+- PTrixi
+'84_78_244_147':
+- eldiosx
+- CoDpLaYeR_YT
+'79_117_241_18':
+- eldiosx
+'90_167_166_248':
+- eldiosx
+'178_60_68_251':
+- CarlosYisuX
+'85_48_237_46':
+- HuggoSan
+'79_116_202_144':
+- eldiosx
+'185_31_106_131':
+- puyolfolla
+'31_221_230_220':
+- puyolfolla
+'81_40_242_52':
+- zencare4k
+- sebijuan
+'90_167_167_102':
+- eldiosx
+'84_78_244_12':
+- Sisternita452
+'213_194_147_200':
+- WORLDcodGAMER
+'86_127_227_98':
+- edjac37
+'213_194_145_75':
+- WORLDcodGAMER
+'188_26_223_107':
+- Warrolio
+'77_211_4_89':
+- SteelFox113
+'37_133_65_70':
+- xDeshh
+'82_130_175_141':
+- SteelFox113
+'90_167_167_194':
+- eldiosx
+'213_177_202_179':
+- Darkness___boy
+'84_78_240_146':
+- HuggoSan
+'193_125_30_129':
+- DeadBoy
+'90_167_98_227':
+- eldiosx
+'46_234_129_40':
+- Atomic4nt
+- DeadBoy
+- WORLDcodGAMER
+'46_234_128_228':
+- WORLDcodGAMER
+'37_223_71_126':
+- Wensitus
+'86_127_225_241':
+- eldiosx
+'79_108_71_253':
+- Rocio_131
+'178_60_68_234':
+- CarlosYisuX
+'217_216_236_21':
+- Esparya
+'185_31_106_37':
+- WORLDcodGAMER
+- CarlosYisuX
+'46_234_128_69':
+- WORLDcodGAMER
+'84_78_245_157':
+- eldiosx
+'127_0_0_1':
+- eldiosx
+- eldiosx41020
+'79_153_155_1':
+- Jacquexz2aaa
 '90_167_243_100':
 - HuggoSan
 '79_117_241_233':
@@ -129,45 +170,27 @@
 - xHighhz
 '46_234_129_71':
 - WORLDcodGAMER
-'90_203_24_49':
-- SrNes
 '213_177_203_230':
 - Darkness___boy
-'83_63_65_175':
-- Esparya
-'86_127_227_67':
-- edjac37
 '185_223_218_130':
 - yaiips
 '93_176_141_238':
 - kira10G
-'84_78_245_160':
-- eldiosx
-'86_127_225_199':
-- eldiosx
 '90_167_99_146':
 - eldiosx
 '192_168_1_13':
 - test
 - eldiosx
 - ania
-'46_234_129_206':
-- WORLDcodGAMER
 '85_52_163_149':
 - eldiosx
 '85_48_188_172':
 - HuggoSan
-'90_167_167_171':
-- eldiosx
 '85_52_163_145':
 - eldiosx
-'46_234_129_21':
-- WORLDcodGAMER
 '95_169_225_211':
 - Bomo23
 - Jacquexz2aaa
-'104_28_202_235':
-- Ivii
 '185_252_6_242':
 - HuggoSan
 '84_78_244_182':
@@ -178,38 +201,17 @@
 - PTrixi
 '82_130_176_58':
 - SteelFox113
-'46_37_82_205':
-- Pandora200013
 '93_176_141_110':
 - kira10G
 '37_133_157_154':
 - emmittta
-'90_167_166_53':
-- eldiosx
 '37_12_239_144':
 - HuggoSan
-'37_14_71_101':
-- PTrixi
-'84_78_244_147':
-- eldiosx
-- CoDpLaYeR_YT
-'79_117_241_18':
-- eldiosx
 '46_234_129_195':
 - WORLDcodGAMER
-'90_167_166_248':
-- eldiosx
 '46_234_129_232':
 - WORLDcodGAMER
-'178_60_68_251':
-- CarlosYisuX
 '46_234_129_116':
 - WORLDcodGAMER
 '46_234_128_3':
 - WORLDcodGAMER
-'85_48_237_46':
-- HuggoSan
-'185_31_106_131':
-- puyolfolla
-'31_221_230_220':
-- puyolfolla
