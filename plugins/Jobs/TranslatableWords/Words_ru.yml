@@ -1519,44 +1519,44 @@ EntityList:
   946-SNIFFER: Sniffer
   914-PLAYER: Игрок
 EnchantList:
-  Fire protection: Огнеупорность
-  Sharpness: Острота
-  Flame: Горящая стрела
-  Soul speed: Soul speed
-  Aqua affinity: Родство с водой
-  Punch: Отбрасывание
-  Loyalty: Верность
-  Depth strider: Подводная ходьба
-  Vanishing curse: Vanishing curse
-  Unbreaking: Прочность
-  Knockback: Отдача
-  Luck of the sea: Морская удача
-  Binding curse: Binding curse
-  Fortune: Удача
-  Protection: Защита
-  Efficiency: Эффективность
-  Mending: Починка
-  Frost walker: Ходьба по воде
-  Lure: Приманка
-  Looting: Добыча
-  Piercing: Пронзающая стрела
-  Blast protection: Взрывоустойчивость
-  Smite: Небесная кара
-  Multishot: Тройной выстрел
-  Fire aspect: Заговор огня
-  Channeling: Громовержец
-  Sweeping: Разящий клинок
-  Thorns: Шипы
-  Bane of arthropods: Бич членистоногих
-  Respiration: Подводное дыхание
-  Riptide: Тягун
-  Silk touch: Шёлковое касание
-  Quick charge: Быстрая перезарядка
-  Projectile protection: Защита от снарядов
-  Impaling: Пронзатель
   Feather falling: Невесомость
-  Power: Сила
   Infinity: Бессконечность
+  Flame: Горящая стрела
+  Impaling: Пронзатель
+  Protection: Защита
+  Knockback: Отдача
+  Depth strider: Подводная ходьба
+  Luck of the sea: Морская удача
+  Silk touch: Шёлковое касание
+  Loyalty: Верность
+  Vanishing curse: Vanishing curse
+  Fire protection: Огнеупорность
+  Channeling: Громовержец
+  Binding curse: Binding curse
+  Sweeping: Разящий клинок
+  Quick charge: Быстрая перезарядка
+  Bane of arthropods: Бич членистоногих
+  Frost walker: Ходьба по воде
+  Multishot: Тройной выстрел
+  Projectile protection: Защита от снарядов
+  Aqua affinity: Родство с водой
+  Soul speed: Soul speed
+  Looting: Добыча
+  Smite: Небесная кара
+  Piercing: Пронзающая стрела
+  Lure: Приманка
+  Riptide: Тягун
+  Power: Сила
+  Blast protection: Взрывоустойчивость
+  Mending: Починка
+  Fire aspect: Заговор огня
+  Respiration: Подводное дыхание
+  Thorns: Шипы
+  Punch: Отбрасывание
+  Sharpness: Острота
+  Efficiency: Эффективность
+  Fortune: Удача
+  Unbreaking: Прочность
 PotionEffects:
   Uncraftable: Uncraftable
   Water: Water

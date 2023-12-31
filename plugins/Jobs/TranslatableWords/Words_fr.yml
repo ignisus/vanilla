@@ -1519,44 +1519,44 @@ EntityList:
   946-SNIFFER: Sniffer
   914-PLAYER: Player
 EnchantList:
-  Fire protection: Protection contre le feu
-  Sharpness: Tranchant
-  Flame: Flamee
-  Soul speed: Soul speed
-  Aqua affinity: Affinité aquatique
-  Punch: Frappe
-  Loyalty: Loyauté
-  Depth strider: Agilité aquatique
-  Vanishing curse: Malédiction de disparition
-  Unbreaking: Solidité
-  Knockback: Recul
-  Luck of the sea: Chance de la mer
-  Binding curse: Malédiction du lien éternel
-  Fortune: Fortune
-  Protection: Protection
-  Efficiency: Efficacité
-  Mending: Raccommodage
-  Frost walker: Semelles givrantes
-  Lure: Appât
-  Looting: Butin
-  Piercing: Perforation
-  Blast protection: Protection contre les explosions
-  Smite: Châtiment
-  Multishot: Tir multiple
-  Fire aspect: Aura de feu
-  Channeling: Canalisation
-  Sweeping: Affilage
-  Thorns: Épines
-  Bane of arthropods: Fléau des arthropodes
-  Respiration: Respiration
-  Riptide: Impulsion
-  Silk touch: Toucher de soie
-  Quick charge: Charge rapide
-  Projectile protection: Protection contre les projectile
-  Impaling: Empalement
   Feather falling: Chute amortie
-  Power: Puissance
   Infinity: Infinité
+  Flame: Flamee
+  Impaling: Empalement
+  Protection: Protection
+  Knockback: Recul
+  Depth strider: Agilité aquatique
+  Luck of the sea: Chance de la mer
+  Silk touch: Toucher de soie
+  Loyalty: Loyauté
+  Vanishing curse: Malédiction de disparition
+  Fire protection: Protection contre le feu
+  Channeling: Canalisation
+  Binding curse: Malédiction du lien éternel
+  Sweeping: Affilage
+  Quick charge: Charge rapide
+  Bane of arthropods: Fléau des arthropodes
+  Frost walker: Semelles givrantes
+  Multishot: Tir multiple
+  Projectile protection: Protection contre les projectile
+  Aqua affinity: Affinité aquatique
+  Soul speed: Soul speed
+  Looting: Butin
+  Smite: Châtiment
+  Piercing: Perforation
+  Lure: Appât
+  Riptide: Impulsion
+  Power: Puissance
+  Blast protection: Protection contre les explosions
+  Mending: Raccommodage
+  Fire aspect: Aura de feu
+  Respiration: Respiration
+  Thorns: Épines
+  Punch: Frappe
+  Sharpness: Tranchant
+  Efficiency: Efficacité
+  Fortune: Fortune
+  Unbreaking: Solidité
 PotionEffects:
   Uncraftable: Uncraftable
   Water: Water

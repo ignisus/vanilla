@@ -21,7 +21,7 @@ players:
   shuffle: true
   particles: false
 item:
-  v: 3578
+  v: 3700
   type: WOODEN_SWORD
   meta:
     ==: ItemMeta

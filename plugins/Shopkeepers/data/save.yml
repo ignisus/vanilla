@@ -1,6 +1,6 @@
 # This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
 
-data-version: 3|2|3578
+data-version: 3|2|3700
 '5':
   uniqueId: 6f3b4d69-e3c9-4c92-8efa-c6f13640a7cc
   world: Earth
@@ -16,23 +16,23 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: EXPERIENCE_BOTTLE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GLASS_BOTTLE
         amount: 64
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -40,17 +40,17 @@ data-version: 3|2|3578
           potion-type: minecraft:invisibility
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 15
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GLASS_BOTTLE
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -58,17 +58,17 @@ data-version: 3|2|3578
           potion-type: minecraft:long_invisibility
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 30
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GLASS_BOTTLE
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: STICK
         meta:
           ==: ItemMeta
@@ -90,18 +90,18 @@ data-version: 3|2|3578
           - HIDE_ATTRIBUTES
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: EXPERIENCE_BOTTLE
         amount: 10
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CRYING_OBSIDIAN
         meta:
           ==: ItemMeta
@@ -116,18 +116,18 @@ data-version: 3|2|3578
           internal: H4sIAAAAAAAA/+NiYOBi4HMsLUrNySzNDc7OzMkp5mLgCUotLM0sSs1NzSsBclk8S1JzmRnYHXOSM1JzKxkYGFhB2jh981My0zJTi2BK2BjYwjOLU/JzHYoOMMAAAEFFJSxiAAAA
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: EXPERIENCE_BOTTLE
         amount: 20
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -144,13 +144,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -168,13 +168,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 8
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -190,7 +190,7 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 16
   snapshots: []
@@ -213,48 +213,48 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
         amount: 10
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: IRON_INGOT
         amount: 10
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DIAMOND
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
   snapshots: []
@@ -277,17 +277,17 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PAPER
         amount: 32
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -297,17 +297,17 @@ data-version: 3|2|3578
             MENDING: 1
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 8
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -317,17 +317,17 @@ data-version: 3|2|3578
             DAMAGE_ALL: 5
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -337,17 +337,17 @@ data-version: 3|2|3578
             FIRE_ASPECT: 2
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -357,17 +357,17 @@ data-version: 3|2|3578
             SILK_TOUCH: 1
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -377,17 +377,17 @@ data-version: 3|2|3578
             PROTECTION_FALL: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -397,17 +397,17 @@ data-version: 3|2|3578
             PROTECTION_ENVIRONMENTAL: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -417,17 +417,17 @@ data-version: 3|2|3578
             SWIFT_SNEAK: 3
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -437,17 +437,17 @@ data-version: 3|2|3578
             LOOT_BONUS_BLOCKS: 3
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_BOOK
         meta:
           ==: ItemMeta
@@ -457,12 +457,12 @@ data-version: 3|2|3578
             DIG_SPEED: 5
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
   snapshots: []
 '14':
@@ -481,7 +481,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER_HELMET
         meta:
           ==: ItemMeta
@@ -514,17 +514,17 @@ data-version: 3|2|3578
             GREEN: 0
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MILK_BUCKET
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER_CHESTPLATE
         meta:
           ==: ItemMeta
@@ -567,17 +567,17 @@ data-version: 3|2|3578
             GREEN: 115
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MILK_BUCKET
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER_LEGGINGS
         meta:
           ==: ItemMeta
@@ -611,17 +611,17 @@ data-version: 3|2|3578
             GREEN: 115
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MILK_BUCKET
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER_BOOTS
         meta:
           ==: ItemMeta
@@ -655,17 +655,17 @@ data-version: 3|2|3578
             GREEN: 68
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MILK_BUCKET
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: STICK
         meta:
           ==: ItemMeta
@@ -694,12 +694,12 @@ data-version: 3|2|3578
               operation: 0
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MILK_BUCKET
   snapshots: []
 '18':
@@ -721,7 +721,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITABLE_BOOK
         meta:
           ==: ItemMeta
@@ -731,22 +731,22 @@ data-version: 3|2|3578
           - e
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SADDLE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
         amount: 8
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER
         amount: 64
         meta:
@@ -757,13 +757,13 @@ data-version: 3|2|3578
           - '"Oferta 2x1!!!"'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
         amount: 16
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: IRON_SWORD
         meta:
           ==: ItemMeta
@@ -779,13 +779,13 @@ data-version: 3|2|3578
           repair-cost: 1
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
         amount: 32
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BROWN_SHULKER_BOX
         meta:
           ==: ItemMeta
@@ -796,7 +796,7 @@ data-version: 3|2|3578
           blockMaterial: BROWN_SHULKER_BOX
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
         amount: 64
   snapshots: []
@@ -819,7 +819,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: END_ROD
         meta:
           ==: ItemMeta
@@ -827,33 +827,33 @@ data-version: 3|2|3578
           display-name: '{"text":"Tubo Fluorescente"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHER_WART
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 3
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CONDUIT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 5
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DIAMOND
         meta:
           ==: ItemMeta
@@ -861,17 +861,17 @@ data-version: 3|2|3578
           display-name: '{"text":"Diamante 5 quilates"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COAL_BLOCK
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ANCIENT_DEBRIS
         meta:
           ==: ItemMeta
@@ -879,21 +879,21 @@ data-version: 3|2|3578
           display-name: '{"text":"Piedra Desconocida"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 30
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BLAZE_POWDER
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LIGHTNING_ROD
   snapshots: []
 '26':
@@ -915,17 +915,17 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHULKER_BOX
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
         amount: 64
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER_BOOTS
         meta:
           ==: ItemMeta
@@ -947,18 +947,18 @@ data-version: 3|2|3578
             GREEN: 255
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER
         amount: 4
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FEATHER
         amount: 4
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER_BOOTS
         meta:
           ==: ItemMeta
@@ -980,17 +980,17 @@ data-version: 3|2|3578
             GREEN: 235
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHIELD
         meta:
           ==: ItemMeta
@@ -1048,142 +1048,142 @@ data-version: 3|2|3578
           blockMaterial: SHIELD
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER_HORSE_ARMOR
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEATHER
         amount: 5
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: IRON_HORSE_ARMOR
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: IRON_INGOT
         amount: 5
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLDEN_HORSE_ARMOR
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 5
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DIAMOND_HORSE_ARMOR
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DIAMOND
         amount: 5
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHAINMAIL_HELMET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 2
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FLINT
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHAINMAIL_CHESTPLATE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FLINT
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHAINMAIL_LEGGINGS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 4
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FLINT
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHAINMAIL_BOOTS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FLINT
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GUNPOWDER
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 16
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CROSSBOW
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 16
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: TRIDENT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 38
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FEATHER
         meta:
           ==: ItemMeta
@@ -1233,13 +1233,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
     '17':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FEATHER
         meta:
           ==: ItemMeta
@@ -1291,13 +1291,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
     '18':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -1312,12 +1312,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '19':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -1332,12 +1332,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '20':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -1352,12 +1352,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '21':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -1372,12 +1372,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '22':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -1392,12 +1392,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '23':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -1412,7 +1412,7 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
   snapshots: []
 '30':
@@ -1430,31 +1430,31 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SPAWNER
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PHANTOM_MEMBRANE
         amount: 64
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 10
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1472,16 +1472,16 @@ data-version: 3|2|3578
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SQUID_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 30
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1499,16 +1499,16 @@ data-version: 3|2|3578
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHEEP_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1526,16 +1526,16 @@ data-version: 3|2|3578
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHICKEN_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1553,16 +1553,16 @@ data-version: 3|2|3578
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1580,58 +1580,58 @@ data-version: 3|2|3578
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ZOMBIE_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_SCRAP
         amount: 5
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ZOMBIE_HEAD
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SKELETON_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_SCRAP
         amount: 15
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SKELETON_SKULL
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CREEPER_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_SCRAP
         amount: 30
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CREEPER_HEAD
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SPIDER_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_SCRAP
         amount: 45
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1650,16 +1650,16 @@ data-version: 3|2|3578
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: VILLAGER_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 5
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1677,16 +1677,16 @@ data-version: 3|2|3578
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: EVOKER_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -1722,121 +1722,121 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MILK_BUCKET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BREAD
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: RABBIT
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUTTON
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHICKEN
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PORKCHOP
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BEEF
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COD
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SALMON
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: TROPICAL_FISH
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PUFFERFISH
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
   snapshots: []
@@ -1859,220 +1859,220 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: STONE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SAND
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SNOW_BLOCK
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BAMBOO_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 8
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: OAK_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 10
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SPRUCE_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 10
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BIRCH_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 10
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: JUNGLE_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 10
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ACACIA_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 10
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DARK_OAK_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 10
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHERRY_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 10
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CRIMSON_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WARPED_PLANKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_WOOL
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LIGHT_GRAY_CONCRETE_POWDER
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DEEPSLATE_BRICKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '17':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POLISHED_BLACKSTONE_BRICKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '18':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BRICK
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '19':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: QUARTZ
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '20':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: OBSIDIAN
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 64
   snapshots: []
@@ -2095,164 +2095,164 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LEAD
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NAME_TAG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SADDLE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_13
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_CAT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_BLOCKS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_CHIRP
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_FAR
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_MALL
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_MELLOHI
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_STAL
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_STRAD
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_WARD
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_11
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_WAIT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_OTHERSIDE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '17':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_5
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '18':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MUSIC_DISC_PIGSTEP
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
   snapshots: []
 '35':
@@ -2274,355 +2274,355 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SEA_PICKLE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTATO
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CARROT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 15
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SWEET_BERRIES
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHEAT_SEEDS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BEETROOT_SEEDS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COCOA_BEANS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MELON_SEEDS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PUMPKIN_SEEDS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 9
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: OAK_SAPLING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SPRUCE_SAPLING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BIRCH_SAPLING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: JUNGLE_SAPLING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ACACIA_SAPLING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DARK_OAK_SAPLING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MANGROVE_PROPAGULE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '17':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHERRY_SAPLING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '18':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GRASS_BLOCK
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '19':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PODZOL
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '20':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MYCELIUM
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '21':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DIRT_PATH
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '22':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DIRT
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '23':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COARSE_DIRT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '24':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ROOTED_DIRT
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '25':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FARMLAND
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '26':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CRIMSON_NYLIUM
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '27':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WARPED_NYLIUM
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '28':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MOSS_BLOCK
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '29':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LARGE_FERN
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '30':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: KELP
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '31':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BIG_DRIPLEAF
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '32':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LILY_PAD
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '33':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BAMBOO
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '34':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SUGAR_CANE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '35':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SMALL_DRIPLEAF
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '36':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CACTUS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '37':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHEARS
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 5
     '38':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SOUL_SAND
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
   snapshots: []
@@ -2645,7 +2645,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2660,12 +2660,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2680,12 +2680,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2700,12 +2700,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2720,12 +2720,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2740,12 +2740,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2760,12 +2760,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2780,12 +2780,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2800,12 +2800,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2820,12 +2820,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2842,12 +2842,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2862,12 +2862,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2882,12 +2882,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2902,12 +2902,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2924,12 +2924,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2944,12 +2944,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2966,12 +2966,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '17':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -2986,12 +2986,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '18':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3006,12 +3006,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '19':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3026,12 +3026,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '20':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3046,12 +3046,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '21':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3066,12 +3066,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '22':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3086,12 +3086,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '23':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3106,12 +3106,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '24':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3126,12 +3126,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '25':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3146,12 +3146,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '26':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3166,12 +3166,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '27':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3186,12 +3186,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '28':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3206,12 +3206,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '29':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3226,12 +3226,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '30':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3246,12 +3246,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '31':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3266,12 +3266,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '32':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3286,12 +3286,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '33':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3306,12 +3306,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '34':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3326,12 +3326,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '35':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3346,12 +3346,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '36':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3366,12 +3366,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '37':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3386,12 +3386,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '38':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3406,12 +3406,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '39':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3426,12 +3426,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '40':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PIG_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -3446,7 +3446,7 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
   snapshots: []
 '37':
@@ -3468,177 +3468,177 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LIGHT_GRAY_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GRAY_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BLACK_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PURPLE_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: MAGENTA_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PINK_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BROWN_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: RED_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BLUE_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LIGHT_BLUE_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CYAN_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GREEN_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LIME_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ORANGE_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: YELLOW_DYE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 32
   snapshots: []
@@ -3661,53 +3661,53 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 32
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHER_STAR
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DIAMOND
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: IRON_INGOT
         amount: 64
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_INGOT
         amount: 64
   snapshots: []
@@ -3730,7 +3730,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: YELLOW_BANNER
         meta:
           ==: ItemMeta
@@ -3745,12 +3745,12 @@ data-version: 3|2|3578
             pattern: ls
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: RED_BANNER
         meta:
           ==: ItemMeta
@@ -3771,12 +3771,12 @@ data-version: 3|2|3578
             pattern: rs
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: YELLOW_BANNER
         meta:
           ==: ItemMeta
@@ -3791,12 +3791,12 @@ data-version: 3|2|3578
             pattern: ls
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: YELLOW_BANNER
         meta:
           ==: ItemMeta
@@ -3811,12 +3811,12 @@ data-version: 3|2|3578
             pattern: rs
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: LIME_BANNER
         meta:
           ==: ItemMeta
@@ -3840,12 +3840,12 @@ data-version: 3|2|3578
             pattern: bts
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -3863,12 +3863,12 @@ data-version: 3|2|3578
             pattern: rs
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -3886,12 +3886,12 @@ data-version: 3|2|3578
             pattern: bt
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -3912,12 +3912,12 @@ data-version: 3|2|3578
             pattern: ls
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -3938,12 +3938,12 @@ data-version: 3|2|3578
             pattern: bo
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -3964,12 +3964,12 @@ data-version: 3|2|3578
             pattern: bo
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -3990,12 +3990,12 @@ data-version: 3|2|3578
             pattern: bo
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -4019,12 +4019,12 @@ data-version: 3|2|3578
             pattern: cs
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: YELLOW_BANNER
         meta:
           ==: ItemMeta
@@ -4039,12 +4039,12 @@ data-version: 3|2|3578
             pattern: rs
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -4059,12 +4059,12 @@ data-version: 3|2|3578
             pattern: ls
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -4082,12 +4082,12 @@ data-version: 3|2|3578
             pattern: mc
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_BANNER
         meta:
           ==: ItemMeta
@@ -4102,12 +4102,12 @@ data-version: 3|2|3578
             pattern: ts
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '17':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: RED_BANNER
         meta:
           ==: ItemMeta
@@ -4134,7 +4134,7 @@ data-version: 3|2|3578
             pattern: tts
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
   snapshots: []
 '43':
@@ -4152,51 +4152,51 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENDERMAN_SPAWN_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHULKER_SHELL
         amount: 64
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENDER_PEARL
         amount: 16
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHULKER_SHELL
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: END_STONE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHULKER_SHELL
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: END_ROD
         amount: 32
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHULKER_SHELL
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHORUS_FLOWER
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SHULKER_SHELL
   snapshots: []
 '46':
@@ -4218,7 +4218,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BROWN_SHULKER_BOX
         meta:
           ==: ItemMeta
@@ -4229,7 +4229,7 @@ data-version: 3|2|3578
           blockMaterial: BROWN_SHULKER_BOX
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COPPER_BLOCK
         amount: 32
   snapshots: []
@@ -4252,12 +4252,12 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLDEN_APPLE
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
   snapshots: []
 '48':
@@ -4279,11 +4279,11 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DRAGON_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
   snapshots: []
 '49':
@@ -4305,22 +4305,22 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DEEPSLATE_BRICKS
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DEEPSLATE_TILES
         amount: 64
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
   snapshots: []
 '50':
@@ -4342,7 +4342,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PAPER
         meta:
           ==: ItemMeta
@@ -4371,13 +4371,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WATER_BUCKET
         meta:
           ==: ItemMeta
@@ -4406,13 +4406,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: REDSTONE_TORCH
         meta:
           ==: ItemMeta
@@ -4441,13 +4441,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SUGAR
         meta:
           ==: ItemMeta
@@ -4476,13 +4476,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GLOWSTONE_DUST
         meta:
           ==: ItemMeta
@@ -4511,13 +4511,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: QUARTZ
         meta:
           ==: ItemMeta
@@ -4546,13 +4546,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WITHER_ROSE
         meta:
           ==: ItemMeta
@@ -4581,13 +4581,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PRISMARINE_SHARD
         meta:
           ==: ItemMeta
@@ -4616,13 +4616,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POWDER_SNOW_BUCKET
         meta:
           ==: ItemMeta
@@ -4653,13 +4653,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: IRON_NUGGET
         meta:
           ==: ItemMeta
@@ -4690,13 +4690,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WHITE_DYE
         meta:
           ==: ItemMeta
@@ -4725,13 +4725,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SPORE_BLOSSOM
         meta:
           ==: ItemMeta
@@ -4758,13 +4758,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GREEN_CANDLE
         meta:
           ==: ItemMeta
@@ -4793,13 +4793,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '14':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GREEN_DYE
         meta:
           ==: ItemMeta
@@ -4828,13 +4828,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '15':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PURPLE_CANDLE
         meta:
           ==: ItemMeta
@@ -4863,13 +4863,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '16':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DRIED_KELP
         meta:
           ==: ItemMeta
@@ -4898,13 +4898,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '17':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CRIMSON_FUNGUS
         meta:
           ==: ItemMeta
@@ -4933,13 +4933,13 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
     '18':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PUMPKIN_SEEDS
         meta:
           ==: ItemMeta
@@ -4968,7 +4968,7 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 3
   snapshots: []
@@ -4988,42 +4988,42 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: TOTEM_OF_UNDYING
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DRAGON_HEAD
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 16
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ELYTRA
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 32
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FEATHER
         amount: 2
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLDEN_PICKAXE
         meta:
           ==: ItemMeta
@@ -5040,17 +5040,17 @@ data-version: 3|2|3578
           Unbreakable: true
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: HEART_OF_THE_SEA
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLDEN_SHOVEL
         meta:
           ==: ItemMeta
@@ -5067,17 +5067,17 @@ data-version: 3|2|3578
           Unbreakable: true
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: HEART_OF_THE_SEA
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLDEN_SWORD
         meta:
           ==: ItemMeta
@@ -5098,12 +5098,12 @@ data-version: 3|2|3578
           Unbreakable: true
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: HEART_OF_THE_SEA
   snapshots: []
 '54':
@@ -5125,7 +5125,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
         meta:
           ==: ItemMeta
@@ -5140,12 +5140,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
         meta:
           ==: ItemMeta
@@ -5161,12 +5161,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
         meta:
           ==: ItemMeta
@@ -5181,12 +5181,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
         meta:
           ==: ItemMeta
@@ -5203,12 +5203,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BOOK
         meta:
           ==: ItemMeta
@@ -5223,12 +5223,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: FLOWER_POT
         meta:
           ==: ItemMeta
@@ -5243,7 +5243,7 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
   snapshots: []
 '55':
@@ -5265,7 +5265,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5280,12 +5280,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5300,12 +5300,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5320,12 +5320,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5340,12 +5340,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5360,12 +5360,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5380,12 +5380,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5400,12 +5400,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COW_SPAWN_EGG
         meta:
           ==: ItemMeta
@@ -5420,7 +5420,7 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
   snapshots: []
 '56':
@@ -5442,7 +5442,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -5451,12 +5451,12 @@ data-version: 3|2|3578
           potion-type: minecraft:strong_strength
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: HONEY_BOTTLE
         meta:
           ==: ItemMeta
@@ -5465,21 +5465,21 @@ data-version: 3|2|3578
             00"}],"text":""}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BREAD
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COOKED_SALMON
         amount: 3
         meta:
@@ -5488,12 +5488,12 @@ data-version: 3|2|3578
           display-name: '{"text":"Salmon"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COOKED_COD
         amount: 3
         meta:
@@ -5502,12 +5502,12 @@ data-version: 3|2|3578
           display-name: '{"text":"Espeto"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: TROPICAL_FISH
         amount: 3
         meta:
@@ -5516,21 +5516,21 @@ data-version: 3|2|3578
           display-name: '{"text":"Atun"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COOKED_MUTTON
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WATER_BUCKET
         meta:
           ==: ItemMeta
@@ -5559,12 +5559,12 @@ data-version: 3|2|3578
             }
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BAKED_POTATO
         amount: 4
         meta:
@@ -5573,12 +5573,12 @@ data-version: 3|2|3578
           display-name: '{"text":"Patatas Fritas"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '10':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: EGG
         amount: 2
         meta:
@@ -5587,12 +5587,12 @@ data-version: 3|2|3578
           display-name: '{"text":"Huevo duro"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '11':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COOKIE
         meta:
           ==: ItemMeta
@@ -5600,22 +5600,22 @@ data-version: 3|2|3578
           display-name: '{"extra":[{"text":"Tapita"}],"text":""}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '12':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: DRIED_KELP
         amount: 10
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '13':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -5624,7 +5624,7 @@ data-version: 3|2|3578
           potion-type: minecraft:swiftness
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
   snapshots: []
 '59':
@@ -5643,7 +5643,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5661,12 +5661,12 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5687,13 +5687,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 2
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5714,13 +5714,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 3
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5738,13 +5738,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 2
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5763,13 +5763,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5788,7 +5788,7 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 6
   snapshots: []
@@ -5808,7 +5808,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5827,13 +5827,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 16
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5852,13 +5852,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5876,13 +5876,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 48
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5900,13 +5900,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5924,18 +5924,18 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5953,12 +5953,12 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
   snapshots: []
@@ -5978,7 +5978,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -5996,13 +5996,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 2
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6021,13 +6021,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6046,13 +6046,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 6
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6071,13 +6071,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 4
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6096,13 +6096,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 8
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6121,7 +6121,7 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 12
   snapshots: []
@@ -6141,7 +6141,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6159,12 +6159,12 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6182,13 +6182,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 2
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6206,13 +6206,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 3
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6231,13 +6231,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 8
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6256,13 +6256,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 16
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6281,7 +6281,7 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 24
   snapshots: []
@@ -6301,7 +6301,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6319,13 +6319,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 25
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6344,13 +6344,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 40
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6368,7 +6368,7 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
   snapshots: []
@@ -6388,7 +6388,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6407,13 +6407,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 25
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6431,13 +6431,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 45
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6455,12 +6455,12 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 10
   snapshots: []
@@ -6483,85 +6483,85 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PUFFERFISH_BUCKET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: TROPICAL_FISH_BUCKET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COD_BUCKET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: SALMON_BUCKET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: TADPOLE_BUCKET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: AXOLOTL_BUCKET
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 5
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: TURTLE_EGG
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BEE_NEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '9':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: BONE
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
   snapshots: []
 '66':
@@ -6580,7 +6580,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6599,12 +6599,12 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6622,13 +6622,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 2
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6646,13 +6646,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 3
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6670,12 +6670,12 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6693,13 +6693,13 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 2
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: CHEST
         meta:
           ==: ItemMeta
@@ -6718,7 +6718,7 @@ data-version: 3|2|3578
           blockMaterial: CHEST
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 3
   snapshots: []
@@ -6740,7 +6740,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -6748,13 +6748,13 @@ data-version: 3|2|3578
           potion-type: minecraft:luck
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 5
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -6762,13 +6762,13 @@ data-version: 3|2|3578
           potion-type: minecraft:strong_leaping
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 8
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -6776,13 +6776,13 @@ data-version: 3|2|3578
           potion-type: minecraft:long_water_breathing
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 16
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -6790,13 +6790,13 @@ data-version: 3|2|3578
           potion-type: minecraft:strong_healing
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: POTION
         meta:
           ==: ItemMeta
@@ -6804,7 +6804,7 @@ data-version: 3|2|3578
           potion-type: minecraft:strong_strength
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 32
   snapshots: []
@@ -6824,7 +6824,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6836,17 +6836,17 @@ data-version: 3|2|3578
             canjear con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: HEART_OF_THE_SEA
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6858,18 +6858,18 @@ data-version: 3|2|3578
             canjear con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6881,18 +6881,18 @@ data-version: 3|2|3578
             canjear con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6904,18 +6904,18 @@ data-version: 3|2|3578
             canjear con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_BLOCK
         amount: 64
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6927,17 +6927,17 @@ data-version: 3|2|3578
             con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: HEART_OF_THE_SEA
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6949,18 +6949,18 @@ data-version: 3|2|3578
             con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
     '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6972,18 +6972,18 @@ data-version: 3|2|3578
             con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_INGOT
         amount: 64
     '8':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -6995,12 +6995,12 @@ data-version: 3|2|3578
             con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: NETHERITE_BLOCK
         amount: 64
   snapshots: []
@@ -7022,7 +7022,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: STICK
         meta:
           ==: ItemMeta
@@ -7051,34 +7051,34 @@ data-version: 3|2|3578
               operation: 0
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 2
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GLOWSTONE_DUST
         amount: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 4
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GLOW_BERRIES
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 16
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLDEN_APPLE
         meta:
           ==: ItemMeta
@@ -7086,13 +7086,13 @@ data-version: 3|2|3578
           display-name: '{"text":"Judías Mágicas"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 5
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: ENCHANTED_GOLDEN_APPLE
         meta:
           ==: ItemMeta
@@ -7100,12 +7100,12 @@ data-version: 3|2|3578
           display-name: '{"text":"Semillas del Ermitaño"}'
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
         amount: 40
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
         amount: 30
   snapshots: []
@@ -7125,21 +7125,21 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COD
         amount: 4
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: COOKED_BEEF
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_NUGGET
   snapshots: []
 '74':
@@ -7157,7 +7157,7 @@ data-version: 3|2|3578
     '1':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -7174,16 +7174,16 @@ data-version: 3|2|3578
               value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NkYzQ1NGVlYWE0NTdjZWYzNGE4OWU4Yjk4YzI4NjY3ZjgxMzIxZWU0Nzg0MTE3NzM2MTM0NzYyMzZhZmJlMiJ9fX0=
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -7200,16 +7200,16 @@ data-version: 3|2|3578
               value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU4YTQxMDU4MmQxZGIwZjE2MDdlYjRkMDczMjJkZWNhMjFkZjM5Y2I5YzMzZTM3MDM0ZDBkY2ZlM2ZjNzNhNSJ9fX0=
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -7226,16 +7226,16 @@ data-version: 3|2|3578
               value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzliYTkwNTI2ZDZkNjBmMWNmMGNmYmFjMDE4YjBjYjBiMzAzMDdiZTBlNWNjZmJlZmI2OTg0ZjcwNmIyNjMyIn19fQ==
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -7252,16 +7252,16 @@ data-version: 3|2|3578
               value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjYwMGI5MmQyMTBlNDlmZjRhMTBhZWIxZTQxMWE5NmUzMjdiYWFmOTNkMDI1OTA5ZTNiZjVhOGNlYTc2OGMwNCJ9fX0=
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -7278,16 +7278,16 @@ data-version: 3|2|3578
               value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTU0MmQ3MTYwOTg3MTQ4YTVkOGUyMGU0NjliZDliM2MyYTM5NDZjN2ZiNTkyM2Y1NWI5YmVhZTk5MTg1ZiJ9fX0=
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
     '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: PLAYER_HEAD
         meta:
           ==: ItemMeta
@@ -7304,10 +7304,10 @@ data-version: 3|2|3578
               value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDljMmM5Y2U2N2ViNTk3MWNjNTk1ODQ2M2U2YzlhYmFiOGU1OTlhZGMyOTVmNGQ0MjQ5OTM2YjAwOTU3NjlkZCJ9fX0=
       item1:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_BLOCK
       item2:
         ==: org.bukkit.inventory.ItemStack
-        v: 3578
+        v: 3700
         type: GOLD_INGOT
   snapshots: []

@@ -206,3 +206,6 @@ enable-moving-of-player-shops: true
 move-item: ENDER_PEARL
 cancel-citizen-npc-interactions: true
 enable-hanging-sign-shops: true
+shulker-peek-if-player-nearby: true
+shulker-peek-height: 0.3
+citizen-npc-fluid-pushable: false

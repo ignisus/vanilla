@@ -58,6 +58,8 @@ sentinel defaults:
     death xp: 0
     # Whether the NPC should be protected from damage by ignore targets.
     protected: true
+    # Maximum range after which damage should start being ignored. If zero, this does nothing. Set eg 100 to ignore all damage from over 100 blocks away.
+    protect from range: 0
 random:
     # How long (in ticks) NPCs should run away for (when hit or told to avoid threats).
     run away time: 1200
@@ -129,4 +131,4 @@ update rate: 10
 # The below value is how many times automatic updates have been applied
 # since you last cleaned this file.
 # ----------- End Important! -----------
-times_changed: 4
+times_changed: 5
