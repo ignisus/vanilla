@@ -1,3 +1,18 @@
 name: griefdefender_override
 permissions:
+- griefdefender.flag.collide-block:
+    value: false
+    context:
+      gd_claim_override: user
+      target:
+      - minecraft:farmland
+      - minecraft:turtle_egg
+- griefdefender.flag.entity-damage:
+    value: true
+    context:
+      gd_claim_override: user
+      source: minecraft:fall
+      target: minecraft:player
 - weight.-40
+parents:
+- griefdefender_claim

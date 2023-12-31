@@ -21,7 +21,7 @@
 # ╔═════════════════════════════════════════╗
 # ║  DO NOT CHANGE! THIS IS UPDATE CONTROL  ║
 # ╚═════════════════════════════════════════╝
-Version: Gargantua v.7
+Version: Gargantua v.8
 
 
 # ╔═════════════════════════════════════════╗
@@ -1425,4 +1425,765 @@ Send a defeat message to discord: true
 Send a little victory message to discord: true
 Send a jackpot message to discord: true
 Update textures after restart (custom model data): true
+Chips materials:
+- - SUNFLOWER
+  - 0.0
+  - true
+  - 0
+Chips slots:
+- - '48'
+  - SUNFLOWER
+  - 100.0
+  - true
+  - 0
+- - '49'
+  - SUNFLOWER
+  - 1000.0
+  - true
+  - 0
+- - '50'
+  - SUNFLOWER
+  - 10000.0
+  - true
+  - 0
+Main gui empty slots:
+- - 0
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 1
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 2
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 3
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 4
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 5
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 6
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 7
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 8
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 9
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 17
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 18
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 26
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 27
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 35
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 36
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 37
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 38
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 39
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 40
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 41
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 42
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 43
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 44
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 45
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 46
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 47
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 48
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 49
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 50
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 51
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 52
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 53
+  - RED_STAINED_GLASS_PANE
+  - 0
+Open game immediately: false
+Chips slots one game:
+- - '48'
+  - SUNFLOWER
+  - 100.0
+  - true
+  - 0
+- - '49'
+  - SUNFLOWER
+  - 1000.0
+  - true
+  - 0
+- - '50'
+  - SUNFLOWER
+  - 10000.0
+  - true
+  - 0
+Main gui for one game empty slots:
+- - 0
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 1
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 2
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 3
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 4
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 5
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 6
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 7
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 8
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 9
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 17
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 18
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 26
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 27
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 35
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 36
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 37
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 38
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 39
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 40
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 41
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 42
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 43
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 44
+  - PURPLE_STAINED_GLASS_PANE
+  - 0
+- - 45
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 46
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 47
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 48
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 49
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 50
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 51
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 52
+  - RED_STAINED_GLASS_PANE
+  - 0
+- - 53
+  - RED_STAINED_GLASS_PANE
+  - 0
+Statistics menu empty slots:
+- - 0
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 1
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 2
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 3
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 4
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 5
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 6
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 7
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 8
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 9
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 17
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 18
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 26
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 27
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 35
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 36
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 44
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 45
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 46
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 47
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 48
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 49
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 50
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 51
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 52
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+- - 53
+  - ORANGE_STAINED_GLASS_PANE
+  - 0
+Shop menu empty slots:
+- - 0
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 1
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 2
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 3
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 4
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 5
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 6
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 7
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 8
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 9
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 17
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 18
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 26
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 27
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 35
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 36
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 44
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 45
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 46
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 47
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 48
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 49
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 50
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 51
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 52
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 53
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+Roulette easy mode material (active): LIME_CONCRETE
+Roulette easy mode button custom model data (active): 0
+Roulette medium mode material (active): YELLOW_CONCRETE
+Roulette medium mode button custom model data (active): 0
+Roulette hard mode material (active): RED_CONCRETE
+Roulette hard mode button custom model data (active): 0
+Roulette empty slots: []
+Darts concrete custom model data: 0
+Darts moving items:
+- - DIRT
+  - 0
+- - APPLE
+  - 0
+- - ENDER_CHEST
+  - 0
+- - DIAMOND
+  - 0
+- - TNT
+  - 0
+- - PUMPKIN
+  - 0
+- - COBBLESTONE
+  - 0
+- - CREEPER_HEAD
+  - 0
+- - BOW
+  - 0
+- - ANVIL
+  - 0
+- - CACTUS
+  - 0
+- - PLAYER_HEAD
+  - 0
+- - ZOMBIE_HEAD
+  - 0
+- - SKELETON_SKULL
+  - 0
+Darts dragon custom model data: 0
+Darts empty slots: []
+Drums moving items:
+- - GOLDEN_APPLE
+  - 0
+- - GOLDEN_AXE
+  - 0
+- - GOLD_BLOCK
+  - 0
+- - EMERALD
+  - 0
+Drums dragon custom model data: 0
+Drums empty slots: []
+Races empty slots:
+- - 0
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 1
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 2
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 3
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 4
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 5
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 6
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 7
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 8
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 45
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 46
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 47
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 48
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 49
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 50
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 51
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 52
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+- - 53
+  - BLUE_STAINED_GLASS_PANE
+  - 0
+Pyramid empty slots: []
+Stairs empty slots: []
+Lottery empty slots: []
+Crash lever slots:
+- 1
+- 19
+Crash empty slots: []
+Classic animation enable: true
+Classic empty slots: []
+BlackJack empty slots: []
+RockPaperScissors score numbers items:
+- - 6d68343bd0b129de93cc8d3bba3b97a2faa7ade38d8a6e2b864cd868cfab
+  - 0
+- - d2a6f0e84daefc8b21aa99415b16ed5fdaa6d8dc0c3cd591f49ca832b575
+  - 0
+- - 96fab991d083993cb83e4bcf44a0b6cefac647d4189ee9cb823e9cc1571e38
+  - 0
+- - cd319b9343f17a35636bcbc26b819625a9333de3736111f2e932827c8e749
+  - 0
+RockPaperScissors empty slots: []
+TicTacToe empty slots: []
+DeadMansChest easy mode material (active): LIME_CONCRETE
+DeadMansChest medium mode material (active): YELLOW_CONCRETE
+DeadMansChest hard mode material (active): RED_CONCRETE
+DeadMansChest easy mode custom model data (active): 0
+DeadMansChest medium mode custom model data (active): 0
+DeadMansChest hard mode custom model data (active): 0
+DeadMansChest empty slots: []
+Poker waiting numbers items:
+- - 1
+  - d2a6f0e84daefc8b21aa99415b16ed5fdaa6d8dc0c3cd591f49ca832b575
+  - 0
+- - 2
+  - 96fab991d083993cb83e4bcf44a0b6cefac647d4189ee9cb823e9cc1571e38
+  - 0
+- - 3
+  - cd319b9343f17a35636bcbc26b819625a9333de3736111f2e932827c8e749
+  - 0
+- - 4
+  - d198d56216156114265973c258f57fc79d246bb65e3c77bbe8312ee35db6
+  - 0
+- - 5
+  - 7fb91bb97749d6a6eed4449d23aea284dc4de6c3818eea5c7e149ddda6f7c9
+  - 0
+Poker empty slots: []
+Dice cube items:
+  '1':
+  - ca516fbae16058f251aef9a68d3078549f48f6d5b683f19cf5a1745217d72cc
+  - 0
+  '2':
+  - 4698add39cf9e4ea92d42fadefdec3be8a7dafa11fb359de752e9f54aecedc9a
+  - 0
+  '3':
+  - fd9e4cd5e1b9f3c8d6ca5a1bf45d86edd1d51e535dbf855fe9d2f5d4cffcd2
+  - 0
+  '4':
+  - f2a3d53898141c58d5acbcfc87469a87d48c5c1fc82fb4e72f7015a3648058
+  - 0
+  '5':
+  - d1fe36c4104247c87ebfd358ae6ca7809b61affd6245fa984069275d1cba763
+  - 0
+  '6':
+  - 3ab4da2358b7b0e8980d03bdb64399efb4418763aaf89afb0434535637f0a1
+  - 0
+Dice score items:
+  '2':
+  - b13b778c6e5128024214f859b4fadc7738c7be367ee4b9b8dbad7954cff3a
+  - 0
+  '3':
+  - 031f66be0950588598feeea7e6c6779355e57cc6de8b91a44391b2e9fd72
+  - 0
+  '4':
+  - 95bc42c69846c3da9531ac7dba2b55363f8f9472576e17d423b7a9b81c9151
+  - 0
+  '5':
+  - df3f565a88928ee5a9d6843d982d78eae6b41d9077f2a1e526af867d78fb
+  - 0
+  '6':
+  - c5da1cb6c4c23710224b4f4e8d6ffcf8b4b55f7fe891c1204af7485cf252a1d8
+  - 0
+  '7':
+  - af4e7a5cf5b5a4d2ff4fb0433b1a68751aa12e9a021d3918e92e219a953b
+  - 0
+  '8':
+  - 1683440c6447c195aaf764e27a1259219e91c6d8ab6bd89a11ca8d2cc799fa8
+  - 0
+  '9':
+  - f8977adedfa6c81a67f825ea37c4d5aa90dfe3c2a72dd98791f4521e1da36
+  - 0
+  '10':
+  - f5987f43ff57d4dabaa2d2ceb9f01fc6ee46db162a5e12dfdbb57fd468132b8
+  - 0
+  '11':
+  - d92536c753d7308c9afe371ed8a853b5f988b84c943dfe9b6aa60fac7aa4dbb
+  - 0
+  '12':
+  - 8bedfe349bc32cfd961abe40a856197b59e5d45e69ce9715589dc8e820be29f
+  - 0
+Dice empty slots: []
+Card deck:
+  clubs:
+    '2':
+    - 7d81a32d978f933deb7ea26aa326e4174697595a426eaa9f2ae5f9c2e661290
+    - 0
+    '3':
+    - ceadaded81563f1c87769d6c04689dcdb9e8ca01da35281cd8fe251728d2d
+    - 0
+    '4':
+    - 6c608c2db525d6d77f7de4b961d67e53e9d7bacdaff31d4ca10fbbf92d66
+    - 0
+    '5':
+    - 1144c5193435199c135bd47d166ef1b4e2d3218383df9d34e3bb20d9f8e593
+    - 0
+    '6':
+    - f61f7e38556856eae5566ef1c44a8cc64af8f3a58162b1dd8016a8778c71c
+    - 0
+    '7':
+    - 6e1cf31c49a24a8f37849fc3c5463ab64cc9bceb6f276a5c44aedd34fdf520
+    - 0
+    '8':
+    - 61c9c09d52debc465c32542c68be42bda6f6753fe1deba257327ac5a0c3ad
+    - 0
+    '9':
+    - 2dcf39f4bcd98484b0b479a7992d9270fe3a59b9b1a806d7a64ffb5b551ad
+    - 0
+    '10':
+    - 177a56ce415d7c30808706a94cc2bafa897cb7e486287c337a44af42b928c43
+    - 0
+    jack:
+    - 1df8b482ee76979fdb9467c8e666cc6aec5cb44859bb74579f016291ed01175
+    - 0
+    queen:
+    - e0fcfc742ceb9464efc971a31c5896d971e4772772745756225b0643e4e93
+    - 0
+    king:
+    - 5198fce7eafdaca15bd6e98ca94b4046583a8b2e5411cc8c944588fd7f1a5f97
+    - 0
+    ace:
+    - 1a74d9212e6491bc370caf025fd459fe632ca7c6ba4df7ebefafd489ab32fd
+    - 0
+  diamonds:
+    '2':
+    - b13b778c6e5128024214f859b4fadc7738c7be367ee4b9b8dbad7954cff3a
+    - 0
+    '3':
+    - 031f66be0950588598feeea7e6c6779355e57cc6de8b91a44391b2e9fd72
+    - 0
+    '4':
+    - 95bc42c69846c3da9531ac7dba2b55363f8f9472576e17d423b7a9b81c9151
+    - 0
+    '5':
+    - df3f565a88928ee5a9d6843d982d78eae6b41d9077f2a1e526af867d78fb
+    - 0
+    '6':
+    - c5da1cb6c4c23710224b4f4e8d6ffcf8b4b55f7fe891c1204af7485cf252a1d8
+    - 0
+    '7':
+    - af4e7a5cf5b5a4d2ff4fb0433b1a68751aa12e9a021d3918e92e219a953b
+    - 0
+    '8':
+    - 1683440c6447c195aaf764e27a1259219e91c6d8ab6bd89a11ca8d2cc799fa8
+    - 0
+    '9':
+    - f8977adedfa6c81a67f825ea37c4d5aa90dfe3c2a72dd98791f4521e1da36
+    - 0
+    '10':
+    - f5987f43ff57d4dabaa2d2ceb9f01fc6ee46db162a5e12dfdbb57fd468132b8
+    - 0
+    jack:
+    - c7f83144c4ce32e9ea3a448ccc85fd9c9be43c2bf5688ec2dd533a1995661066
+    - 0
+    queen:
+    - ffa3c3313ea3e2e418e57c9f5cc30b0bcc835b8dffb83beae1c1a6026a6ea
+    - 0
+    king:
+    - e883b5beb4e601c3cbf50505c8bd552e81b996076312cffe27b3cc1a29e3
+    - 0
+    ace:
+    - 51d383401f77beffcb998c2cf79b7afee23f18c41d8a56affed79bb56e2267a3
+    - 0
+  hearts:
+    '2':
+    - 4f7f9df399389611a3b331419b88f153e5ec1509ba447d82f0252b566492
+    - 0
+    '3':
+    - d37b2a657719da61bc80669217daae1b4fd31416c1a4e968d3111a888ae3584
+    - 0
+    '4':
+    - 53341ff75ff9f7872153796b79457c162ddc3d249ff872cdade75460491f
+    - 0
+    '5':
+    - 3ff87edb982d7372acde92c4524a2245571f5aa1ae940d817bffbc2a288
+    - 0
+    '6':
+    - ad617cc9bf983333bf12664143a772d52156ac6c48e168a1d916fb629916fb
+    - 0
+    '7':
+    - 36a3a8ee54aa8730c9229aa04e32600b32e753f2a6cc56411c3b10d45d8e2e
+    - 0
+    '8':
+    - 1e461fe6ebcddba14f90623486968ba9c7656d53d1aa631a574625a096917e0
+    - 0
+    '9':
+    - 1aede60554a3c769189d1660761aa5ae82d84f5b66652229b66a34f4dd33c
+    - 0
+    '10':
+    - 2f8ce09e1ffd33aa45806ab6c21e5eaf8bb3916e991d26c8c342f927bcf69
+    - 0
+    jack:
+    - 6b1d8636827384b3ebf2c51ec4ead59e6d8c2e19ef99f9c649e544798f224
+    - 0
+    queen:
+    - 613e84176de1aa6742f89af0313619768a0864d03bed4ffdc723fef6b3ec
+    - 0
+    king:
+    - 64935849c7058eb86afe3e9035f9c87582ec48c93f4c81817e743679264a5
+    - 0
+    ace:
+    - 847f40b2a22edb1a887469a6198daf468eccc495e35de8d49eae65b48468cf8
+    - 0
+  spades:
+    '2':
+    - 96fab991d083993cb83e4bcf44a0b6cefac647d4189ee9cb823e9cc1571e38
+    - 0
+    '3':
+    - cd319b9343f17a35636bcbc26b819625a9333de3736111f2e932827c8e749
+    - 0
+    '4':
+    - d198d56216156114265973c258f57fc79d246bb65e3c77bbe8312ee35db6
+    - 0
+    '5':
+    - 7fb91bb97749d6a6eed4449d23aea284dc4de6c3818eea5c7e149ddda6f7c9
+    - 0
+    '6':
+    - 9c613f80a554918c7ab2cd4a278752f151412a44a73d7a286d61d45be4eaae1
+    - 0
+    '7':
+    - 9e198fd831cb61f3927f21cf8a7463af5ea3c7e43bd3e8ec7d2948631cce879
+    - 0
+    '8':
+    - 84ad12c2f21a1972f3d2f381ed05a6cc088489fcfdf68a713b387482fe91e2
+    - 0
+    '9':
+    - 9f7aa0d97983cd67dfb67b7d9d9c641bc9aa34d96632f372d26fee19f71f8b7
+    - 0
+    '10':
+    - b0cf9794fbc089dab037141f67875ab37fadd12f3b92dba7dd2288f1e98836
+    - 0
+    jack:
+    - 18c9dc3d38a56282e1d92337198fb19ea641b61a8c4e57fb4e27c1ba6a4b24c
+    - 0
+    queen:
+    - ff72cceb4a565478de5b0b0e727946e549834e36f6e0ec8f7dd7f6327b15a
+    - 0
+    king:
+    - 12bfeb246f649b86f212feea87a9c216a655565d4b7992e80326b3918d923bd
+    - 0
+    ace:
+    - 17dd34924d2b6a213a5ed46ae5783f95373a9ef5ce5c88f9d736705983b97
+    - 0
 

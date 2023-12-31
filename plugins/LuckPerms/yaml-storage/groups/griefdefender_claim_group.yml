@@ -1,3 +1,5 @@
 name: griefdefender_claim_group
 permissions:
 - weight.-80
+parents:
+- griefdefender_definition
