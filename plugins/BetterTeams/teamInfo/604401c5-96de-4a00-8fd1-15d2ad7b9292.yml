@@ -23,16 +23,16 @@ warps:
 echest:
   '0':
     ==: org.bukkit.inventory.ItemStack
-    v: 3578
+    v: 3700
     type: LIGHT
     amount: 64
   '1':
     ==: org.bukkit.inventory.ItemStack
-    v: 3578
+    v: 3700
     type: BARRIER
     amount: 64
   '2':
     ==: org.bukkit.inventory.ItemStack
-    v: 3578
+    v: 3700
     type: COMMAND_BLOCK
     amount: 64
