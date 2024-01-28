@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1704491093836
-  login: 1704485259265
+  logout: 1705184866656
+  login: 1705184665522
   kits:
     diario: 1703259435449
     hierro: 1689714772260
@@ -36,11 +36,11 @@ homes:
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: 28760.170010706996
-  y: 127.51428215415795
-  z: -8144.472097673038
-  yaw: -1.86669921875
-  pitch: 11.09988021850586
+  x: 28921.423119930496
+  y: 70.0
+  z: -7915.994311130778
+  yaw: -70.673828125
+  pitch: 19.049970626831055
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth

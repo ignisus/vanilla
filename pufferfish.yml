@@ -40,3 +40,5 @@ misc:
 enable-async-entity-tracker: false
 enable-async-pathfinding: false
 allow-end-crystal-respawn: true
+enable-async-world-saving: false
+tps-catchup: true

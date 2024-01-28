@@ -121,6 +121,7 @@ disabled-worlds-per-command:
 # GEMS_ECONOMY = Economy provider which supports multiple currencies using 'GEMS_ECONOMY:<currency>'
 # ULTRA_ECONOMY = Economy provider which supports multiple currencies using 'ULTRA_ECONOMY:<currency>'
 # COINS_ENGINE = Economy provider(formerly known as GamePoints) which supports multiple currencies using 'COINS_ENGINE:<currency>'
+# VOTING_PLUGIN = Points economy from VotingPlugin
 # EXP = Raw XP points used to enchant items
 economy-provider: VAULT
 
@@ -159,6 +160,7 @@ currency-formats:
 # ULTIMATESTACKER = An external spawner provider that can stack spawners
 # ROSESTACKER = An external spawner provider that can stack spawners
 # MINEABLESPAWNERS = An external spawner provider
+# SPAWNERMETA = An external spawner provider that can stack/upgrade spawners
 spawner-provider: AUTO
 # NOTE: When there is no spawner provider set, the default will be used
 
@@ -244,6 +246,28 @@ use-item-name: true
 # When this is false, purchasing/selling a item to shop will cause the message in chat use the material name of the item instead of the item name to let the player know what has been sold/bought
 
 
+#-----------------------------------------------Bedrock--------------------------------------------------
+
+# When this option is true, all GUI screens opened for bedrock players will default to a full sized inventory
+resize-gui-for-bedrock: true
+
+# Enabling this option will enable support for bedrock players to see textured player heads by loading a custom resource pack
+pre-register-skulls: false
+# This requires Geyser, and the setting inside the config of Geyser 'add-non-bedrock-items' to be enabled for this to work
+# Note: This feature only loads textured player heads for shop items, navigation bars and transaction items,
+# meaning that the bedrock player's head won't be loaded when using 'skullowner: %player_name%'
+# Double note: Adding a new textured player head to shop when the server is running won't work, this requires a full server restart
+
+# This option enables a custom player profile item for bedrock players instead of the 'skullowner: %player_name%' texture
+custom-bedrock-player-profile:
+  enabled: true
+  item:
+    material: SUNFLOWER
+    name: '%player_displayname%'
+    lore:
+    - '%translations-money%: &c%player_balance%'
+
+
 #---------------------------------------------Inventory's------------------------------------------------
 
 # Options to customize the main menu, see the sections folder which contains all section items
@@ -259,9 +283,6 @@ main-menu:
     material: GRAY_STAINED_GLASS_PANE
     name: ' '
     enable: true
-
-# When this option is true, all GUI screens opened for players playing on minecraft for windows(bedrock) will default to a full sized inventory
-resize-gui-for-bedrock: true
 
 
 #--------------------------------------------NavigationBar----------------------------------------------
