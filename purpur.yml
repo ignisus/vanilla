@@ -917,6 +917,7 @@ world-settings:
         takes-damage-from-water: false
         allow-trading: true
         lobotomize:
+          wait-until-trade-locked: false
           enabled: false
           check-interval: 100
       zoglin:
