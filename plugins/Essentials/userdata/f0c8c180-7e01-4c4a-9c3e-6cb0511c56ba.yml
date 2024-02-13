@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 79.117.241.33
+ip-address: 90.167.166.134
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1705184866656
-  login: 1705184665522
+  logout: 1707592975818
+  login: 1707592968206
   kits:
     diario: 1703259435449
     hierro: 1689714772260
@@ -36,9 +36,9 @@ homes:
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: 28921.423119930496
+  x: 28923.65284849022
   y: 70.0
-  z: -7915.994311130778
+  z: -7915.217969991079
   yaw: -70.673828125
   pitch: 19.049970626831055
 lastlocation:
