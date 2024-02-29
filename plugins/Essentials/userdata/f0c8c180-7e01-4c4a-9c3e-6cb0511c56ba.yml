@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 90.167.166.134
+ip-address: 192.168.1.1
 afk: false
 socialspy: false
 npc: false
@@ -11,18 +11,18 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1704489530654
+  lastteleport: 1709124179289
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1707592975818
-  login: 1707592968206
+  logout: 1709201415076
+  login: 1709201342661
   kits:
     diario: 1703259435449
     hierro: 1689714772260
     netherita: 1698359172406
-money: '99967842960.0691399999990842'
+money: '99967762897.8814099999990687'
 last-account-name: eldiosx
 homes:
   home:
@@ -36,16 +36,16 @@ homes:
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: 28923.65284849022
-  y: 70.0
-  z: -7915.217969991079
-  yaw: -70.673828125
-  pitch: 19.049970626831055
+  x: -1097.3918693605108
+  y: 77.24320050535964
+  z: -10299.702688414205
+  yaw: 87.90313720703125
+  pitch: 15.600030899047852
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: 28821.38795670748
-  y: 70.0
-  z: -8159.832531128651
-  yaw: 88.71293640136719
-  pitch: 19.7994327545166
+  x: -1192.699999988079
+  y: 64.0
+  z: -7679.1616511068705
+  yaw: -45.89337158203125
+  pitch: 20.550081253051758

@@ -1,3 +1,5 @@
+# Disables users' ability to switch to peaceful mode for EliteMobs. Peaceful mode lowers level and spawn rates of mobs around that player specifically
+disableCommonerRank: false
 # Sets if EliteMobs will add max health when unlocking guild ranks as a prestige reward
 Add max health when unlocking higher guild ranks: true
 # Sets if EliteMobs will add a critical strike chance when unlocking guild ranks as a prestige reward

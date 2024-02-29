@@ -99,3 +99,4 @@ ExcludedWorld:
 - another_excluded_world_example
 KeepInventoryOnPvpDeath: false
 item-durability-loss-on-death: 0
+StoreXPPercentage: 100

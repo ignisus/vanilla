@@ -1,3 +1,12 @@
+# Sets the title that will show up in the item description of instanced dungeon menus
+# $difficulty is the placeholder for the difficulty name in the configuration file of the dungeon
+instancedDungeonTitle: Start $difficulty difficulty dungeon!
+# Sets the description that will show up in the item description of instanced dungeon menus
+# $dungeonName is the placeholder for the dungeon name in the configuration file of the dungeon
+instancedDungeonDescription:
+- '&fCreate a new instance of the dungeon'
+- $dungeonName &ffor youreself and maybe
+- '&fsome friends!'
 # Sets whether elites and bosses spawned by elitemobs will always show their nametags.
 # Not recommended!
 alwaysShowEliteMobNameTags: false

@@ -3,12 +3,64 @@
 placeholder.inteam: true
 placeholder.notinteam: false
 placeholder.noTitle: 
+invite.hover: &6Click to join &b{0}
+info.online: &a
+info.offline: &c
 kick.title: &4You have been kicked from your team
 ban.title: &4You have been banned from your team
+admin.teleport.player.success: &6That player was teleported
 admin.bal.toSmall: &4The balance must be greater than 0
 admin.bal.success: &6That teams balance has been changed
-admin.versionlanguage: &6Language Selected: &b%s
+admin.versionlanguage: &6Language Selected: &b{0}
+admin.ally.same: &4You cannot make a team an ally of itself
+admin.ally.already: &4Those teams are already allies
+admin.ally.success: &6Those two teams are now allies
+admin.neutral.same: &4You cannot enter the same team twice
+admin.neutral.not: &4Those teams are not allies
+admin.neutral.success: &6Those teams are no longer allies
 help.chest: 
+help.header: &6---- &bBetterTeams Help &6----
+help.footer: &6---- &bPage {0}/{1} - /{2} help <page> &6----
 command.holo: holo
 command.setowner: setowner
 internalError: &4Something went wrong while executing that command, please report it to your server owners
+helpArg.delhome: 
+helpArg.echest: 
+helpArg.color: <color code>
+helpArg.allychat: [message]
+helpArg.description: [description]
+helpArg.setwarp: <name> [password]
+helpArg.title: [player/me] [title]
+helpArg.bal: 
+helpArg.ban: <player>
+helpArg.promote: <player>
+helpArg.warps: 
+helpArg.top: 
+helpArg.ally: <team>
+helpArg.rankup: 
+helpArg.leave: 
+helpArg.sethome: 
+helpArg.create: <name> [tag]
+helpArg.rank: [team]
+helpArg.join: <team>
+helpArg.tag: [tag]
+helpArg.disband: 
+helpArg.info: [team/player]
+helpArg.delwarp: <name> [password]
+helpArg.chest: 
+helpArg.neutral: <team>
+helpArg.pvp: 
+helpArg.baltop: 
+helpArg.list: [page]
+helpArg.home: 
+helpArg.help: 
+helpArg.unban: <player>
+helpArg.demote: <player>
+helpArg.kick: <player>
+helpArg.chat: [message]
+helpArg.name: <name>
+helpArg.deposit: <amount>
+helpArg.invite: <player>
+helpArg.open: 
+helpArg.warp: <name>
+helpArg.withdraw: <amount>

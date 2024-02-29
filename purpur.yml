@@ -10,6 +10,8 @@
 
 verbose: false
 settings:
+  register-minecraft-debug-commands: false
+  bee-count-payload: false
   player-deaths-always-show-item: false
   fix-network-serialized-items-in-creative: false
   clamp-attributes: true

@@ -9,7 +9,7 @@ superMobStackRange: 15
 # Sets the maximum level elites can spawn at.
 # Note: elite mob level is based on what armor and weapons players are wearing, and armor only scales up to level 200.
 naturalEliteMobsLevelCap: 250
-# Sets if elites will wear armor based on their level. This is for visual puposes only and does not affect combat.
+# Sets if elites will wear armor based on their level. This is for visual purposes only and does not affect combat.
 doElitesWearArmor: true
 # Sets if elites will wear helmets based on their level. This will prevent them from easily burning away during the daytime.
 doElitesWearHelmets: true

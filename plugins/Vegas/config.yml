@@ -21,7 +21,7 @@
 # ╔═════════════════════════════════════════╗
 # ║  DO NOT CHANGE! THIS IS UPDATE CONTROL  ║
 # ╚═════════════════════════════════════════╝
-Version: Gargantua v.8
+Version: Gargantua v.13
 
 
 # ╔═════════════════════════════════════════╗
@@ -2186,4 +2186,24 @@ Card deck:
     ace:
     - 17dd34924d2b6a213a5ed46ae5783f95373a9ef5ce5c88f9d736705983b97
     - 0
+Use statistics: true
+Roulette minimum amount to start: 0.0
+Darts minimum amount to start: 0.0
+Darts game duration (changes of figures): 60
+Drums minimum amount to start: 0.0
+Races minimum amount to start: 0.0
+Pyramid minimum amount to start: 0.0
+Stairs minimum amount to start: 0.0
+Lottery minimum amount to start: 0.0
+Crash minimum amount to start: 0.0
+Crash movement interval: 0.01
+Classic minimum amount to start: 0.0
+BlackJack minimum amount to start: 0.0
+BlackJack original card values: false
+RockPaperScissors minimum amount to start: 0.0
+TicTacToe minimum amount to start: 0.0
+DeadMansChest minimum amount to start: 0.0
+Poker use chat: true
+Dice minimum amount to start: 0.0
+DiscordSRV channel: ''
 

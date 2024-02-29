@@ -859,3 +859,4 @@ Discord little victory message:
 Discord jackpot message:
 - ':gem: [CASINO] **%player%** se llevó el premio mayor de **%total%** ⛃'
 You have no chips: '&c¡No tienes fichas en tu inventario!'
+Minimum chip value limit: '&c¡No puedes apostar una ficha porque su valor es bajo!'

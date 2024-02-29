@@ -8,25 +8,25 @@ noPlayer: '&4el jugador especificado no se pudo encontrar.'
 notTeam: '&6No existe un equipo con ese nombre, prueba &b/team create <nombre>'
 needSameTeam: '&6No estas en el mismo equipo que el jugador especificado.'
 noPerm: '&4No tienes permisos para hacer eso.'
-prefixSyntax: '&7[%s&7] &r%s'
+prefixSyntax: '&7[{0}&7] &r{1}'
 bannedChar: '&4Algun carácter  que usaste no está  permitido.'
 noTeam: '&4No existe ese equipo.'
 loading: '&6Cargando...'
 cooldown:
-  wait: '&4Espera %s segundos antes de realizar esa acción!'
+  wait: '&4Espera {0} segundos antes de realizar esa acción!'
 cost:
   tooPoor: '&4Eres demasiado pobre para ejecutar ese comando.'
-  run: '&4&l-%s'
+  run: '&4&l-{0}'
 placeholder:
   noTeam: ''
   noDescription: ''
-  money: '%s'
+  money: '{0}'
   owner: Líder
   admin: Admin
   default: Default
-  name: '%s'
-  tag: '%s'
-  displayname: '%s'
+  name: '{0}'
+  tag: '{0}'
+  displayname: '{0}'
 prefix:
   owner: ' **'
   admin: ' *'
@@ -43,10 +43,11 @@ leave:
 rank:
   noTeam: '&4Equipo no encontrado.'
   info: '&6Posición del equipo:'
-  infos: '&6Rango del equipo: &b%s &7(%s puntuación requerida para el siguiente rango)'
-  infom: '&6Rango del equipo: &b%s &7($%s necesarios para el próximo rango)'
-  infomm: '&6Rango del equipo: &b%s &7(¡Rango máximo alcanzado!)'
-  syntax: '&b%s: &6%s &7(%s)'
+  infos: '&6Rango del equipo: &b{0} &7({1} puntuación requerida para el siguiente
+    rango)'
+  infom: '&6Rango del equipo: &b{0} &7(${1} necesarios para el próximo rango)'
+  infomm: '&6Rango del equipo: &b{0} &7(¡Rango máximo alcanzado!)'
+  syntax: '&b{0}: &6{1} &7({2})'
 delhome:
   success: '&6El "home" de tu equipo ha sido borrado.'
   noHome: '&4Tu equipo no ha colocado un "home"'
@@ -55,25 +56,25 @@ disband:
   confirm: '&6Escribe &b/team disband &6nuevamente para confirmar.'
 description:
   success: '&6Has cambiado la descripción del equipo.'
-  view: '&6Descripción del equipo: %s'
+  view: '&6Descripción del equipo: {0}'
   noDesc: '&6No se ha establecido una descripción para el equipo'
   noPerm: '&4No tienes permisos para modificar la descripción del equipo.'
 name:
   success: '&6Has cambiado el nombre del equipo.'
-  view: '&6Nombre del equipo: %s'
+  view: '&6Nombre del equipo: {0}'
   exists: '&4Ya existe un equipo con ese nombre.'
   noPerm: '&4No tienes permisos para cambiar el nombre del equipo.'
 invite:
   success: '&6Se ha invitado al jugador.'
-  invite: '&6Has sido invitado a unirte al equipo &b%s &6escribe &b/team join <equipo>
+  invite: '&6Has sido invitado a unirte al equipo &b{0} &6escribe &b/team join <equipo>
     &6 para unirte.'
   inTeam: '&6El jugador ya se encuentra en un equipo.'
   banned: '&6El jugador esta baneado de tu equipo.'
   full: '&6Equipo lleno, se requiere expulsar a alguien para invitar a otro jugador.'
-  expired: '&4La invitación de &b%s ha expirado.'
+  expired: '&4La invitación de &b{0} ha expirado.'
 join:
   success: '&6Te has unido al equipo!'
-  notify: '&6Bienvenido &b%s &6al equipo!'
+  notify: '&6Bienvenido &b{0} &6al equipo!'
   notInvited: '&6No has sido invitado a ese equipo.'
   banned: '&4Has sido baneado del equipo.'
   full: '&4El equipo esta lleno.'
@@ -81,7 +82,7 @@ open:
   successopen: '&6tu equipo ahora esta abierto para cualquier jugador.'
   successclose: '&6Ahora se requiere invitación para unirse a tu equipo.'
 title:
-  change: '&6Tu titulo ha sido cambiado a: &b%s'
+  change: '&6Tu titulo ha sido cambiado a: &b{0}'
   remove: '&6Tu titulo ha sido removido.'
   success: '&6Se ha cambiado el título.'
   tooLong: '&4Titulo demasiado largo.'
@@ -91,30 +92,30 @@ title:
   noPerm: '&4No tienes permisos para cambiar el título de tu equipo.'
 info:
   needTeam: '&6No se pudo encontrar equipo o jugador con ese nombre.'
-  name: '&6Nombre: &b%s'
-  description: '&6Description: &b%s'
-  open: '&6Abierto: &b%s'
-  level: '&6Nivel: &b%s'
-  owner: '&6Lider: &b%s'
-  admin: '&6Admins: &b%s'
-  default: '&6Miembros: &b%s'
-  tag: '&6Etiqueta: &b%s'
+  name: '&6Nombre: &b{0}'
+  description: '&6Description: &b{0}'
+  open: '&6Abierto: &b{0}'
+  level: '&6Nivel: &b{0}'
+  owner: '&6Lider: &b{0}'
+  admin: '&6Admins: &b{0}'
+  default: '&6Miembros: &b{0}'
+  tag: '&6Etiqueta: &b{0}'
   fail: '&6No se pudo encontrar equipo o jugador con ese nombre.'
-  score: '&6Puntuación: &b%s'
-  money: '&6Balance: &b%s'
-  ally: '&6Aliados: &b%s'
+  score: '&6Puntuación: &b{0}'
+  money: '&6Balance: &b{0}'
+  ally: '&6Aliados: &b{0}'
 kick:
   success: '&6El jugador ha sido expulsado.'
-  notify: '&6Has sido expulsado del equipo %s'
+  notify: '&6Has sido expulsado del equipo {0}'
   noPerm: '&6No tienes permiso para expulsar al jugador.'
 ban:
   success: '&6El jugador ha sido baneado del equipo.'
-  notify: '&6Has sido baneado del equipo %s.'
+  notify: '&6Has sido baneado del equipo {0}.'
   noPerm: '&6No tienes permisos para banear al jugador.'
   already: '&6El jugador ya se encuentra expulsado.'
 unban:
   success: '&6El jugador ya no está expulsado del equipo.'
-  notify: '&6Ya no estas expulsado del equipo %s.'
+  notify: '&6Ya no estas expulsado del equipo {0}.'
   noPerm: '&6No tiene permisos para remover el baneo de ese jugador.'
   not: '&6El jugador no ha sido expulsado.'
 promote:
@@ -144,7 +145,7 @@ sethome:
 chat:
   enabled: '&6Tus mensajes ahora se muestran en el chat del equipo.'
   disabled: '&6Tus mensajes ahora se muestran en el chat global.'
-  syntax: '&b[Team]&f%s&f: %s'
+  syntax: '&b[Team]&f{0}&f: {1}'
 color:
   success: '&6El color de tu equipo ha sido cambiado.'
   fail: '&6Color no valido'
@@ -162,12 +163,12 @@ withdraw:
 ally:
   already: '&4Ahora son aliados.'
   success: '&6Ahora sus equipos son aliados.'
-  ally: '&6Tu equipo ahora eta aliado con &b%s'
+  ally: '&6Tu equipo ahora eta aliado con &b{0}'
   requested: '&6Una solicitud de alianza ha sido enviada a tu equipo.'
-  request: '&b%s &6ha enviado una solicitud de alianza, usa &b/team ally <equipo>
+  request: '&b{0} &6ha enviado una solicitud de alianza, usa &b/team ally <equipo>
     &6para aceptar.'
   self: '&4No puedes ser aliado de tu propio equipo.'
-  from: '&6Tienes una solicitud de alianza de: %s'
+  from: '&6Tienes una solicitud de alianza de: {0}'
   noRequests: '&4No tienes solicitudes de alianza.'
   onJoin: '&6Tienes nuevas solicitudes de alianza. Usa &b/team ally &6para mirarlas.'
   limit: '&4El límite de aliados ha sido alcanzado.'
@@ -175,18 +176,18 @@ ally:
 allychat:
   disabled: '&6Tus mensajes ya no se muestran en el chat de aliados.'
   enabled: '&6Tus mensajes ahora se muestran en el chat de aliados.'
-  syntax: '&d[%s]&f%s&f: %s'
+  syntax: '&d[{0}]&f{1}&f: {2}'
 neutral:
   self: '&6Es de tu propio equipo.'
   requestremove: '&6Solicitud de alianza eliminada.'
-  reject: '&4Tu solicitud de alianza con &b%s &4ha sido rechazada.'
+  reject: '&4Tu solicitud de alianza con &b{0} &4ha sido rechazada.'
   notAlly: '&4No tienes una alianza con ese equipo.'
   success: '&4Ya no estas aliad@ con ese equipo.'
-  remove: '&4Ya no estas aliado con &b%s'
+  remove: '&4Ya no estas aliado con &b{0}'
 list:
   noPage: '&6No se ha encontrado la página.'
-  header: '&7---         &bLista de equipos - pagina         %s &7---'
-  body: '&6%s: &b%s'
+  header: '&7---         &bLista de equipos - pagina         {0} &7---'
+  body: '&6{0}: &b{1}'
   footer: '&7--- &6Escribe &b/team list [pagina] &6para ver mas &7---'
 setowner:
   use: '&6No puedes promover al jugador, usa &b/team setowner <jugador> &6para promover
@@ -205,13 +206,13 @@ warp:
   success: '&6Has sido teletransportado.'
   world: '&4No se pudo encontrar la ubicación.'
 warps:
-  syntax: '&6Warps: &b%s'
+  syntax: '&6Warps: &b{0}'
   none: '&4Tu equipo no tiene puntos de transporte establecidos.'
 delwarp:
   success: '&4El punto de transporte ha sido borrado.'
 teleport:
   fail: '&4La teletransportación ha fallado.'
-  wait: '&6Espera &b%s &6segundos'
+  wait: '&6Espera &b{0} &6segundos'
 chest:
   claim:
     noChest: '&4No estas sobre un cofre.'
@@ -224,7 +225,7 @@ chest:
     success: '&4El cofre ya no pertenece a tu equipo.'
   all:
     success: '&6Todos los cofres ahora están como no reclamados.'
-  claimed: '&4Cofre reclamado por &a%s'
+  claimed: '&4Cofre reclamado por &a{0}'
 echest:
   echest: Enderchest
 pvp:
@@ -232,8 +233,8 @@ pvp:
   disabled: '&6Se ha deshabilitado el PvP para tu equipo.'
 rankup:
   max: '&4Ya estas en el rango máximo.'
-  score: '&4Necesitas %s puntos para subir de rango.'
-  money: '&4Necesitas %s en el banco del equipo para subir de rango.'
+  score: '&4Necesitas {0} puntos para subir de rango.'
+  money: '&4Necesitas {0} en el banco del equipo para subir de rango.'
   success: '&6tu equipo ha subido de nivel.'
 tag:
   banned: '&4Tu etiqueta esta baneada.'
@@ -259,7 +260,7 @@ admin:
   title:
     success: '&6El título de los jugadores ha sido cambiado.'
     reset: '&6El título de los jugadores ha sido restablecido.'
-  version: '&6Versión actual del plugin: %s'
+  version: '&6Versión actual del plugin: {0}'
   noTeam: '&4No es un equipo.'
   home:
     success: '&6Has sido teletransportado al "home" del equipo.'
@@ -278,7 +279,7 @@ admin:
   join:
     banned: '&4El jugador ha sido expulsado permanentemente de ese equipo.'
     success: '&6El jugador se ha unido al equipo.'
-    notify: '&6Te has unido al equipo &b%s'
+    notify: '&6Te has unido al equipo &b{0}'
     full: '&4El equipo especificado está lleno.'
   notInTeam: '&6El jugador no puede estar en un equipo antes de realizar esa acción.'
   inTeam: '&4El jugador especificado no se encuentra en un equipo.'
@@ -341,29 +342,35 @@ admin:
       success: '&6Protección de cofres habilitada.'
     enabled:
       bc: '&6&lTodos los cofres reclamados están bloqueados.'
-  versionstorage: '&6Método de almacenamiento: &b%s'
-  versionversion: '&6Versión de Minecraft: &b%s'
+  versionstorage: '&6Método de almacenamiento: &b{0}'
+  versionversion: '&6Versión de Minecraft: &b{0}'
   teleport:
     success: '&6Todos los miembros online han sido teleportados.'
+    noWorld: '&4Mundo especificado no encontrado'
+    all:
+      success: '&6Todos los miembros en línea de todos los equipos fueron teletransportados'
+      home:
+        success: '&6Todos los miembros en línea de todos los equipos con un hogar
+          fueron teletransportados'
 nametag:
-  syntax: '&6&l%s&r '
+  syntax: '&6&l{0}&r '
 holo:
   leaderboard: '&6Tabla de clasificación'
-  syntax: '&6%s: &b%s'
-  msyntax: '&6%s: &b$%s'
+  syntax: '&6{0}: &b{1}'
+  msyntax: '&6{0}: &b${1}'
 top:
   leaderboard: '&6Tabla de clasificación'
-  syntax: '&b%s: &6%s &7(%s)'
+  syntax: '&b{0}: &6{1} &7({2})'
   divide: '&f...'
 baltop:
   leaderboard: '&6Tabla de clasificación'
-  syntax: '&b%s: &6%s &7(%s)'
+  syntax: '&b{0}: &6{1} &7({2})'
   divide: '&f...'
 spy:
   stop: '&6Ya no se muestran mensajes de otros equipos en modo espía.'
   start: '&6Espiando los mensajes de los equipos.'
-  team: '&7[&b%s&7]&f%s&f: %s'
-  ally: '&7[&d%s&7]&f%s&f: %s'
+  team: '&7[&b{0}&7]&f{1}&f: {2}'
+  ally: '&7[&d{0}&7]&f{1}&f: {2}'
 uclaim:
   team: '&4Debes estar en un equipo para crear una protección'
   member: '&4No puedes abandonar el territorio de tu equipo.'
@@ -468,3 +475,7 @@ command:
   bal: bal
   withdraw: withdraw
   money: money
+announce:
+  join: '&3{0} &7se ha unido al equipo {1}'
+  leave: '&3{0} &7ha abandonado el equipo {1}'
+  disband: '&7El equipo {0} ha sido disuelto'

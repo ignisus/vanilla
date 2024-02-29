@@ -34,7 +34,7 @@ npc:
     # The range in blocks before attacking the target
     attack-range: 3.0625
     # Whether to use the Citizens pathfinder instead of the Minecraft pathfinder
-    # Much more flexible, but may have different performance characteristics
+    # Much more flexible, but may have different performance to Minecraft's pathfinder
     use-new-finder: false
     defaults:
       destination-teleport-margin: -1
@@ -47,6 +47,8 @@ npc:
     default-range-blocks: 75.0
     # The maximum number of blocks to check when MINECRAFT pathfinding
     maximum-visited-blocks: 768
+    # The default action to perform when NPCs are unable to find a path or are stuck in the same block for too long
+    # Supported options are: 'teleport to destination' or 'none'
     default-stuck-action: teleport to destination
     # The default allowed maximum fall distance when pathfinding, set to -1 to use the Minecraft value
     allowed-fall-distance: -1
@@ -93,6 +95,8 @@ npc:
     spawn-nodamage-duration: 1s
     # Default duration in the same location before the NPC considers itself stuck and failed pathfinding
     stationary-duration: -1
+    # Whether to reset NPC yaw on spawn
+    # Currently this is implemented by an arm swing animation due to Minecraft limitations
     reset-yaw-on-spawn: true
   chat:
     options:
@@ -131,6 +135,7 @@ npc:
     # How often to update hologram names (including placeholders)
     update-rate: 1s
     use-display-entities: false
+    # Whether to always update the hologram position every tick
     always-update-position: false
   limits:
     # Default maximum number of NPCs owned by a single player (give the citizens ignore-limits permission to skip this check)
@@ -174,6 +179,8 @@ npc:
     player-join-update-delay: 3s
     # How often to update placeholders
     placeholder-update-frequency: 5m
+    # Whether to try and look for the player skin for all new NPCs
+    # If this is set to false and you create an NPC named Dinnerbone, the NPC will have the default (steve/alex/etc) skin rather than trying to fetch the Dinnerbone skin
     try-fetch-default-skin: true
   chunks:
     # Whether to keep NPC chunks loaded
@@ -235,7 +242,7 @@ general:
     message-highlight: <e>
     message: <a>
   translation:
-    # Controls translation files - defaults to your system language, set to en if English required
+    # Controls translation files - defaults to your system language, set to 'en' if English required
     locale: ''
   reload-warning-enabled: true
   entity-spawn-wait-ticks: 10
@@ -261,5 +268,7 @@ storage:
   file: saves.yml
   # Although technically Citizens can use NBT storage, it is not well tested and YAML is recommended
   type: yaml
+  # How often to save NPCs to disk
+  save-task-frequency: 1hr
 subplugins:
   folder: plugins

@@ -118,3 +118,11 @@ database:
   user: root
   password: password
 titleRemoval: true
+announceTeamJoin: false
+announceTeamLeave: false
+announceTeamDisband: false
+chatPrefixes:
+  globalToTeam: '!'
+  globalToAlly: '?'
+  teamOrAllyToGlobal: '!'
+bannedColors: ''
