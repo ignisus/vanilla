@@ -10,8 +10,8 @@ worlds:
   # You can override the properties of the template by specifying them in this section
   #    for example 'Title: "My Awesome World"'
   - name: Earth
-    title: "La Tierra"
-    extrazoomout: 2
+    title: "The Earth"
+    extrazoomout: 3
   #   Use sendposition: false to prevent player positions from showing when on this world (if sendposition is globally enabled)
   #  sendposition: false
   #   Use sendhealth: false to prevent player health from showing when on this world (if sendhealth is globally enabled)
@@ -57,7 +57,7 @@ worlds:
   #    y: 64
   #    z: 0
   #  # If bigworld set to true, use alternate directory layout better suited to large worlds
-  #  bigworld: true
+    bigworld: true
   #  # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
   #  extrazoomout: 3
   #  # Default delay on processing of updated tiles, in seconds.  This can reduce potentially expensive re-rendering
@@ -70,10 +70,10 @@ worlds:
         title: "3D"
         prefix: surface
         perspective: iso_SW_30_hires
-        shader: stdtexture
+        shader: default
         lighting: shadows
         showborder: false
-        mapzoomin: 1
+        mapzoomin: 0
   - name: Earth_nether
     title: "Earth_nether"
     enabled: false

@@ -1,0 +1,56 @@
+GriefDefender {
+    accessor-groups=[]
+    accessors=[]
+    attributes=[]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-spawn="-1343;58;-7459"
+    claim-type=admin
+    clanData {
+        accessor-tags=[]
+        builder-tags=[]
+        container-tags=[]
+        manager-tags=[]
+        resident-tags=[]
+    }
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2024-02-29T13:46:06.255793357Z"
+    date-last-active="2024-02-29T13:46:06.255856650Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        forRent=false
+        rent-balances {}
+        rent-break-ability=false
+        rent-max-time=1
+        rent-min-time=1
+        rent-payment-type=DAILY
+        rent-price=1.0
+        rent-strip-nbt=true
+        rentTransactionLog=[]
+        renters=[]
+        renters-delinquent=[]
+        sale-price=0.0
+        tax-balance=0.0
+        taxTransactionLog=[]
+    }
+    enter-title="Chiringuito;;0;3;1"
+    greater-boundary-corner="-1280;319;-7459"
+    inherit-parent=false
+    isChestClaim=false
+    isExpired=false
+    lesser-boundary-corner="-1344;-64;-7543"
+    manager-groups=[]
+    managers=[]
+    owner-uuid="11111111-1111-1111-1111-111111111111"
+    requires-claim-blocks=true
+    resident-groups=[]
+    residents=[]
+    resizable=true
+    sizeRestrictions=false
+    world-uuid="75db9244-1c1a-4310-8e4d-c04f5afdaec6"
+}

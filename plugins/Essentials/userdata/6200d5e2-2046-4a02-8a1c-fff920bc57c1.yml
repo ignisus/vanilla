@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 31.221.240.153
+ip-address: 213.177.202.248
 afk: false
 socialspy: false
 npc: false
@@ -11,23 +11,25 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1697843562611
+  lastteleport: 1709325040225
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1703959161120
-  login: 1703958859073
-money: '100095529940.0'
+  logout: 1709326006034
+  login: 1709324877643
+  kits:
+    diario: 1709325175784
+money: '100074294940.0'
 last-account-name: Darkness___boy
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: -1831.300000011921
-  y: 44.3000040560146
-  z: -7571.166667752223
-  yaw: -84.58528137207031
-  pitch: -83.84993743896484
+  x: -1915.9903870202227
+  y: 56.21081293152122
+  z: -7527.293388030229
+  yaw: -123.72381591796875
+  pitch: 14.250457763671875
 homes:
   home:
     world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
@@ -40,8 +42,8 @@ homes:
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: -1886.7870498207376
-  y: 35.0
-  z: -7568.923740984095
-  yaw: -98.2188491821289
-  pitch: 11.842168807983398
+  x: -1860.3136272888858
+  y: 36.0
+  z: -7564.798939200495
+  yaw: -43.08251953125
+  pitch: 26.84954261779785

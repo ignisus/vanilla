@@ -5,6 +5,7 @@ GriefDefender {
     builder-groups=[]
     builders=[]
     claim-expiration=true
+    claim-name=Sevilla
     claim-type=basic
     clanData {
         accessor-tags=[]
@@ -17,7 +18,7 @@ GriefDefender {
     containers=[]
     cuboid=false
     date-created="2024-02-28T13:08:45.868983864Z"
-    date-last-active="2024-02-29T10:09:02.604137728Z"
+    date-last-active="2024-03-22T12:58:30.272391494Z"
     deny-messages=true
     economyData {
         bankTransactionLog=[]
@@ -37,11 +38,12 @@ GriefDefender {
         tax-balance=0.0
         taxTransactionLog=[]
     }
-    greater-boundary-corner="-1197;319;-7632"
+    enter-title="Sevilla;;0;3;1"
+    greater-boundary-corner="-1017;319;-7600"
     inherit-parent=false
     isChestClaim=false
     isExpired=false
-    lesser-boundary-corner="-1205;-64;-7640"
+    lesser-boundary-corner="-1281;-64;-7775"
     manager-groups=[]
     managers=[]
     owner-uuid=f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
