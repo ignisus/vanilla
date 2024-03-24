@@ -128,7 +128,7 @@ presets:
     # This Strategy Preset controls the application of a random level variance to level previously applied.
     name: 'LVLling Modifier - Apply Variance'
     strategies:
-      max-random-variance: 2
+      max-random-variance: 500
 
   ycoord_Levelling:
     # This Strategy Preset controls Y-Coordinate-Levelling.
@@ -244,13 +244,13 @@ presets:
       minLevel: 1
       maxLevel: 1500
       multipliers:
-        max-health: 10.0
+        max-health: 9.0
         movement-speed: 1.0
         attack-damage: 5.0
         ranged-attack-damage: 3.0
-        creeper-blast-damage: 10.0
-        follow-range: 0.5
-        item-drop: 3.0
+        creeper-blast-damage: 20.0
+        follow-range: 0.4
+        item-drop: 5.0
         xp-drop: 5.0
         #       Special Multipliers (0.0 Min - 1.0 Max)
         armor-bonus: 0.5
@@ -273,7 +273,7 @@ presets:
         1000-1499: '&#000000' #negro
         default: '&#FFFFFF' #White
       health-indicator:
-        scale: 16
+        scale: 10
         max: 5
         merge: true
 
@@ -325,7 +325,7 @@ default-rule:
     #- nametag_using_indicator
     #- basic_challenge
     #- average_challenge
-    - advanced_challenge
+    #- advanced_challenge
     - extreme_challenge
     #- weighted_random_Levelling
     #- spawn_Levelling
@@ -333,7 +333,7 @@ default-rule:
     #- ycoord_Levelling
     #- random_Levelling
     - lvl-mod_player-variable
-    #- lvl-mod_apply-variance
+    - lvl-mod_apply-variance
 
   conditions:
     allowed-spawn-reasons:
@@ -367,8 +367,8 @@ default-rule:
         excluded-list: ['LEADER_ZOMBIE_BONUS', 'RANDOM_SPAWN_BONUS']
 
     sunlight-intensity: 5
-    creeper-max-damage-radius: 3
-      
+    creeper-max-damage-radius: 4
+
     entity-name-override:
         AXOLOTL: ['Ajolote']
         BAT: ['Murciélago']
@@ -491,7 +491,7 @@ custom-rules:
         allowed-list: [ 'BABY_', 'VILLAGER', 'ZOMBIE_VILLAGER', 'WANDERING_TRADER']
     apply-settings:
       maxLevel: 0
-      
+
   - enabled: true
     priority: 1
     name: 'CR - tag'
@@ -503,7 +503,7 @@ custom-rules:
      multipliers:
       max-health: 0
       item-drop: 5
-      
+
   - enabled: true
     priority: 1
     name: 'CR - Custom Entity Attributes'
@@ -513,7 +513,6 @@ custom-rules:
         custom-mob-level:
           CREEPER:
             creeper-blast-damage: 200
-            
 
   - enabled: true
     priority: 0
@@ -522,7 +521,7 @@ custom-rules:
     conditions:
       worlds:
         allowed-list: ['Earth_nether', 'Earth_the_end']
-      
+
   - enabled: false
     name: 'CR - Custom Nether Levelling'
     conditions:
@@ -532,15 +531,6 @@ custom-rules:
         start: 100
         end: 40
         period: 0
-
-  - enabled: true
-    name: 'CR - Custom Entity Attributes'
-    use-preset: allowed_worlds
-    apply-settings:
-      multipliers:
-          CREEPER:
-            movement-speed: 0.025
-            creeper-blast-damage: 10
 
   - enabled: false
     name: 'CR - Custom Zombie Piglin Levelling'
@@ -560,7 +550,7 @@ custom-rules:
         item-drop: 0.5
         xp-drop: 1.0
       tiered-coloring:
-        1-5: '&#FFFFFF' #Green
+        1-5: '&#FFFFFF' #White
 
 
 # +-------------------------------------------------------------------------------------------LM3

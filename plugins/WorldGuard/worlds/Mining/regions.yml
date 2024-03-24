@@ -42,6 +42,14 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    betterstructures_autoprotected_bb_throneroom_grasslands_boss_-892_-23_-712:
+        min: {x: -921, y: -26, z: -724}
+        max: {x: -887, y: 0, z: -700}
+        members: {}
+        flags: {betterstructures-protect: allow, passthrough: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
     betterstructures_autoprotected_bb_hiddenchamber_grasslands_boss_56_48_72:
         min: {x: 41, y: 47, z: 57}
         max: {x: 71, y: 65, z: 87}

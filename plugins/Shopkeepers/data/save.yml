@@ -200,7 +200,7 @@ data-version: 3|2|3700
   x: 29408
   y: 6
   z: -8669
-  yaw: 286.9627
+  yaw: 263.94608
   type: admin
   name: Compro ORO
   object:
@@ -6842,7 +6842,8 @@ data-version: 3|2|3700
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
-        type: HEART_OF_THE_SEA
+        type: NETHERITE_INGOT
+        amount: 64
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
@@ -6859,7 +6860,7 @@ data-version: 3|2|3700
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
-        type: NETHERITE_INGOT
+        type: NETHERITE_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
@@ -6887,32 +6888,9 @@ data-version: 3|2|3700
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
-        type: NETHERITE_INGOT
+        type: NETHERITE_BLOCK
         amount: 64
     '4':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: WRITTEN_BOOK
-        meta:
-          ==: ItemMeta
-          meta-type: BOOK_SIGNED
-          title: §4End Infinito
-          author: eldiosx
-          pages:
-          - '{"text":"Obtener un mapa end infinito con spawner de dragones automatico,
-            canjear con un administrador."}'
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: NETHERITE_BLOCK
-        amount: 64
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: NETHERITE_BLOCK
-        amount: 64
-    '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -6933,8 +6911,9 @@ data-version: 3|2|3700
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
-        type: HEART_OF_THE_SEA
-    '6':
+        type: NETHERITE_INGOT
+        amount: 64
+    '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -6950,14 +6929,14 @@ data-version: 3|2|3700
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
-        type: NETHERITE_INGOT
+        type: NETHERITE_BLOCK
         amount: 64
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
         type: NETHERITE_INGOT
         amount: 64
-    '7':
+    '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -6969,29 +6948,6 @@ data-version: 3|2|3700
           author: eldiosx
           pages:
           - '{"text":"Obtener un mapa nether grande con dungeon personal, canjear
-            con un administrador."}'
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: NETHERITE_BLOCK
-        amount: 64
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: NETHERITE_INGOT
-        amount: 64
-    '8':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: WRITTEN_BOOK
-        meta:
-          ==: ItemMeta
-          meta-type: BOOK_SIGNED
-          title: §4Nether Infini
-          author: eldiosx
-          pages:
-          - '{"text":"Obtener un mapa nether infinito con dungeon personal, canjear
             con un administrador."}'
       item1:
         ==: org.bukkit.inventory.ItemStack
@@ -7310,4 +7266,35 @@ data-version: 3|2|3700
         ==: org.bukkit.inventory.ItemStack
         v: 3700
         type: GOLD_INGOT
+  snapshots: []
+'75':
+  uniqueId: e6f04df3-89df-4bce-acf7-b7293812a57d
+  world: Earth
+  x: -26987
+  y: -51
+  z: -7142
+  yaw: 226.04506
+  type: admin
+  name: Sandy Cheeks
+  object:
+    type: citizen
+    npcId: 1ccb94f4-db7a-4c96-8a26-0cd1db25199d
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TURTLE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '"Sandy Helmet"'
+          enchants:
+            WATER_WORKER: 1
+            OXYGEN: 3
+          repair-cost: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_BLOCK
   snapshots: []

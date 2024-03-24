@@ -1,0 +1,10 @@
+uuid: f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
+name: eldiosx
+primary-group: admin
+parents:
+- admin
+meta:
+- griefdefender.raid:
+    value: 'false'
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c

@@ -30,7 +30,7 @@ Version: Gargantua v.13
 # ╚═════════════════════════════════════════╝
 
 Language: es
-Send message to op (discord support): true
+Send message to op (discord support): false
 Send victory message: true
 Spawn fireworks (victory): true
 

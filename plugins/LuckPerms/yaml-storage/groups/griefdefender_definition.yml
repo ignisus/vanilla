@@ -1,5 +1,359 @@
 name: griefdefender_definition
 permissions:
+- griefdefender.flag.block-break:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source:
+      - minecraft:chain_command_block
+      - minecraft:command_block
+      - minecraft:repeating_command_block
+- griefdefender.flag.block-place:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source:
+      - minecraft:chain_command_block
+      - minecraft:command_block
+      - minecraft:repeating_command_block
+- griefdefender.flag.interact-entity-secondary:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target:
+      - minecraft:glow_item_frame
+      - minecraft:item_frame
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 62778e5d-8155-47e4-aed7-f7d2099c0afa
+      source: '#monster'
+      target: '#aquatic'
+- griefdefender.flag.projectile-impact-entity:
+    value: false
+    context:
+      gd_claim: 62778e5d-8155-47e4-aed7-f7d2099c0afa
+      source: '#monster'
+      target: '#aquatic'
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 62778e5d-8155-47e4-aed7-f7d2099c0afa
+      source: '#monster'
+      target: '#animal'
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      target:
+      - minecraft:glow_item_frame
+      - minecraft:item_frame
+- griefdefender.flag.projectile-impact-entity:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      target:
+      - minecraft:glow_item_frame
+      - minecraft:item_frame
+- griefdefender.flag.block-break:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:villager
+      target: '#crops'
+- griefdefender.flag.block-place:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:villager
+      target: '#crops'
+- griefdefender.flag.block-break:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:turtle_egg
+      target: minecraft:turtle_egg
+- griefdefender.flag.block-modify:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:turtle_egg
+      target: minecraft:turtle_egg
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:turtle_egg
+      target: minecraft:turtle_egg
+- griefdefender.flag.block-place:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:turtle
+      target: minecraft:turtle_egg
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+      target: minecraft:player
+- griefdefender.flag.projectile-impact-entity:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+      target: minecraft:player
+- griefdefender.flag.interact-item-secondary:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+      target: minecraft:ender_pearl
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+      target: minecraft:end_crystal
+- griefdefender.flag.interact-entity-secondary:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+      target: minecraft:end_crystal
+- griefdefender.flag.interact-item-secondary:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+      target: minecraft:end_crystal
+- griefdefender.flag.entity-teleport-from:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:end_portal
+      target: minecraft:player
+- griefdefender.flag.projectile-impact-entity:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:arrow
+      target: minecraft:end_crystal
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: '#monster'
+      target: minecraft:player
+- griefdefender.flag.projectile-impact-entity:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: '#monster'
+      target: minecraft:player
+- griefdefender.flag.collide-block:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      target:
+      - minecraft:farmland
+      - minecraft:turtle_egg
+- griefdefender.flag.liquid-flow:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:water
+      target: minecraft:air
+- griefdefender.flag.interact-item-secondary:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: minecraft:flint_and_steel
+- griefdefender.flag.entity-damage:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: minecraft:armor_stand
+- griefdefender.flag.interact-entity-secondary:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: minecraft:armor_stand
+- griefdefender.flag.interact-inventory:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: minecraft:armor_stand
+- griefdefender.flag.interact-item-secondary:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: minecraft:armor_stand
+- griefdefender.flag.entity-riding:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: '#vehicle'
+- griefdefender.flag.interact-entity-secondary:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: '#vehicle'
+- griefdefender.flag.interact-item-secondary:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:player
+      target: '#hanging'
+- griefdefender.flag.liquid-flow:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:lava
+      target: minecraft:air
+- griefdefender.flag.entity-spawn:
+    value: true
+    context:
+      gd_claim: 62778e5d-8155-47e4-aed7-f7d2099c0afa
+      target: '#monster'
+- griefdefender.flag.entity-spawn:
+    value: false
+    context:
+      gd_claim: 62778e5d-8155-47e4-aed7-f7d2099c0afa
+      target: '#animal'
+- griefdefender.flag.interact-entity-secondary:
+    value: false
+    context:
+      gd_claim: 62778e5d-8155-47e4-aed7-f7d2099c0afa
+      source: minecraft:player
+- griefdefender.flag.entity-spawn:
+    value: false
+    context:
+      gd_claim: 337f0239-d13f-4615-92ff-6287922e3dfb
+      target: '#monster'
+- griefdefender.flag.entity-spawn:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      target: minecraft:xp_orb
+- griefdefender.flag.entity-damage:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      target: minecraft:player
+- griefdefender.flag.projectile-impact-entity:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      target: minecraft:player
+- griefdefender.flag.entity-spawn:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      target: '#monster'
+- griefdefender.flag.explosion-entity:
+    value: true
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:tnt
+- griefdefender.flag.item-spawn:
+    value: true
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:sticky_piston
+- griefdefender.flag.block-break:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:ravager
+- griefdefender.flag.interact-block-secondary:
+    value: true
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+- griefdefender.flag.interact-entity-secondary:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+- griefdefender.flag.item-drop:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+- griefdefender.flag.item-pickup:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:player
+- griefdefender.flag.item-spawn:
+    value: true
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:piston
+- griefdefender.flag.block-modify:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:fire
+- griefdefender.flag.block-break:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:fall
+- griefdefender.flag.explosion-entity:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: minecraft:creeper
+- griefdefender.flag.block-break:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: '#animal'
+- griefdefender.flag.block-modify:
+    value: false
+    context:
+      gd_claim: 32a4229c-e791-42cd-a6a8-c4b7c9c5c44c
+      source: '#animal'
+- griefdefender.flag.entity-damage:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      target: minecraft:painting
+- griefdefender.flag.entity-damage:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      target: '#animal'
+- griefdefender.flag.projectile-impact-entity:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      target: '#animal'
+- griefdefender.flag.explosion-block:
+    value: false
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:tnt
+- griefdefender.flag.block-spread:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:lava
+- griefdefender.flag.block-spread:
+    value: true
+    context:
+      gd_claim: 186c84f7-53e2-46d6-b45f-4804c9e4f175
+      source: minecraft:fire
 - weight.-80
 parents:
 - griefdefender_default
