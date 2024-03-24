@@ -475,6 +475,7 @@ command:
   bal: bal
   withdraw: withdraw
   money: money
+  debug: debug
 announce:
   join: '&3{0} &7se ha unido al equipo {1}'
   leave: '&3{0} &7ha abandonado el equipo {1}'

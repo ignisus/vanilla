@@ -18,11 +18,8 @@ doubleJumpUsePermission: doublejump.use
 commandSettings:
   # Specifies whether "/doublejump" command should be enabled
   doubleJumpEnabled: true
-  # General permission for double jump command
   doubleJumpPermission: command.doublejump
-  # Permission for "/doublejump enable(-disable)-for" command
   doubleJumpForPermission: command.doublejump.enablefor
-  # Permission for "/doublejump item-give(-remove)" command
   doubleJumpItemPermission: command.doublejump.giveitem
 # 
 # Jump settings
@@ -46,6 +43,14 @@ jumpSettings:
   soundSettings:
     # Specifies whether to enable double jump sound
     enabled: true
+    # Specifies whether nearby players should hear the jump sound
+    playNearbyEnabled: true
+    # Specifies the distance in X coordinates at which the jump sound should be played
+    playNearbyX: 5.0
+    # Specifies the distance in Y coordinates at which the jump sound should be played
+    playNearbyY: 5.0
+    # Specifies the distance in Z coordinates at which the jump sound should be played
+    playNearbyZ: 5.0
     # List of available sounds: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
     sounds:
     - sound: ENTITY_EXPERIENCE_BOTTLE_THROW
@@ -350,3 +355,17 @@ notificationSettings:
   jumpItemDisabledNotification:
     type: CHAT
     message: "<red>The jump item is disabled<dark_gray>."
+# 
+# Placeholder settings
+# 
+placeholderSettings:
+  # Message shown after using the placeholder if it returns true.
+  # Example:
+  # whenTrueMessage: 'Available'
+  # Placeholder 'jump-player-is-delay' will return 'Available' when player doesn't have delay
+  whenTrueMessage: 'yes'
+  # Message shown after using the placeholder if it returns false.
+  # Example:
+  # whenFalseMessage: 'Cooldown'
+  # Placeholder 'jump-player-is-delay' will return 'Cooldown' when player have delay
+  whenFalseMessage: 'no'

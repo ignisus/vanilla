@@ -327,13 +327,13 @@ render-triggers:
   #- blockredstone
 
 # Title for the web page - if not specified, defaults to the server's name (unless it is the default of 'Unknown Server')
-webpage-title: "IgnisusLand Map"
+webpage-title: "IgnisusLand"
 
 # The path where the tile-files are placed.
-tilespath: /mnt/ignisus/web/web2/tiles
+tilespath: /mnt/ignisusWeb/web1/map/tiles
 
 # The path where the web-files are located.
-webpath: /mnt/ignisus/web/web2
+webpath: /mnt/ignisusWeb/web1/map
 
 # If set to false, disable extraction of webpath content (good if using custom web UI or 3rd party web UI)
 # Note: web interface is unsupported in this configuration - you're on your own

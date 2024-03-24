@@ -372,6 +372,8 @@ admin:
     same: '&4You cannot enter the same team twice'
     not: '&4Those teams are not allies'
     success: '&6Those teams are no longer allies'
+  versiononline: '&6Online mode: &b{0}'
+  versionplayers: '&6Player count: &b{0}'
 nametag:
   syntax: '&6&l{0}&r '
 holo:

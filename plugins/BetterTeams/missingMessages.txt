@@ -18,6 +18,8 @@ admin.ally.success: &6Those two teams are now allies
 admin.neutral.same: &4You cannot enter the same team twice
 admin.neutral.not: &4Those teams are not allies
 admin.neutral.success: &6Those teams are no longer allies
+admin.versiononline: &6Online mode: &b{0}
+admin.versionplayers: &6Player count: &b{0}
 help.chest: 
 help.header: &6---- &bBetterTeams Help &6----
 help.footer: &6---- &bPage {0}/{1} - /{2} help <page> &6----

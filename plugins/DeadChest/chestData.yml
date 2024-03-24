@@ -77,7 +77,7 @@ chestData:
     meta:
       ==: ItemMeta
       meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/2WNsQ6CMBRFb0VUOjiQ+DOOooObie6mlAqV0pe0j6B/LwmYmLjd4ZxzJSCxPTjS7cmz5fdN1RssbIVdZ73RQT14H5vetSbcS3plSM9suigBLASWV0eMSch/BE9DqZwTSAvqPQvMqPhDdaAYSxokElZ1gtVRdao2Y3501kWjQm0qZMjneQn0NJqtMxGYqO8H8AGqYy4xzgAAAA==
+      internal: H4sIAAAAAAAA/2WNsQ6CMBRFb0VUOjiQ+DOOooObie6mlAqV0pe0j6B/L4loTLzTGc7JlYDEeudItwfPlp8XVa8wsxU2nfVGB3XjbWx615pwLemRIT2y6aIEMBOYnx0x3kH+E3gaSuWcQFpQ71lgUsWfqgPFWNLwVSUSVnWCxV51qjbjzxgvi0aF2lTIkE94CnQ3mq0zEZ+9AOYrZ2TOAAAA
       blockMaterial: SHULKER_BOX
   - ==: org.bukkit.inventory.ItemStack
     v: 3700
@@ -330,3 +330,142 @@ chestData:
       Damage: 106
   - null
   chestLocation: Earth;28687.0;74.0;-7820.0
+- ==: ChestData
+  playerUUID: f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba
+  holographicTimer: Earth;28867.5;70.79999995231628;-7902.5
+  worldName: Earth
+  as_timer_id: fe0d9486-490a-49ed-83c6-ec6a3e1ec318
+  playerName: eldiosx
+  isRemovedBlock: false
+  isInfinity: false
+  as_owner_id: 3d7e1f7b-e530-4f91-8478-b1ae24ba8587
+  chestDate: 2024-03-05T23:44:56.514Z
+  xpStored: 24132
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: RAW_GOLD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"Tocken"}'
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: LEVER
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: WRITTEN_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: BOOK_SIGNED
+      display-name: '{"text":"","extra":[{"text":"Utilidades","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+      lore:
+      - '{"text":"","extra":["Click para abrir"]}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+      internal: H4sIAAAAAAAA/+NiYOBgEHbOz81NzEsJSMxLzSn2yC9JSixi4CwA8XQNrSwYABAQsfYlAAAA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: BOOK
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"Lavadora"}],"text":""}'
+      lore:
+      - '{"extra":[{"text":"Regalo de aniversario para tu novia"}],"text":""}'
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      PublicBukkitValues: |-
+        {
+            "furniturelib:model": "KEWashingMachineA"
+        }
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: PIG_SPAWN_EGG
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: SPAWN_EGG
+      display-name: '{"text":"Expositor de comedor"}'
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      PublicBukkitValues: |-
+        {
+            "furniturelib:model": "SalatTeke"
+        }
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: BOOK
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"Microondas"}],"text":""}'
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      PublicBukkitValues: |-
+        {
+            "furniturelib:model": "KEMicrowaveA"
+        }
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: BOOK
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"Pecera"}],"text":""}'
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      PublicBukkitValues: |-
+        {
+            "furniturelib:model": "KEFishTankA"
+        }
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: Earth;28867.0;70.0;-7903.0

@@ -94,18 +94,18 @@ panels:
         stack: 1
         name: 'Home'
         lore:
-        - 'Ve a tu casa con un click'
-        - 'Si no tienes usa /sethome'
-        - 'dentro de tu casa.'
+        - 'Go to home'
+        - 'Set it with /sethome'
+        - 'Only can have 1 home.'
         commands:
         - home
       '21':
         material: SPYGLASS
         stack: 1
-        name: 'Tierra'
+        name: 'Earth'
         lore:
         - 'PVP'
-        - 'Puedes proteger tu casa'
+        - 'Claims'
         commands:
         - warp Malta
       '22':
@@ -114,8 +114,8 @@ panels:
         name: 'Town'
         lore:
         - 'No PVP'
-        - 'No pierdes el inventario'
-        - 'Tiendas, zonas pvp...'
+        - 'Keep inventory'
+        - 'Shops, pvp zones...'
         commands:
         - warp Dragonball
       '23':
@@ -124,8 +124,8 @@ panels:
         name: 'Mining'
         lore:
         - 'PVP'
-        - 'Recursos con reseteo de semilla.'
-        - 'Wipeo semanal (No dejes tus cosas ahi)'
+        - 'More Resources.'
+        - 'Monthly Wipe.'
         commands:
         - rtp world Mining
       '24':
