@@ -12,6 +12,7 @@
       "minecraft:forest": "2023-09-16 18:29:47 +0200",
       "minecraft:jungle": "2023-09-16 18:36:07 +0200",
       "minecraft:ocean": "2023-09-16 18:33:04 +0200",
+      "minecraft:deep_ocean": "2024-03-01 21:33:26 +0100",
       "minecraft:sunflower_plains": "2023-09-16 18:25:32 +0200",
       "minecraft:lukewarm_ocean": "2023-09-16 18:33:05 +0200",
       "minecraft:river": "2023-09-16 18:31:48 +0200",
@@ -1694,6 +1695,18 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2023-10-29 16:14:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-03-01 21:32:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-03-01 21:32:55 +0100"
     },
     "done": true
   },
