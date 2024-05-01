@@ -80,3 +80,98 @@ Physics:
   TreeMaxInvalidScans: 2700
   TreeMaxInvalidBlockDistance: 2
   TreeChopDelay: true
+Sounds: true
+Explosion:
+  Physics: true
+  NaturalDrops: true
+EntityDeathParticles: true
+Particle:
+  Enabled: true
+  Animation:
+    Rotation: true
+    FlyUp: false
+    SpeedInTicks: 40
+    EndSizeMultiplier: 0.5
+  MaxAmount: 4000
+DamageParticles: true
+PerformanceMode: true
+Tree:
+  Physics: true
+  DropSaplings: true
+  ChopDelay: true
+  GravityIfInAir: true
+  AffectedBlocksInPlayerBreakBlocksStatistic: true
+  AdvancedStemScan: false
+  ScanMaxStemSize: 200
+  ScanMaxLeavesSize: 260
+  MaxInvalidScans: 2700
+  MaxInvalidBlockDistance: 2
+VisualCrafting: true
+FallingBlockPhysics: true
+BlockCrackOnFall: true
+TrapdoorPhysics: false
+SprintBreak:
+  Door: false
+  Glass: false
+Regeneration:
+  TreeRegeneration:
+    Enabled: false
+    Delay: 10
+  ExplosionRegeneration:
+    Enabled: false
+    Delay: 10
+BlockParticleBlackList:
+- END_ROD
+- POINTED_DRIPSTONE
+- CANDLE
+- BLACK_CANDLE
+- CYAN_CANDLE
+- GRAY_CANDLE
+- LIGHT_GRAY_CANDLE
+- BAMBOO
+- PURPLE_CANDLE
+- BLUE_CANDLE
+- LIME_CANDLE
+- RED_CANDLE
+- WHITE_CANDLE
+- PINK_CANDLE
+- MAGENTA_CANDLE
+- BROWN_CANDLE
+- GRAY_CANDLE
+- GREEN_CANDLE
+- YELLOW_CANDLE
+- ORANGE_CANDLE
+- RED_CANDLE
+- LIGHT_BLUE_CANDLE
+- CHAIN
+- GRASS
+- DANDELION
+- CRIMSON_FUNGUS
+- WARPED_FUNGUS
+- OXEYE_DAISY
+- WITHER_ROSE
+- ORANGE_TULIP
+- RED_TULIP
+- RED_MUSHROOM
+- BROWN_MUSHROOM
+- TALL_GRASS
+- SCULK_VEIN
+- CHERRY_SAPLING
+- LARGE_FERN
+- SUNFLOWER
+- CORNFLOWER
+- PINK_PETALS
+- TORCHFLOWER
+- MANGROVE_PROPAGULE
+- TWISTING_VINES
+- POPPY
+- ALLIUM
+- PINK_TULIP
+- LILY_OF_THE_VALLEY
+- BLUE_ORCHID
+- WARPED_ROOTS
+- AZURE_BLUET
+- BAMBOO
+DisabledWorldsList:
+- DisabledWorld
+- AnotherDisabledWorld
