@@ -896,6 +896,9 @@ world-settings:
           spawn-chance: 0.0
         takes-damage-from-water: false
       villager:
+        search-radius:
+          acquire-poi: 48
+          nearest-bed-sensor: 48
         controllable: true
         minimum-demand: 0
         display-trade-item: true

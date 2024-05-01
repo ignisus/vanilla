@@ -10,7 +10,7 @@
 # Multiple languages are supported.
 # Please see https://gitlab.com/sugarfyi-team/public/mobstoeggs-public/-/wikis/Language-Files for more info on supported languages.
 # Note: The plugin will attempt to use the language file set below, if this fails or the file doesn't exist, it will revert to 'en'.
-language: "en"
+language: en
 global-values:
   # Should mob eggs be allowed to change the mob spawner type when a spawner is right-clicked?
   # This is useful if you have other plugins that handle spawner changing.
@@ -44,7 +44,7 @@ capsule:
   projectile-type: Egg
   item: Egg
   data: -1
-  name: ""
+  name: ''
   lore: []
 # You can create a custom crafting recipe for the capsule.
 capsule-crafting-recipe:
@@ -58,15 +58,15 @@ capsule-crafting-recipe:
   # E G E
   # E E E
   recipe-shape:
-    - "Air"
-    - "Egg"
-    - "Air"
-    - "Egg"
-    - "Gold_Ingot"
-    - "Egg"
-    - "Egg"
-    - "Egg"
-    - "Egg"
+  - Air
+  - Egg
+  - Air
+  - Egg
+  - Gold_Ingot
+  - Egg
+  - Egg
+  - Egg
+  - Egg
   # This value lets you change how many capsules will you receive when crafting.
   recipe-result-amount: 1
 ##################################
@@ -183,4 +183,4 @@ catch-effects:
 ##############################
 # There is no need to edit config-version at all. The plugin will automatically change this when required!
 # Note: any manual edits to this value can delete your config files!
-config-version: 1.7.8
+config-version: '2'

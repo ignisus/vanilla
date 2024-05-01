@@ -234,6 +234,8 @@ Damage:
       Swimming: +5%
       Sprinting: +5%
       In_Midair: +10%
+      
+      Shielding: -500% # Basically completely negates damage
 
 
 # These values are used internally for figuring out headshots, bodyshots, etc.
