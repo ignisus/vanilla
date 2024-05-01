@@ -73,3 +73,10 @@ Physics:
   DisabledWorldsList:
   - DisabledWorld
   - AnotherDisabledWorld
+  Sounds: true
+  AdvancedStemScan: false
+  TreeScanMaxStemSize: 200
+  TreeScanMaxLeavesSize: 260
+  TreeMaxInvalidScans: 2700
+  TreeMaxInvalidBlockDistance: 2
+  TreeChopDelay: true

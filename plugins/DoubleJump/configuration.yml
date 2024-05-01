@@ -89,17 +89,22 @@ jumpSettings:
   # Jump restrictions settings
   #
   restrictionSettings:
-    # Names of regions where the player will not be able to double-jump
+    # Restriction of regions where the player will not be able to double-jump
     # The WorldGuard plugin is required for this feature to work
-    disabledRegions:
-    - example-region
-    # Names of worlds where the player will not be able to double-jump
-    disabledWorlds:
-    - example-world
-    # The names of the game modes during which the player will not be able to double-jump
-    disabledGameModes:
-    - SPECTATOR
-    - CREATIVE
+    regionRestriction:
+      type: WHITELIST
+      list:
+      - example-region
+    # Restriction of worlds where the player will not be able to double-jump
+    worldRestriction:
+      type: BLACKLIST
+      list:
+      - example-world
+    # The restriction of the game modes during which the player will not be able to double-jump
+    gameModeRestriction:
+      type: BLACKLIST
+      list:
+      - CREATIVE
     #
     # Jump restriction notification settings
     #
@@ -110,6 +115,13 @@ jumpSettings:
       targetInDisabledRegion: "CHAT: <red>The player is in disabled region"
       targetHasDisabledGameMode: "CHAT: <red>The player has a game mode that is disabled"
       targetInDisabledWorld: "CHAT: <red>The player is in disabled world"
+    disabledRegions:
+    - example-region
+    disabledWorlds:
+    - example-world
+    disabledGameModes:
+    - SPECTATOR
+    - CREATIVE
   #
   # Jump item settings
   #

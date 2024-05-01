@@ -330,10 +330,10 @@ render-triggers:
 webpage-title: "IgnisusLand"
 
 # The path where the tile-files are placed.
-tilespath: /mnt/ignisusWeb/web1/map/tiles
+tilespath: /mnt/www/map/tiles
 
 # The path where the web-files are located.
-webpath: /mnt/ignisusWeb/web1/map
+webpath: /mnt/www/map
 
 # If set to false, disable extraction of webpath content (good if using custom web UI or 3rd party web UI)
 # Note: web interface is unsupported in this configuration - you're on your own

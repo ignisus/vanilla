@@ -203,11 +203,9 @@ panels:
       '40':
         material: JUKEBOX
         stack: 1
-        name: 'Música'
+        name: 'Warps'
         lore:
-        - 'Sonando: %jukebox_active%'
-        commands:
-        - music
+        - 'Show al warps (Disabled)'
         stack: 1
       '41':
         material: RED_STAINED_GLASS_PANE

@@ -710,7 +710,7 @@ ItemList:
   SANDSTONE: Sandstone
   SANDSTONE_SLAB: Sandstone Slab
   SANDSTONE_STAIRS: Sandstone Stairs
-  SCUTE: Scute
+  TURTLE_SCUTE: Turtle Scute
   SEAGRASS: Seagrass
   SEA_LANTERN: Sea Lantern
   SEA_PICKLE: Sea Pickle
@@ -1406,6 +1406,9 @@ ItemList:
   WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE: Wayfinder armor trim smithing template
   WILD_ARMOR_TRIM_SMITHING_TEMPLATE: Wild armor trim smithing template
   WITHER_SPAWN_EGG: Wither spawn egg
+  ARMADILLO_SCUTE: Armadillo Scute
+  WOLF_ARMOR: Wolf Armor
+  ARMADILLO_SPAWN_EGG: Armadillo Spawn Egg
   SIGN: Sign
   GRASS: Grass
   LEGACY_STATIONARY_WATER: Stationary Water
@@ -1478,7 +1481,6 @@ EntityList:
   94-SQUID: Squid
   95-WOLF: Wolf
   96-MUSHROOM_COW: Mushroom Cow
-  97-SNOWMAN: Snowman
   98-OCELOT: Ocelot
   99-IRON_GOLEM: Iron Golem
   100-HORSE: Horse

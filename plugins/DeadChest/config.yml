@@ -100,3 +100,4 @@ ExcludedWorld:
 KeepInventoryOnPvpDeath: false
 item-durability-loss-on-death: 0
 StoreXPPercentage: 100
+GenerateInTheEnd: true

@@ -1,0 +1,212 @@
+%YAML 1.1
+---
+isSafe: true
+icons: {
+    }
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            marker_5:
+                world: Earth
+                markup: false
+                x: -7701.0
+                icon: pin
+                y: 182.0
+                z: -14870.0
+                label: Greenland
+            marker_6:
+                world: Earth
+                markup: false
+                x: 3030.0
+                icon: pin
+                y: 81.0
+                z: -7579.0
+                label: Italy
+            marker_7:
+                world: Earth
+                markup: false
+                x: 2911.0
+                icon: portal
+                y: 76.0
+                z: -7384.0
+                label: Nether
+            marker_8:
+                world: Earth
+                markup: false
+                x: -1303.0
+                icon: beer
+                y: 66.0
+                z: -7519.0
+                label: Chiringuito
+            marker_9:
+                world: Earth
+                markup: false
+                x: 29422.0
+                icon: cart
+                y: 19.0
+                z: -8670.0
+                label: Mercadona
+            marker_12:
+                world: Earth
+                markup: false
+                x: 29416.0
+                icon: bookshelf
+                y: 30.0
+                z: -8704.0
+                label: Bookstore
+            marker_23:
+                world: Earth
+                markup: false
+                x: -27111.0
+                icon: anchor
+                y: 181.0
+                z: -7672.0
+                label: BikiniBottom
+            marker_13:
+                world: Earth
+                markup: false
+                x: 29562.0
+                icon: fire
+                y: 24.0
+                z: -8880.0
+                label: Army
+            marker_24:
+                world: Earth
+                markup: false
+                x: -27072.0
+                icon: compass
+                y: 134.0
+                z: -9269.0
+                label: Ooo
+            marker_10:
+                world: Earth
+                markup: false
+                x: 29541.0
+                icon: truck
+                y: 32.0
+                z: -8668.0
+                label: Vehicles
+            marker_21:
+                world: Earth
+                markup: false
+                x: 28042.0
+                icon: pin
+                y: 97.0
+                z: -7412.0
+                label: Japan
+            marker_11:
+                world: Earth
+                markup: false
+                x: 29447.0
+                icon: dog
+                y: 32.0
+                z: -8639.0
+                label: PetShop
+            marker_22:
+                world: Earth
+                markup: false
+                x: -1881.0
+                icon: bookshelf
+                y: 320.0
+                z: -10614.0
+                label: Library
+            marker_1:
+                world: Earth
+                markup: false
+                x: 28650.0
+                icon: tower
+                y: 82.0
+                z: -7377.0
+                label: Ignisus
+            marker_2:
+                world: Earth
+                markup: false
+                x: 294.0
+                icon: drink
+                y: 64.0
+                z: -7971.0
+                label: Ibiza
+            marker_20:
+                world: Earth
+                markup: false
+                x: -1131.0
+                icon: pin
+                y: 91.0
+                z: -8267.0
+                label: Spain
+            marker_3:
+                world: Earth
+                markup: false
+                x: 30978.0
+                icon: temple
+                y: 103.0
+                z: 6951.0
+                label: SydneyOperaHouse
+            marker_4:
+                world: Earth
+                markup: false
+                x: -6573.0
+                icon: tower
+                y: 139.0
+                z: -13827.0
+                label: Terminus
+            marker_18:
+                world: Earth
+                markup: false
+                x: 459.0
+                icon: temple
+                y: 257.0
+                z: -9775.0
+                label: EiffelTower
+            marker_19:
+                world: Earth
+                markup: false
+                x: -15151.0
+                icon: temple
+                y: 150.0
+                z: -8323.0
+                label: StatueOfLiberty
+            marker_16:
+                world: Earth
+                markup: false
+                x: -1185.0
+                icon: pin
+                y: 66.0
+                z: -7654.0
+                label: Seville
+            marker_17:
+                world: Earth
+                markup: false
+                x: 28848.0
+                icon: bighouse
+                y: 71.0
+                z: -8139.0
+                label: Raimon
+            marker_14:
+                world: Earth
+                markup: false
+                x: 29199.0
+                icon: star
+                y: 19.0
+                z: -8888.0
+                label: Magicstore
+            marker_15:
+                world: Earth
+                markup: false
+                x: 29289.0
+                icon: hammer
+                y: 18.0
+                z: -8780.0
+                label: Jobs
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

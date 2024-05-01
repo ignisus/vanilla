@@ -220,6 +220,11 @@ permissions:
       source: minecraft:lava
       target: minecraft:air
 - griefdefender.flag.entity-spawn:
+    value: false
+    context:
+      gd_claim: e4e8ee24-3d80-456f-bebc-a29b28d2e52f
+      target: '#monster'
+- griefdefender.flag.entity-spawn:
     value: true
     context:
       gd_claim: 62778e5d-8155-47e4-aed7-f7d2099c0afa

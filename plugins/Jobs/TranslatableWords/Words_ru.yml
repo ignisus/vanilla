@@ -710,7 +710,7 @@ ItemList:
   SANDSTONE: Песчаник
   SANDSTONE_SLAB: Песчаниковая плита
   SANDSTONE_STAIRS: Песчаниковые ступени
-  SCUTE: Щиток
+  TURTLE_SCUTE: Turtle Scute
   SEAGRASS: Подводная трава
   SEA_LANTERN: Морской фонарь
   SEA_PICKLE: Морской рассол
@@ -1406,6 +1406,9 @@ ItemList:
   WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE: Wayfinder armor trim smithing template
   WILD_ARMOR_TRIM_SMITHING_TEMPLATE: Wild armor trim smithing template
   WITHER_SPAWN_EGG: Wither spawn egg
+  ARMADILLO_SCUTE: Armadillo Scute
+  WOLF_ARMOR: Wolf Armor
+  ARMADILLO_SPAWN_EGG: Armadillo Spawn Egg
   SIGN: Табличка
   GRASS: Высокая трава
   LEGACY_STATIONARY_WATER: Неподвижная вода
@@ -1478,7 +1481,6 @@ EntityList:
   94-SQUID: Спрут
   95-WOLF: Волк
   96-MUSHROOM_COW: Грибная корова
-  97-SNOWMAN: Снежный голем
   98-OCELOT: Оцелот
   99-IRON_GOLEM: Железный голем
   100-HORSE: Лошадь

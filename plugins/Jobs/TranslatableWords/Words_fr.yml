@@ -710,7 +710,7 @@ ItemList:
   SANDSTONE: Grès
   SANDSTONE_SLAB: Dalle en grès
   SANDSTONE_STAIRS: Escalier en grès
-  SCUTE: Ecaille de tortue
+  TURTLE_SCUTE: Turtle Scute
   SEAGRASS: Herbe aquatique
   SEA_LANTERN: Lanterne marine
   SEA_PICKLE: Cornichon de mer
@@ -1406,6 +1406,9 @@ ItemList:
   WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE: Wayfinder armor trim smithing template
   WILD_ARMOR_TRIM_SMITHING_TEMPLATE: Wild armor trim smithing template
   WITHER_SPAWN_EGG: Wither spawn egg
+  ARMADILLO_SCUTE: Armadillo Scute
+  WOLF_ARMOR: Wolf Armor
+  ARMADILLO_SPAWN_EGG: Armadillo Spawn Egg
   SIGN: Panneau
   GRASS: Herbes
   LEGACY_STATIONARY_WATER: Source d'eau
@@ -1478,7 +1481,6 @@ EntityList:
   94-SQUID: Poulpe
   95-WOLF: Loup
   96-MUSHROOM_COW: Champimeuh
-  97-SNOWMAN: Bonhomme de neige
   98-OCELOT: Ocelot
   99-IRON_GOLEM: Golem de Fer
   100-HORSE: Cheval

@@ -1,0 +1,22 @@
+uuid: 6200d5e2-2046-4a02-8a1c-fff920bc57c1
+name: Darkness___boy
+primary-group: default
+permissions:
+- griefdefender.flag.liquid-flow:
+    value: false
+    context:
+      gd_claim: e4e8ee24-3d80-456f-bebc-a29b28d2e52f
+      source: minecraft:lava
+      target: minecraft:air
+- griefdefender.flag.block-spread:
+    value: false
+    context:
+      gd_claim: e4e8ee24-3d80-456f-bebc-a29b28d2e52f
+      source: minecraft:lava
+- griefdefender.flag.block-spread:
+    value: false
+    context:
+      gd_claim: e4e8ee24-3d80-456f-bebc-a29b28d2e52f
+      source: minecraft:fire
+parents:
+- default

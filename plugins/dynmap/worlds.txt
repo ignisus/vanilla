@@ -69,7 +69,7 @@ worlds:
         name: surface
         title: "3D"
         prefix: surface
-        perspective: iso_SW_30_hires
+        perspective: iso_SW_30_medres
         shader: default
         lighting: shadows
         showborder: false
@@ -82,7 +82,7 @@ worlds:
     enabled: false
   - name: Mining
     title: "Recursos"
-    extrazoomout: 2
+    extrazoomout: 3
     maps:
       - class: org.dynmap.hdmap.HDMap
         name: flat
