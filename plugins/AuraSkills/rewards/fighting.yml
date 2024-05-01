@@ -1,0 +1,12 @@
+patterns:
+  - type: stat
+    stat: strength
+    value: 1
+    pattern:
+      start: 2
+      interval: 1
+levels:
+  100:
+    - type: command
+      executor: console
+      command: say Un jugador ha alcanzado el nivel 100 de lucha.
