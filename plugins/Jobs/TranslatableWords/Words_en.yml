@@ -1521,44 +1521,45 @@ EntityList:
   946-SNIFFER: Sniffer
   914-PLAYER: Player
 EnchantList:
-  Feather falling: Feather falling
-  Infinity: Infinity
-  Flame: Flame
+  Swiftsneak: Swiftsneak
+  Protectionfall: Protectionfall
+  Arrowinfinite: Arrowinfinite
+  Arrowfire: Arrowfire
   Impaling: Impaling
-  Protection: Protection
+  Protectionenvironmental: Protectionenvironmental
   Knockback: Knockback
-  Depth strider: Depth strider
-  Luck of the sea: Luck of the sea
-  Silk touch: Silk touch
+  Depthstrider: Depthstrider
+  Luck: Luck
+  Silktouch: Silktouch
   Loyalty: Loyalty
-  Vanishing curse: Vanishing curse
-  Fire protection: Fire protection
+  Vanishingcurse: Vanishingcurse
+  Protectionfire: Protectionfire
   Channeling: Channeling
-  Binding curse: Binding curse
-  Sweeping: Sweeping
-  Quick charge: Quick charge
-  Bane of arthropods: Bane of arthropods
-  Frost walker: Frost walker
+  Bindingcurse: Bindingcurse
+  Sweepingedge: Sweepingedge
+  Quickcharge: Quickcharge
+  Damagearthropods: Damagearthropods
+  Frostwalker: Frostwalker
   Multishot: Multishot
-  Projectile protection: Projectile protection
-  Aqua affinity: Aqua affinity
-  Soul speed: Soul speed
-  Looting: Looting
-  Smite: Smite
+  Protectionprojectile: Protectionprojectile
+  Waterworker: Waterworker
+  Soulspeed: Soulspeed
+  Lootbonusmobs: Lootbonusmobs
+  Damageundead: Damageundead
   Piercing: Piercing
   Lure: Lure
   Riptide: Riptide
-  Power: Power
-  Blast protection: Blast protection
+  Arrowdamage: Arrowdamage
+  Protectionexplosions: Protectionexplosions
   Mending: Mending
-  Fire aspect: Fire aspect
-  Respiration: Respiration
+  Fireaspect: Fireaspect
+  Oxygen: Oxygen
   Thorns: Thorns
-  Punch: Punch
-  Sharpness: Sharpness
-  Efficiency: Efficiency
-  Fortune: Fortune
-  Unbreaking: Unbreaking
+  Arrowknockback: Arrowknockback
+  Damageall: Damageall
+  Digspeed: Digspeed
+  Lootbonusblocks: Lootbonusblocks
+  Durability: Durability
 PotionEffects:
   Uncraftable: Uncraftable
   Water: Water

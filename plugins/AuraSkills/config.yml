@@ -45,6 +45,11 @@ hooks:
     - spawn
     blocked_check_replace_regions:
     - Example
+  MythicMobs:
+    enabled: true
+    handle_damage_increase: true
+    handle_damage_reduction: true
+    prevent_regular_xp: false
 action_bar:
   enabled: true
   idle: true
@@ -80,6 +85,8 @@ boss_bar:
   - SORCERY BLUE PROGRESS
   - HEALING WHITE PROGRESS
   - FORGING YELLOW PROGRESS
+  xp_format: '#.#'
+  percent_format: '#.##'
 enable_roman_numerals: false
 damage_holograms:
   enabled: true
@@ -167,8 +174,10 @@ requirement:
     prevent_weapon_use: true
     prevent_block_place: true
     prevent_interact: true
+    global: []
   armor:
     prevent_armor_equip: true
+    global: []
 critical:
   enabled:
     sword: true
@@ -195,6 +204,7 @@ menus:
     show_trait_values_directly: true
 loot:
   update_loot_tables: true
+  directly_to_inventory: false
 check_for_updates: true
 automatic_backups:
   enabled: true

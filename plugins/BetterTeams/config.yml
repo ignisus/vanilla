@@ -126,3 +126,6 @@ chatPrefixes:
   globalToAlly: '?'
   teamOrAllyToGlobal: '!'
 bannedColors: ''
+enableAutoPurge: false
+autoPurge:
+- '1:6'

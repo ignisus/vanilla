@@ -1521,44 +1521,45 @@ EntityList:
   946-SNIFFER: Sniffer
   914-PLAYER: Игрок
 EnchantList:
-  Feather falling: Невесомость
-  Infinity: Бессконечность
-  Flame: Горящая стрела
+  Swiftsneak: Swiftsneak
+  Protectionfall: Protectionfall
+  Arrowinfinite: Arrowinfinite
+  Arrowfire: Arrowfire
   Impaling: Пронзатель
-  Protection: Защита
+  Protectionenvironmental: Protectionenvironmental
   Knockback: Отдача
-  Depth strider: Подводная ходьба
-  Luck of the sea: Морская удача
-  Silk touch: Шёлковое касание
+  Depthstrider: Depthstrider
+  Luck: Luck
+  Silktouch: Silktouch
   Loyalty: Верность
-  Vanishing curse: Vanishing curse
-  Fire protection: Огнеупорность
+  Vanishingcurse: Vanishingcurse
+  Protectionfire: Protectionfire
   Channeling: Громовержец
-  Binding curse: Binding curse
-  Sweeping: Разящий клинок
-  Quick charge: Быстрая перезарядка
-  Bane of arthropods: Бич членистоногих
-  Frost walker: Ходьба по воде
+  Bindingcurse: Bindingcurse
+  Sweepingedge: Sweepingedge
+  Quickcharge: Quickcharge
+  Damagearthropods: Damagearthropods
+  Frostwalker: Frostwalker
   Multishot: Тройной выстрел
-  Projectile protection: Защита от снарядов
-  Aqua affinity: Родство с водой
-  Soul speed: Soul speed
-  Looting: Добыча
-  Smite: Небесная кара
+  Protectionprojectile: Protectionprojectile
+  Waterworker: Waterworker
+  Soulspeed: Soulspeed
+  Lootbonusmobs: Lootbonusmobs
+  Damageundead: Damageundead
   Piercing: Пронзающая стрела
   Lure: Приманка
   Riptide: Тягун
-  Power: Сила
-  Blast protection: Взрывоустойчивость
+  Arrowdamage: Arrowdamage
+  Protectionexplosions: Protectionexplosions
   Mending: Починка
-  Fire aspect: Заговор огня
-  Respiration: Подводное дыхание
+  Fireaspect: Fireaspect
+  Oxygen: Oxygen
   Thorns: Шипы
-  Punch: Отбрасывание
-  Sharpness: Острота
-  Efficiency: Эффективность
-  Fortune: Удача
-  Unbreaking: Прочность
+  Arrowknockback: Arrowknockback
+  Damageall: Damageall
+  Digspeed: Digspeed
+  Lootbonusblocks: Lootbonusblocks
+  Durability: Durability
 PotionEffects:
   Uncraftable: Uncraftable
   Water: Water

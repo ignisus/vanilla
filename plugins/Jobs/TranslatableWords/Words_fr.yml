@@ -1521,44 +1521,45 @@ EntityList:
   946-SNIFFER: Sniffer
   914-PLAYER: Player
 EnchantList:
-  Feather falling: Chute amortie
-  Infinity: Infinité
-  Flame: Flamee
+  Swiftsneak: Swiftsneak
+  Protectionfall: Protectionfall
+  Arrowinfinite: Arrowinfinite
+  Arrowfire: Arrowfire
   Impaling: Empalement
-  Protection: Protection
+  Protectionenvironmental: Protectionenvironmental
   Knockback: Recul
-  Depth strider: Agilité aquatique
-  Luck of the sea: Chance de la mer
-  Silk touch: Toucher de soie
+  Depthstrider: Depthstrider
+  Luck: Luck
+  Silktouch: Silktouch
   Loyalty: Loyauté
-  Vanishing curse: Malédiction de disparition
-  Fire protection: Protection contre le feu
+  Vanishingcurse: Vanishingcurse
+  Protectionfire: Protectionfire
   Channeling: Canalisation
-  Binding curse: Malédiction du lien éternel
-  Sweeping: Affilage
-  Quick charge: Charge rapide
-  Bane of arthropods: Fléau des arthropodes
-  Frost walker: Semelles givrantes
+  Bindingcurse: Bindingcurse
+  Sweepingedge: Sweepingedge
+  Quickcharge: Quickcharge
+  Damagearthropods: Damagearthropods
+  Frostwalker: Frostwalker
   Multishot: Tir multiple
-  Projectile protection: Protection contre les projectile
-  Aqua affinity: Affinité aquatique
-  Soul speed: Soul speed
-  Looting: Butin
-  Smite: Châtiment
+  Protectionprojectile: Protectionprojectile
+  Waterworker: Waterworker
+  Soulspeed: Soulspeed
+  Lootbonusmobs: Lootbonusmobs
+  Damageundead: Damageundead
   Piercing: Perforation
   Lure: Appât
   Riptide: Impulsion
-  Power: Puissance
-  Blast protection: Protection contre les explosions
+  Arrowdamage: Arrowdamage
+  Protectionexplosions: Protectionexplosions
   Mending: Raccommodage
-  Fire aspect: Aura de feu
-  Respiration: Respiration
+  Fireaspect: Fireaspect
+  Oxygen: Oxygen
   Thorns: Épines
-  Punch: Frappe
-  Sharpness: Tranchant
-  Efficiency: Efficacité
-  Fortune: Fortune
-  Unbreaking: Solidité
+  Arrowknockback: Arrowknockback
+  Damageall: Damageall
+  Digspeed: Digspeed
+  Lootbonusblocks: Lootbonusblocks
+  Durability: Durability
 PotionEffects:
   Uncraftable: Uncraftable
   Water: Water
