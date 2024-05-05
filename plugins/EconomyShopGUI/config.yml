@@ -36,7 +36,7 @@
 #                                                                                  #
 ####################################################################################
 #
-config-version: 2.0.1.0
+config-version: 2.0.1.1
 # WARNING: Do not change this value as this might end up in a plugin that does not work!!
 #----------------------------------------------Language-------------------------------------------------
 
@@ -84,6 +84,15 @@ use-nms: true
 
 # Whether transactions should be logged to a text file
 transaction-log: true
+
+
+#-----------------------------------------------ShopStand-----------------------------------------------
+
+# ShopStands allow physical stands to be placed down as blocks,
+# allowing players to right/left-click the stand to purchase the item linked
+shop-stands: false
+# ShopStands is a separate module of the plugin, so when disabled, it will completely disable this feature and its listeners
+# Due to its smart design, ShopStands aren't persistent(1.13+) unlike regular entities, and the impact on performance is minimal
 
 
 #---------------------------------------DisabledCommandsInWorlds----------------------------------------
@@ -409,6 +418,39 @@ transaction-screens-nav-bar:
       material: barrier
       name: '%translations-back%'
       action: BACK
+
+# The navigation bar that appears in the buy/sell screens from the shop stands
+# Available action: 'TOGGLE_MODE' - Switches between buy/sell mode
+shopstands-transaction-screens-nav-bar:
+  enabled: false
+  items:
+    1:
+      material: player_head
+      skullowner: '%player_name%'
+      name: '%player_displayname%'
+      lore:
+      - '%translations-money%: &c%player_balance%'
+    2:
+      material: air
+    3:
+      material: air
+    4:
+      material: air
+    5:
+      material: REDSTONE_TORCH
+      name: '&c&lToggle buying/selling'
+      action: TOGGLE_MODE
+      onlyEnableForGeyserPlayers: true
+    6:
+      material: air
+    7:
+      material: air
+    8:
+      material: air
+    9:
+      material: barrier
+      name: '%translations-close%'
+      action: CLOSE
 
 # The navigation bar that appears in the /sellGUI screen
 sellgui-nav-bar:
@@ -754,6 +796,176 @@ buy-stacks-screen:
       slot: 22
       type: SELECTED_ITEM
 
+shopstand-buy-screen:
+  menu-size: 1
+  items:
+    1:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 1
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 0
+    2:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 4
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 1
+    3:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 10
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 2
+    4:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 16
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 3
+    5:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 32
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 4
+    6:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 64
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 5
+    7:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 128
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 6
+    8:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 256
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 7
+    9:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-buy%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 512
+      hideDefaultLore: true
+      action: INSTA_BUY
+      slot: 8
+
+shopstand-sell-screen:
+  menu-size: 1
+  items:
+    1:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 1
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 0
+    2:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 4
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 1
+    3:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 10
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 2
+    4:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 16
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 3
+    5:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 32
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 4
+    6:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 64
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 5
+    7:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 128
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 6
+    8:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 256
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 7
+    9:
+      material: '%selected_item%'
+      name: '%translations-shopstand-click-to-sell%'
+      lore:
+      - '%translations-shopstand-total-price%'
+      stack-size: 512
+      hideDefaultLore: true
+      action: INSTA_SELL
+      slot: 8
+
 #------------------------------------------------Seasons------------------------------------------------
 
 # In combination with the plugin RealisticSeasons, it is possible to add price modifiers for items per season
@@ -916,9 +1128,15 @@ sellgui-commands:
 
 #-------------------------------------------DisableBackButton-------------------------------------------
 
-# This option will toggle disabling the back button when opening a shop section directly by the command /shop <section>
-# This option is useful if you have a NPC plugin setup when you click on it, it will open a specific shop section, this will prevent the players to go back to the main menu and choose another shop section.
-disableBackButtonWithShopSectionCommand: false
+# Disables the ability to go back to the previous shop menu
+disable-back:
+  # When enabled, the back button will be disabled on direct shop command(/shop <section>)
+  direct-shop-command: false
+  # When enabled, the back button will be disabled on direct shop command executed from console(/shop <section> <player>)
+  # Useful for NPC shops which are opened using /shop <section> <player> to prevent the player returning to the main menu
+  direct-shop-command-console: false
+  # When enabled, the back button won't be usable for any subsections located inside any shops with a disabled back button
+  sub-sections: false
 
 
 #----------------------------------------------JoinMessage----------------------------------------------

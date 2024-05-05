@@ -201,12 +201,13 @@ panels:
         stack: 1
         name: ' '
       '40':
-        material: JUKEBOX
+        material: ENDER_PEARL
         stack: 1
         name: 'Warps'
         lore:
-        - 'Show al warps (Disabled)'
-        stack: 1
+        - '(Comming soon)'
+        commands:
+        - warps
       '41':
         material: RED_STAINED_GLASS_PANE
         stack: 1

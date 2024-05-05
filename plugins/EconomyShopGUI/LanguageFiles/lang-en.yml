@@ -37,6 +37,8 @@ no-season-modifiers-found: No season modifiers found for season %season% in conf
 season-change: Detected season change in world '%world%', loading modifiers for season %season%...
 economy-providers-loaded: Completed loading %total% economy provider(s) for all %shops% shop sections.
 section-economy-provider-loaded: Using '%economy%' as default economy for shop '%shop%'
+loaded-shop-stand-module: Completed loading %count% shop stand(s) from stands.json
+saving-shop-stands: Saving %count% shop stands to 'stands.json'...
 
 #Shop prefix
 shop-prefix: '&9&lShop &8&l>> '
@@ -70,6 +72,29 @@ buy-stacks: '&cClick to buy stacks'
 transaction-screen-total-price: '&3%price%'
 transaction-screen-total-amount: '&5x %amount%'
 max-amount-reached: '&cMax amount reached'
+
+# ShopStands transactions
+shopstand-buy-screen-title: '&8Buying &a&l> &r&8%item%'
+shopstand-sell-screen-title: '&8Selling &c&l> &r&8%item%'
+shopstand-click-to-buy: '&aClick to buy %amount%'
+shopstand-click-to-sell: '&aClick to sell %amount%'
+shopstand-total-price: '&cTotal price: &7%price%'
+
+# Shop stands module
+default-shop-stand-item-name: '&eShopStand'
+default-shop-stand-item-lore: '&fPlace this item down to create\n&fa new &6ShopStand &fat the placed location\n&ffor shop item &c%item%'
+shop-stands-management-inventory-title: '&8&lStand management'
+shop-stand-info-item-name: '&6&lShop stand info:'
+shop-stand-info-item-lore: '&aStand ID: &f%id%\n&aLocation: &f%location%\n&aShop item: &f%item%\n&aStand type: &f%type%\n&aIs loaded: &f%loaded%'
+force-reload-stand-item-name: '&e&lForce reload stand'
+force-reload-stand-item-lore: '&fClicking this will reload the shop stand\n&fwhich will re-create the displayitem and stand'
+destroy-stand-item-name: '&4&lDestroy shop stand'
+destroy-stand-item-lore: '&eClick to destroy this shop stand'
+reload-shop-stand: '&aForcefully reloaded shop stand with ID %id%'
+shop-stand-browse-inventory-title: '&8&lStand list'
+shop-stand-location-format: World '%world%', x%pos_x%, y%pos_y%, z%pos_z%
+created-new-shop-stand: '&aSuccessfully created new ShopStand for &f%item%'
+error-creating-new-shop-stand: '&cFailed to create a new shop stand: %reason%'
 
 #All Inventory's
 back: '&4Back'
@@ -115,6 +140,8 @@ sellall-command: sell all command
 sellgui-screen: sell gui
 quick-buy: quick buy screen
 quick-sell: quick sell screen
+shopstand-buy-screen: shopstand buy screen
+shopstand-sell-screen: shopstand sell screen
 auto-sell-chest: SellChest
 bought: bought
 sold: sold
@@ -143,6 +170,10 @@ editshop-add-section-subcommand-desc: '&aAdd a shop section to the shop.'
 editshop-edit-section-subcommand-desc: '&aEdit an existing shop section.'
 editshop-remove-section-subcommand-desc: '&aRemoves an existing shop section from the shop.'
 editshop-migrate-subcommand-desc: '&aAllows to migrate data from another location or plugin.'
+editshop-shopstands-subcommand-desc: '&aManage existing or create new shop stands'
+editshop-shopstands-give-subcommand-desc: '&aGives a new shop stand item to place down'
+editshop-shopstands-destroy-subcommand-desc: '&aDestroys a shop stand at its current location from its ID'
+editshop-shopstands-browse-subcommand-desc: '&aOpens a GUI with all existing shop stands'
 
 #Edit-shop subcommand syntaxes
 editshop-add-item-subcommand-syntax: '&a/editshop additem <section> <material> <buy price> <sell price> [displayname]'
@@ -154,6 +185,10 @@ editshop-add-section-subcommand-syntax: '&a/editshop addsection <section> <mater
 editshop-edit-section-subcommand-syntax: '&a/editshop editsection <section> <action> <key> <value>'
 editshop-remove-section-subcommand-syntax: '&a/editshop deletesection <section>'
 editshop-migrate-subcommand-syntax: '&a/editshop migrate <plugin> <image> [flags]'
+editshop-shopstands-subcommand-syntax: '&a/editshop shopstands <give/destroy> ...'
+editshop-shopstands-give-subcommand-syntax: '&a/editshop shopstands give <standType> <section> <index>'
+editshop-shopstands-destroy-subcommand-syntax: '&a/eshop shopstands destroy <standID>'
+editshop-shopstands-browse-subcommand-syntax: '&a/eshop shopstands browse'
 
 #Edit-shop command messages
 editshop-adding-item: '&aAdding new item to shop %shop%...'
@@ -169,6 +204,7 @@ editshop-removing-section: '&aRemoving the section from the shop...'
 editshop-removed-section: '&a&aSuccessfully removed ''%itemPath%'' from shop.'
 editshop-reload-shop-to-see-changes: '&aUse command /sreload to load the changes inside the shop.'
 file-replaced: '&aThe old %fileName% has been replaced with the new file, the old file can be found inside the backups folder if you messed up something.'
+shop-stand-item-received: '&aYou were given &c%amount%x &aShopStand for shop item &f%item%'
 
 #Edit-shop command errors
 section-does-not-contain-item: '&cSection ''%shopsection%'' does not contain the item ''%itemLoc%''.'
@@ -183,6 +219,9 @@ file-not-found: '&cCannot find a file with name %fileName% inside the plugin fol
 no-valid-slot-for-item: '&cThe item could not be placed at slot ''%slot%''. The slot needs to be 1 - %maxShopSize%.'
 slot-already-in-use: '&cThe slot for this section is already taken.\nAll available slots: %available-slots%'
 slot-needs-to-be-number: '&cThe slot of the item in the main menu needs to be a number.'
+invalid-shop-stand-type: '&cInvalid shop stand type, valid values: %values%'
+unknown-shop-stand-id: '&cNo shop stand found with ID &f%id%'
+stand-type-not-supported: '&cShop stand type &f%type% &cis not supported in the current minecraft version'
 
 #Reload Command
 configs-reloaded: '&aAll configs reloaded.'
@@ -338,3 +377,18 @@ cannot-load-economy-provider: Failed to load economy provider for shop '%shop%' 
 cannot-find-economy-provider: Could not find a economy provider for shop '%shop%' such as '%type%', using default...
 cannot-find-default-economy-provider: Could not find the economy type specified inside the config.yml such as '%economy%', trying to automatically find supported economy type...
 cannot-load-default-economy-provider: Failed to load default economy provider with reason '%reason%', trying to automatically find supported economy provider
+removed-shop-stand: Removed shop stand from location %location%
+shop-stand-load-failed: 'Failed to load shop stand with ID ''%id%'': %reason%'
+shop-stand-unload-failed: 'Failed to unload shop stand with ID ''%id%'': %reason%'
+shop-stand-inside-unloaded-chunk: Shop stand is inside a unloaded chunk
+item-from-shop-stand-not-found: Cannot find shop item from shop stand '%item%'
+block-from-shop-stand-not-found: Block type from stand at location %location% does not match with cached block type of '%type%'
+invalid-shop-stand-world: Invalid stand location for world '%world%', does not exist for shop stand ID %id%
+invalid-shop-stand-format: Invalid stand location with x%pos_x%, y%pos_y%, z%pos_z% for shop stand ID %id%
+error-saving-shop-stands: Failed to save shop stands to 'stands.json'
+error-loading-shop-stands: Failed to load shop stands from 'stands.json'
+error-loading-shop-stand: 'Failed to load shop stand(''%stand%'') from stands.json with reason: %reason%'
+error-creating-stands-storage: Failed to create 'stands.json' storage file
+invalid-stand-type: Invalid shop stand type for %type%
+shop-stands-module-not-enabled: Shop stands module not enabled
+cannot-open-shop-stand: 'Failed to open shop stand for player %player%: ShopItem(%item%) does not exist!'

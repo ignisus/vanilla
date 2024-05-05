@@ -205,6 +205,14 @@ sets:
                 y: 91.0
                 z: -8267.0
                 label: Spain
+            marker_27:
+                world: Earth
+                markup: false
+                x: 29486.0
+                icon: diamond
+                y: 19.0
+                z: -8705.0
+                label: Specials
             marker_25:
                 world: Earth
                 markup: false
@@ -213,6 +221,14 @@ sets:
                 y: 70.0
                 z: -10275.0
                 label: Carles_Puigdemont
+            marker_26:
+                world: Earth
+                markup: false
+                x: 29419.0
+                icon: building
+                y: 20.0
+                z: -8633.0
+                label: Materials
         lines: {
             }
         layerprio: 0

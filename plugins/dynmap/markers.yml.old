@@ -61,14 +61,6 @@ sets:
                 y: 30.0
                 z: -8704.0
                 label: Bookstore
-            marker_23:
-                world: Earth
-                markup: false
-                x: -27111.0
-                icon: anchor
-                y: 181.0
-                z: -7672.0
-                label: BikiniBottom
             marker_13:
                 world: Earth
                 markup: false
@@ -77,14 +69,6 @@ sets:
                 y: 24.0
                 z: -8880.0
                 label: Army
-            marker_24:
-                world: Earth
-                markup: false
-                x: -27072.0
-                icon: compass
-                y: 134.0
-                z: -9269.0
-                label: Ooo
             marker_10:
                 world: Earth
                 markup: false
@@ -93,14 +77,6 @@ sets:
                 y: 32.0
                 z: -8668.0
                 label: Vehicles
-            marker_21:
-                world: Earth
-                markup: false
-                x: 28042.0
-                icon: pin
-                y: 97.0
-                z: -7412.0
-                label: Japan
             marker_11:
                 world: Earth
                 markup: false
@@ -109,14 +85,6 @@ sets:
                 y: 32.0
                 z: -8639.0
                 label: PetShop
-            marker_22:
-                world: Earth
-                markup: false
-                x: -1881.0
-                icon: bookshelf
-                y: 320.0
-                z: -10614.0
-                label: Library
             marker_1:
                 world: Earth
                 markup: false
@@ -133,14 +101,6 @@ sets:
                 y: 64.0
                 z: -7971.0
                 label: Ibiza
-            marker_20:
-                world: Earth
-                markup: false
-                x: -1131.0
-                icon: pin
-                y: 91.0
-                z: -8267.0
-                label: Spain
             marker_3:
                 world: Earth
                 markup: false
@@ -205,6 +165,62 @@ sets:
                 y: 18.0
                 z: -8780.0
                 label: Jobs
+            marker_23:
+                world: Earth
+                markup: false
+                x: -27111.0
+                icon: anchor
+                y: 181.0
+                z: -7672.0
+                label: BikiniBottom
+            marker_24:
+                world: Earth
+                markup: false
+                x: -27072.0
+                icon: compass
+                y: 134.0
+                z: -9269.0
+                label: Ooo
+            marker_21:
+                world: Earth
+                markup: false
+                x: 28042.0
+                icon: pin
+                y: 97.0
+                z: -7412.0
+                label: Japan
+            marker_22:
+                world: Earth
+                markup: false
+                x: -1881.0
+                icon: bookshelf
+                y: 320.0
+                z: -10614.0
+                label: Library
+            marker_20:
+                world: Earth
+                markup: false
+                x: -1131.0
+                icon: pin
+                y: 91.0
+                z: -8267.0
+                label: Spain
+            marker_25:
+                world: Earth
+                markup: false
+                x: 1088.0
+                icon: bank
+                y: 70.0
+                z: -10275.0
+                label: Carles_Puigdemont
+            marker_26:
+                world: Earth
+                markup: false
+                x: 29419.0
+                icon: building
+                y: 20.0
+                z: -8633.0
+                label: Materials
         lines: {
             }
         layerprio: 0

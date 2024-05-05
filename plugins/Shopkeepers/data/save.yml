@@ -1040,7 +1040,7 @@ data-version: 3|2|3700
               operation: 0
           ItemFlags:
           - HIDE_POTION_EFFECTS
-          internal: H4sIAAAAAAAA/+NiYOBi4HPKyU/Ods0rySypDElMZ2ZgrGAAAiBdBaFZnBKLU4Esfg4GpswUBoHczLzU5KLEtBKrpMS8vNQiTgaOgMSSktSivGIukAYOBnYon4E5vSiRmYHVOT8nvwgoxc6AJMeUlI9TqqQESYof5JZKBjAAAJo6lw2yAAAA
+          internal: H4sIAAAAAAAA/3XOsQ6CQBAE0JHVgFeo32OJsbfwBxY8yUXcS5YthK9nMRY0TrOZvC0mAAGHus/t6yqWbLxzR9iM8OxR3dgsqgzBK1Uofx3UKRN2l9xndSqxsqLJf8lsRUenIj1weieJrfLTzg2LRCVsax7i8uJbpmWL3w++mQGOaFgtsgAAAA==
           PublicBukkitValues: |-
             {
                 "netheriteshield:neitherite-shield": "neitherite-shield"
@@ -1711,36 +1711,15 @@ data-version: 3|2|3700
   z: -8658
   yaw: 200.3931
   type: admin
-  name: Food
+  name: Meat
   object:
     type: villager
     baby: false
     profession: NONE
-    villagerType: PLAINS
+    villagerType: SWAMP
     villagerLevel: 1
   recipes:
     '1':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: MILK_BUCKET
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: GOLD_NUGGET
-        amount: 5
-    '2':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: BREAD
-        amount: 16
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: GOLD_NUGGET
-        amount: 5
-    '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -1751,7 +1730,7 @@ data-version: 3|2|3700
         v: 3700
         type: GOLD_NUGGET
         amount: 5
-    '4':
+    '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -1762,7 +1741,7 @@ data-version: 3|2|3700
         v: 3700
         type: GOLD_NUGGET
         amount: 5
-    '5':
+    '3':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -1773,7 +1752,7 @@ data-version: 3|2|3700
         v: 3700
         type: GOLD_NUGGET
         amount: 9
-    '6':
+    '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -1784,7 +1763,7 @@ data-version: 3|2|3700
         v: 3700
         type: GOLD_NUGGET
         amount: 9
-    '7':
+    '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3700
@@ -1795,65 +1774,21 @@ data-version: 3|2|3700
         v: 3700
         type: GOLD_NUGGET
         amount: 9
-    '8':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: COD
-        amount: 16
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: GOLD_NUGGET
-        amount: 9
-    '9':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: SALMON
-        amount: 16
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: GOLD_NUGGET
-        amount: 9
-    '10':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: TROPICAL_FISH
-        amount: 16
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: GOLD_NUGGET
-        amount: 9
-    '11':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: PUFFERFISH
-        amount: 16
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3700
-        type: GOLD_NUGGET
-        amount: 9
   snapshots: []
 '33':
   uniqueId: 8750b404-af87-4502-ae0f-b7c6e84fc953
   world: Earth
-  x: 29421
+  x: 29419
   y: 6
-  z: -8658
-  yaw: 178.878
+  z: -8620
+  yaw: 191.8521
   type: admin
   name: Leroy Merlin
   object:
     type: villager
     baby: false
     profession: NONE
-    villagerType: PLAINS
+    villagerType: SWAMP
     villagerLevel: 1
   recipes:
     '1':
@@ -2084,7 +2019,7 @@ data-version: 3|2|3700
   z: -8706
   yaw: 70.74346
   type: admin
-  name: Especiales
+  name: Specials
   object:
     type: villager
     baby: false
@@ -2258,17 +2193,17 @@ data-version: 3|2|3700
 '35':
   uniqueId: bab11830-c526-4d1d-bd86-82eb8e977838
   world: Earth
-  x: 29417
+  x: 29420
   y: 6
-  z: -8658
-  yaw: 197.77736
+  z: -8620
+  yaw: 173.83746
   type: admin
   name: Garden
   object:
     type: villager
     baby: false
     profession: NONE
-    villagerType: PLAINS
+    villagerType: SWAMP
     villagerLevel: 1
   recipes:
     '1':
@@ -3452,17 +3387,17 @@ data-version: 3|2|3700
 '37':
   uniqueId: 5a65267a-b2e0-4e1a-905a-f2f74bbf3778
   world: Earth
-  x: 29429
+  x: 29433
   y: 6
   z: -8658
-  yaw: 200.4547
+  yaw: 161.64069
   type: admin
-  name: Tinteria
+  name: Dyes
   object:
     type: villager
     baby: false
     profession: NONE
-    villagerType: PLAINS
+    villagerType: SWAMP
     villagerLevel: 1
   recipes:
     '1':
@@ -3714,17 +3649,17 @@ data-version: 3|2|3700
 '42':
   uniqueId: b4cbd826-3320-4f17-aba3-85c3d595c265
   world: Earth
-  x: 29433
+  x: 29492
   y: 6
-  z: -8658
-  yaw: 189.34724
+  z: -8705
+  yaw: 89.79532
   type: admin
   name: Flags
   object:
     type: villager
     baby: false
     profession: NONE
-    villagerType: PLAINS
+    villagerType: SAVANNA
     villagerLevel: 1
   recipes:
     '1':
@@ -7297,4 +7232,240 @@ data-version: 3|2|3700
         ==: org.bukkit.inventory.ItemStack
         v: 3700
         type: GOLD_BLOCK
+  snapshots: []
+'76':
+  uniqueId: 52ee29fe-4631-4873-aacf-934ddab86d58
+  world: Earth
+  x: 29417
+  y: 6
+  z: -8658
+  yaw: 201.67162
+  type: admin
+  name: Fishes
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TROPICAL_FISH
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 9
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PUFFERFISH
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 9
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SALMON
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 9
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COD
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 9
+  snapshots: []
+'77':
+  uniqueId: f1aef353-4c36-4845-9a92-ff7d47fe1757
+  world: Earth
+  x: 29421
+  y: 6
+  z: -8658
+  yaw: 183.54466
+  type: admin
+  name: Bread Egg Milk
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BREAD
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 5
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EGG
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 2
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MILK_BUCKET
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COOKIE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 5
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CAKE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 20
+  snapshots: []
+'78':
+  uniqueId: 7bc8e9dd-6dfa-4fa5-ba98-8e46886028d7
+  world: Earth
+  x: 29429
+  y: 6
+  z: -8658
+  yaw: 170.17639
+  type: admin
+  name: Vegans
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MELON_SLICE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 2
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: SWEET_BERRIES
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 2
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: CARROT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 4
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: POTATO
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 4
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: HONEY_BOTTLE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 6
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PUMPKIN_PIE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 8
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: MUSHROOM_STEW
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 10
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BEETROOT_SOUP
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 10
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RABBIT_STEW
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLD_NUGGET
+        amount: 20
   snapshots: []
