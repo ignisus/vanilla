@@ -5,6 +5,7 @@ plugins/update/
 usercache.json
 usernamecache.json
 ops.json
+tmp/
 version_history.json
 .console_history
 versions/
