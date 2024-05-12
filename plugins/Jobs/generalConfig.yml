@@ -416,6 +416,9 @@ ExploitProtections:
       # Enable blocks protection, like ore, from exploiting by placing and destroying same block again and again.
       # Modify restrictedBlocks.yml for blocks you want to protect
       Enabled: true
+      BlockTracker:
+        # Should we use BlockTracker plugin instead of built in block tracker
+        Enabled: false
       # Enabling this we will ignore blocks generated in ore generators, liko stone, coublestone and obsidian. You can still use timer on player placed obsidian block
       IgnoreOreGenerators: true
       # For how long in days to keep block protection data in data base

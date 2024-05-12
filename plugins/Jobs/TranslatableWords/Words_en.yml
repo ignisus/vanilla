@@ -1520,6 +1520,7 @@ EntityList:
   0-WARDEN: Warden
   0-CAMEL: Camel
   0-SNIFFER: Sniffer
+  0-BREEZE: Breeze
   0-PLAYER: Player
 EnchantList:
   Swiftsneak: Swiftsneak

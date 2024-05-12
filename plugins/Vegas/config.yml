@@ -21,7 +21,7 @@
 # ╔═════════════════════════════════════════╗
 # ║  DO NOT CHANGE! THIS IS UPDATE CONTROL  ║
 # ╚═════════════════════════════════════════╝
-Version: Gargantua v.13
+Version: Gargantua v.14
 
 
 # ╔═════════════════════════════════════════╗
@@ -2206,4 +2206,54 @@ DeadMansChest minimum amount to start: 0.0
 Poker use chat: true
 Dice minimum amount to start: 0.0
 DiscordSRV channel: ''
+Minesweeper command name: Minesweeper
+Transfer all winning money to your balance (not to chips): false
+Minesweeper position: 29
+BlackJack dealer stops on count: 17
+Minesweeper place for bet slot: 49
+Minesweeper lever slots:
+- 48
+- 50
+Minesweeper minimum amount to start: 0.0
+Minesweeper icon material: TNT
+Minesweeper lever inactive material: LEVER
+Minesweeper lever active material: LEVER
+Minesweeper place for bet material: BARRIER
+Minesweeper closed block material: CHEST
+Minesweeper opened block material: LIME_CONCRETE
+Minesweeper mine block material: TNT
+Minesweeper withdraw button material: 7437346d8bda78d525d19f540a95e4e79daeda795cbc5a13256236312cf
+Minesweeper icon custom model data: 0
+Minesweeper lever inactive custom model data: 0
+Minesweeper lever active custom model data: 0
+Minesweeper place for bet custom model data: 0
+Minesweeper closed block custom model data: 0
+Minesweeper opened block custom model data: 0
+Minesweeper mine block custom model data: 0
+Minesweeper withdraw button custom model data: 0
+Minesweeper easy mode slot: 3
+Minesweeper medium mode slot: 4
+Minesweeper hard mode slot: 5
+Minesweeper easy mode material: LIME_CONCRETE
+Minesweeper medium mode material: YELLOW_CONCRETE
+Minesweeper hard mode material: RED_CONCRETE
+Minesweeper easy mode material (active): LIME_CONCRETE
+Minesweeper medium mode material (active): YELLOW_CONCRETE
+Minesweeper hard mode material (active): RED_CONCRETE
+Minesweeper easy mode custom model data: 0
+Minesweeper medium mode custom model data: 0
+Minesweeper hard mode custom model data: 0
+Minesweeper easy mode custom model data (active): 0
+Minesweeper medium mode custom model data (active): 0
+Minesweeper hard mode custom model data (active): 0
+Minesweeper easy mode chance to lose on click: 15.0
+Minesweeper easy mode coefficient on each click: 15.0
+Minesweeper easy mode mines amount: 5
+Minesweeper medium mode chance to lose on click: 25.0
+Minesweeper medium mode coefficient on each click: 25.0
+Minesweeper medium mode mines amount: 7
+Minesweeper hard mode chance to lose on click: 35.0
+Minesweeper hard mode coefficient on each click: 35.0
+Minesweeper hard mode mines amount: 10
+Minesweeper empty slots: []
 

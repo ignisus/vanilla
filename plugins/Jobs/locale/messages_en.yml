@@ -242,12 +242,12 @@ command:
     error:
       nojob: Please join a job first.
     output:
-      message: 'Level %joblevel% for %jobname%: %jobxp%/%jobmaxxp% xp'
-      max-level: '     &cMax level   -   %jobname%'
+      Level: '&7Level &f%joblevel% &7for &f%jobname%&7: &f%jobxp%&7/&f%jobmaxxp%&7xp'
+      maxLevel: '    &2Max    &7Level &f%joblevel% &7for &f%jobname%'
     bossBarOutput: 'Lvl %joblevel% %jobname%: %jobxp%/%jobmaxxp% xp%gain%'
     bossBarGain: ' &7(&f%gain%&7)'
-    bar1: '&e▏'
-    bar2: '&2▏'
+    barEmpty: '&7▏'
+    barFull: '&2▏'
   shop:
     help:
       info: Opens special jobs shop.

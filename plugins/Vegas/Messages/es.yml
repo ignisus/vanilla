@@ -860,3 +860,32 @@ Discord jackpot message:
 - ':gem: [CASINO] **%player%** se llevó el premio mayor de **%total%** ⛃'
 You have no chips: '&c¡No tienes fichas en tu inventario!'
 Minimum chip value limit: '&c¡No puedes apostar una ficha porque su valor es bajo!'
+Minesweeper game title: '        &4❈ &4&lDRAGAMINAS&r &4❈'
+Minesweeper menu title: '&l❈ DRAGAMINAS ❈'
+Minesweeper menu description:
+- '&e• &aModo individual.'
+- '&e• &f¡Se te asigna un campo con una cierta cantidad de minas, dependiendo del
+  modo!'
+- '&e• &fPor cada clic exitoso, aumenta su apuesta en un coeficiente.'
+- '&e• &f¡Y puedes tomar el dinero en esta etapa!'
+- '&e• &f¡Si golpeas una mina, perderás inmediatamente!'
+- ' '
+- '&e⇨ &a&lFÁCIL - &r&fModo Seguro con pocas minas y bajo coeficiente'
+- '&e⇨ &e&lMEDIO - &r&fModo estándar con pocas minas y mayor coeficiente'
+- '&e⇨ &c&lDIFÍCIL - &r&fModo difícil con muchas minas y alto coeficiente.\'
+Minesweeper withdraw button title: '&6&lTUS GANANCIAS'
+Minesweeper withdraw button description:
+- '&fPuedes retirar &e%amount%&6⛃'
+Minesweeper mode activated: '&6&l[ACTIVADO]'
+Minesweeper easy mode title: '&a&lMODO FÁCIL'
+Minesweeper easy mode description:
+- '&3◦ &fCantidad de minas: &e%mines_amount%'
+- '&3◦ &fCoeficiente por cada clic: &d%coeff_by_click%'
+Minesweeper medium mode title: '&e&lMODO MEDIO'
+Minesweeper medium mode description:
+- '&3◦ &fCantidad de minas: &e%mines_amount%'
+- '&3◦ &fCoeficiente por cada clic: &d%coeff_by_click%'
+Minesweeper hard mode title: '&c&lMODO DIFÍCIL'
+Minesweeper hard mode description:
+- '&3◦ &fCantidad de minas: &e%mines_amount%'
+- '&3◦ &fCoeficiente por cada clic: &d%coeff_by_click%'

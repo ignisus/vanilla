@@ -1,0 +1,7 @@
+verbose: false           # Set to "true" to enable more verbose logging
+animate-images: true     # Set to "false" to disable GIF support
+images-path: images      # Path to images directory
+cache-path: cache        # Path to cache directory
+data-path: images.dat    # Path to placed images database file
+allowed-paths: null      # Set to a RegExp to limit accessible images to players
+max-image-dimension: 50  # Maximum width or height in blocks allowed in images
