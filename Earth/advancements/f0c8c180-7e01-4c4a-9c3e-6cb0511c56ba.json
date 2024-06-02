@@ -5002,7 +5002,6 @@
   },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "has_scute": "2023-05-19 10:21:44 +0200",
       "has_the_recipe": "2023-05-19 10:21:44 +0200"
     },
     "done": true
@@ -8225,5 +8224,5 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "DataVersion": 3839
 }
