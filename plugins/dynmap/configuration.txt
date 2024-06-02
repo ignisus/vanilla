@@ -89,7 +89,7 @@ components:
     writeinterval: 1
     sendhealth: false
     sendposition: true
-    allowwebchat: true
+    allowwebchat: false
     webchat-interval: 5
     hidewebchatip: true
     includehiddenplayers: false
@@ -440,7 +440,7 @@ defaultmap: flat
 #followmap: surface
 
 # If true, make persistent record of IP addresses used by player logins, to support web IP to player matching
-persist-ids-by-ip: true
+persist-ids-by-ip: false
 
 # If true, map text to cyrillic
 cyrillic-support: false
@@ -450,9 +450,9 @@ round-coordinates: true
 
 # Messages to customize
 msg:
-    maptypes: "Mapas Online"
+    maptypes: "Maps"
     players: ""
-    chatrequireslogin: "Logeate para chatear"
+    chatrequireslogin: "Login to chat"
     chatnotallowed: "No tienes permiso para enviar mensajes"
     hiddennamejoin: "Alguien entró"
     hiddennamequit: "Alguien salió"

@@ -12,7 +12,7 @@ chestData:
   xpStored: 6976
   inventory:
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: ARROW
     amount: 64
   - null
@@ -23,93 +23,85 @@ chestData:
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WRITTEN_BOOK
     meta:
       ==: ItemMeta
       meta-type: BOOK_SIGNED
-      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Utilidades"}],"text":""}'
+      display-name: '{"text":"","extra":[{"text":"Utilidades","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
       lore:
-      - '{"extra":[{"text":"Click para abrir"}],"text":""}'
+      - '{"text":"","extra":["Click para abrir"]}'
       ItemFlags:
-      - HIDE_ENCHANTS
-      - HIDE_ATTRIBUTES
-      - HIDE_POTION_EFFECTS
-      - HIDE_DYE
-      - HIDE_ARMOR_TRIM
+      - HIDE_ADDITIONAL_TOOLTIP
       PublicBukkitValues: |-
         {
             "commandpanels:commandpanelshotbar": "panel-1:8"
         }
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WHEAT_SEEDS
     amount: 2
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Tobacco
-        Plant"}],"text":""}'
+      display-name: '{"text":"","extra":[{"text":"Tobacco Plant","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
       lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"You
-        can use this seed to create new Tobacco."}],"text":""}'
+      - '{"text":"","extra":[{"text":"You can use this seed to create new Tobacco.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
       enchants:
-        DURABILITY: 3
+        minecraft:unbreaking: 3
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WHEAT_SEEDS
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Weed
-        Seed"}],"text":""}'
+      display-name: '{"text":"","extra":[{"text":"Weed Seed","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
       lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"You
-        can use this seed to create new weed."}],"text":""}'
+      - '{"text":"","extra":[{"text":"You can use this seed to create new weed.","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
       enchants:
-        DURABILITY: 3
+        minecraft:unbreaking: 3
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: SHULKER_BOX
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: SHULKER_BOX
     meta:
       ==: ItemMeta
       meta-type: TILE_ENTITY
-      internal: H4sIAAAAAAAA/2WNsQ6CMBRFb0VUOjiQ+DOOooObie6mlAqV0pe0j6B/LwmYmLjd4ZxzJSCxPTjS7cmz5fdN1RssbIVdZ73RQT14H5vetSbcS3plSM9suigBLASWV0eMSch/BE9DqZwTSAvqPQvMqPhDdaAYSxokElZ1gtVRdao2Y3501kWjQm0qZMjneQn0NJqtMxGYqO8H8AGqYy4xzgAAAA==
+      internal: H4sIAAAAAAAA/23MMQvCMBQE4EtrQTM4CP4ZR8Ghs+6SxKihaR4kr7T11/sKDoLecjd8nAY0tsdIrjslDjxfzKOGekGyRhVu2PcheZfNnQ/lOcTO56ulScy8GOlp6Q2aln1ftOyqRuNoSCxbKazOkfhztvs6SzRaEyP+aPWjXaZSLI2C3u1IqA2zAAAA
       blockMaterial: SHULKER_BOX
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: DIRT
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: NETHERITE_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
       Damage: 7
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BOW
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
       Damage: 5
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: CHICKEN
     amount: 11
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: FEATHER
     amount: 11
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: ARROW
     amount: 3
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: ELYTRA
     meta:
       ==: ItemMeta
@@ -150,36 +142,36 @@ chestData:
   xpStored: 947
   inventory:
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: GRASS_BLOCK
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: IRON_BARS
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: COBWEB
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: PINK_CONCRETE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BIRCH_FENCE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: NETHERITE_SWORD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
       Damage: 59
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: COOKED_PORKCHOP
     amount: 64
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: END_STONE_BRICKS
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WRITTEN_BOOK
     meta:
       ==: ItemMeta
@@ -188,141 +180,137 @@ chestData:
       lore:
       - '{"text":"","extra":["Click para abrir"]}'
       ItemFlags:
-      - HIDE_ENCHANTS
-      - HIDE_ATTRIBUTES
-      - HIDE_POTION_EFFECTS
-      - HIDE_DYE
-      - HIDE_ARMOR_TRIM
+      - HIDE_ADDITIONAL_TOOLTIP
       PublicBukkitValues: |-
         {
             "commandpanels:commandpanelshotbar": "panel-1:8"
         }
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: MUTTON
     amount: 19
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: SAND
     amount: 3
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: ARROW
     amount: 23
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BONE
     amount: 34
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: CUT_SANDSTONE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: LEATHER
     amount: 5
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WHITE_WOOL
     amount: 13
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: STRING
     amount: 36
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WOODEN_SHOVEL
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WOODEN_AXE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: LIGHT_GRAY_WOOL
     amount: 2
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: ROTTEN_FLESH
     amount: 24
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: SPONGE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: SMOOTH_SANDSTONE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: RED_SANDSTONE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: GRAY_CONCRETE_POWDER
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BUCKET
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: FLINT_AND_STEEL
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
       Damage: 2
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WHITE_CONCRETE
     amount: 2
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: GRASS_BLOCK
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: IRON_BARS
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BEEF
     amount: 3
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: DIRT_PATH
     amount: 2
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: PORKCHOP
     amount: 3
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WOODEN_AXE
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: STONE_SHOVEL
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
       Damage: 2
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BREAD
     amount: 53
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: IRON_BOOTS
     meta:
       ==: ItemMeta
       meta-type: ARMOR
       Damage: 45
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: IRON_LEGGINGS
     meta:
       ==: ItemMeta
       meta-type: ARMOR
       Damage: 96
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: IRON_CHESTPLATE
     meta:
       ==: ItemMeta
       meta-type: ARMOR
       Damage: 113
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: IRON_HELMET
     meta:
       ==: ItemMeta
@@ -343,27 +331,27 @@ chestData:
   xpStored: 24132
   inventory:
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: RAW_GOLD
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"text":"Tocken"}'
+      display-name: '"Tocken"'
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BUCKET
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WATER_BUCKET
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: LEVER
   - null
   - null
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: WRITTEN_BOOK
     meta:
       ==: ItemMeta
@@ -372,41 +360,30 @@ chestData:
       lore:
       - '{"text":"","extra":["Click para abrir"]}'
       ItemFlags:
-      - HIDE_ENCHANTS
-      - HIDE_ATTRIBUTES
-      - HIDE_POTION_EFFECTS
-      - HIDE_DYE
-      - HIDE_ARMOR_TRIM
-      internal: H4sIAAAAAAAA/+NiYOBgEHbOz81NzEsJSMxLzSn2yC9JSixi4CwA8XQNrSwYABAQsfYlAAAA
+      - HIDE_ADDITIONAL_TOOLTIP
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BOOK
     amount: 64
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"text":"Lavadora"}],"text":""}'
+      display-name: '{"text":"","extra":["Lavadora"]}'
       lore:
-      - '{"extra":[{"text":"Regalo de aniversario para tu novia"}],"text":""}'
-      ItemFlags:
-      - HIDE_ATTRIBUTES
-      - HIDE_UNBREAKABLE
+      - '{"text":"","extra":["Regalo de aniversario para tu novia"]}'
       PublicBukkitValues: |-
         {
             "furniturelib:model": "KEWashingMachineA"
         }
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: PIG_SPAWN_EGG
     amount: 64
     meta:
       ==: ItemMeta
       meta-type: SPAWN_EGG
-      display-name: '{"text":"Expositor de comedor"}'
-      ItemFlags:
-      - HIDE_ATTRIBUTES
-      - HIDE_UNBREAKABLE
+      display-name: '"Expositor de comedor"'
       PublicBukkitValues: |-
         {
             "furniturelib:model": "SalatTeke"
@@ -421,32 +398,26 @@ chestData:
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BOOK
     amount: 64
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"text":"Microondas"}],"text":""}'
-      ItemFlags:
-      - HIDE_ATTRIBUTES
-      - HIDE_UNBREAKABLE
+      display-name: '{"text":"","extra":["Microondas"]}'
       PublicBukkitValues: |-
         {
             "furniturelib:model": "KEMicrowaveA"
         }
   - null
   - ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BOOK
     amount: 64
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"text":"Pecera"}],"text":""}'
-      ItemFlags:
-      - HIDE_ATTRIBUTES
-      - HIDE_UNBREAKABLE
+      display-name: '{"text":"","extra":["Pecera"]}'
       PublicBukkitValues: |-
         {
             "furniturelib:model": "KEFishTankA"

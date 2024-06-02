@@ -175,3 +175,4 @@ BlockParticleBlackList:
 DisabledWorldsList:
 - DisabledWorld
 - AnotherDisabledWorld
+BlockBreakingParticlesByPlayer: true

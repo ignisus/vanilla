@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 79.116.202.58
+ip-address: 79.117.251.250
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1714818344205
+  lastteleport: 1717265458196
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714818881316
-  login: 1714815788095
+  logout: 1717265510346
+  login: 1717265447179
   kits:
     diario: 1709325108376
     hierro: 1689714772260
@@ -36,16 +36,16 @@ homes:
 logoutlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: 29357.37974991193
-  y: 75.61865054900825
-  z: -8906.779573884958
-  yaw: 156.58349609375
-  pitch: 12.450052261352539
+  x: 29428.931406339103
+  y: 18.0
+  z: -8680.24405258759
+  yaw: 48.487030029296875
+  pitch: 17.699199676513672
 lastlocation:
   world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
   world-name: Earth
-  x: -1120.699999988079
-  y: 75.80481508540366
-  z: -7672.934578783186
-  yaw: 98.65606689453125
-  pitch: 10.049771308898926
+  x: -1207.6876650577276
+  y: 63.9375
+  z: -7643.309815507259
+  yaw: 139.7584228515625
+  pitch: 1.9497770071029663
