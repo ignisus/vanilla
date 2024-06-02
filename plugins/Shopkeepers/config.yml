@@ -6,7 +6,7 @@
 # *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
 #
 # Determines the required config migrations. Do not edit manually!
-config-version: 5
+config-version: 6
 debug: false
 debug-options: []
 enable-metrics: false
@@ -209,3 +209,5 @@ enable-hanging-sign-shops: true
 shulker-peek-if-player-nearby: true
 shulker-peek-height: 0.3
 citizen-npc-fluid-pushable: false
+add-shop-creation-item-tag: false
+identify-shop-creation-item-by-tag: false
