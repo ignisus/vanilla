@@ -10,6 +10,7 @@
 
 verbose: false
 settings:
+  startup-commands: []
   register-minecraft-debug-commands: false
   bee-count-payload: false
   player-deaths-always-show-item: false
@@ -199,7 +200,7 @@ settings:
     kick-for-out-of-order-chat: true
     max-joins-per-second: false
     upnp-port-forwarding: false
-config-version: 34
+config-version: 35
 world-settings:
   default:
     settings:
@@ -743,6 +744,7 @@ world-settings:
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       ravager:
+        avoid-rabbits: false
         controllable: true
         always-drop-exp: false
         ridable: true
@@ -1664,7 +1666,6 @@ world-settings:
       impose-teleport-restrictions-on-gateways: false
       milk-cures-bad-omen: true
       note-block-ignore-above: false
-      persistent-tileentity-display-names-and-lore: false
       persistent-droppable-entity-display-names: false
       projectiles-bypass-mob-griefing: false
       tick-fluids: true
@@ -1773,3 +1774,5 @@ world-settings:
           block-speed:
             grass_block: 0.3
             stone: 0.5
+      persistent-tileentity-lore: false
+      persistent-tileentity-display-name: true
