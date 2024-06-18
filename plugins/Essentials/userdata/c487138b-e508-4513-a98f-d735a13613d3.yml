@@ -1,0 +1,51 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.217.113.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718641143271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1718643006746
+  login: 1718641767835
+  kits:
+    diario: 1718641994279
+money: '10004.02'
+last-account-name: esparya
+homes:
+  home:
+    world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+    world-name: Earth
+    x: 2378.5238691872764
+    y: 79.0
+    z: -6070.842768978638
+    yaw: 173.7001953125
+    pitch: 24.600156784057617
+logoutlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Earth
+  x: -6562.150409199295
+  y: 99.0
+  z: -13825.729326216779
+  yaw: -37.4930419921875
+  pitch: -21.749990463256836
+past-usernames:
+- Esparya
+lastlocation:
+  world: 75db9244-1c1a-4310-8e4d-c04f5afdaec6
+  world-name: Earth
+  x: 2956.300000011921
+  y: 64.0
+  z: -7362.626530523725
+  yaw: 172.9560546875
+  pitch: -14.249930381774902

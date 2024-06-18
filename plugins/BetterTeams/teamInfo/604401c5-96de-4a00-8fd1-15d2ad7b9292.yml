@@ -17,22 +17,22 @@ players:
 level: 5
 tag: Ignisus
 money: 1000000.0
-score: 0
+score: 25
 warps:
 - Ignisus;Earth:28650.807971001574:77.0:-7383.5678876714155:3.4000244:10.518032
 echest:
   '0':
     ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: LIGHT
     amount: 64
   '1':
     ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: BARRIER
     amount: 64
   '2':
     ==: org.bukkit.inventory.ItemStack
-    v: 3700
+    v: 3839
     type: COMMAND_BLOCK
     amount: 64

@@ -3,3 +3,4 @@
 [2023-10-21 15:08:21] - eldiosx bought 1 x [Piglin Brute Spawner](Spawners.page1.items.24) for 2,000,000€ with the buy screen.
 [2023-10-21 15:08:23] - eldiosx bought 1 x [Piglin Brute Spawner](Spawners.page1.items.24) for 2,000,000€ with the buy screen.
 [2023-10-21 15:08:24] - eldiosx bought 1 x [Piglin Brute Spawner](Spawners.page1.items.24) for 2,000,000€ with the buy screen.
+[2024-06-17 15:49:56] - esparya sold 2 x Magma Cream(Mobs.page1.items.10) for 4.02€ with the sell all command.

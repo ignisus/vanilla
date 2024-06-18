@@ -34,9 +34,9 @@ hooks:
   ProtocolLib:
     enabled: true
   Slimefun:
-    enabled: true
+    enabled: false
   Towny:
-    enabled: true
+    enabled: false
   Vault:
     enabled: true
   WorldGuard:
@@ -87,6 +87,20 @@ boss_bar:
   - FORGING YELLOW PROGRESS
   xp_format: '#.#'
   percent_format: '#.##'
+  money_format: '0.00'
+jobs:
+  enabled: false
+  selection:
+    require_selection: true
+    default_job_limit: 2
+    disable_unselected_xp: false
+  income:
+    use_xp: true
+    use_expression: false
+    default:
+      income_per_xp: 0.1
+      expression: 0.1*xp
+    use_final_xp: true
 enable_roman_numerals: false
 damage_holograms:
   enabled: true
@@ -133,6 +147,8 @@ blocked_worlds:
 disabled_worlds:
 - Example
 disable_in_creative_mode: false
+data_validation:
+  correct_over_max_level: false
 on_death:
   reset_skills: false
   reset_xp: false
@@ -209,6 +225,7 @@ check_for_updates: true
 automatic_backups:
   enabled: true
   minimum_interval_hours: 24
+  max_users: 50000
 save_blank_profiles: false
 metadata:
   config_migration_complete: true

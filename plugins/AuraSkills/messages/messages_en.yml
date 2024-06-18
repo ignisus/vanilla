@@ -419,6 +419,10 @@ commands:
         removed: <gray>All armor requirements have been removed from your item
       equip: '<yellow>You do not meet the requirements to equip this item: {requirements}'
       entry: '<aqua>{skill} {level}<gray>, '
+    trait:
+      add:
+        already_exists: <yellow>An armor modifier with trait {trait} <yellow>already
+          exists on your item! Remove it first with /sk armor trait remove
   backup:
     load:
       confirm: <red>Loading a backup will revert all skill data of players. This action
@@ -501,6 +505,13 @@ commands:
     unregister:
       unregistered: <white>Unregistered item with key {key}
       not_registered: <yellow>There is no item registered with key {key}
+    trait:
+      add:
+        already_exists: <yellow>An item modifier with trait {trait} <yellow>already
+          exists on your item! Remove it first with /sk item trait remove
+    ignore:
+      add: <gray>Your item will now be ignored by mana ability interactions
+      remove: <gray>Your item will no longer be ignored by mana ability interactions
   lang:
     set: <gray>Language set to <aqua>{lang}
     not_found: <yellow>Language not found!
@@ -630,6 +641,29 @@ commands:
     cooldown_reset: <gray>Cooldown for <aqua>{ability} <gray>has been reset for player
       <gold>{player}
   unknown_mana_ability: <yellow>Unknown mana ability!
+  jobs:
+    add:
+      added: <white>The job {job} was successfully added to player {player}
+      limited: <yellow>Cannot add this job because player {player} has reached the
+        job limit
+      existing: <yellow>Player {player} already has the job {job}
+    remove:
+      removed: <white>Removed job {job} from player {player}
+      unchanged: <yellow>Nothing was changed since player {player} does not have the
+        job {job}
+    removeall:
+      removed: <white>Removed all jobs from player {player}
+  trait:
+    add:
+      already_exists: <yellow>Modifier with name {name} already exists on player <gold>{player}<yellow>!
+        Remove it with <gold>/sk trait remove {player} {name}
+    list:
+      all_traits_header: '<gray>Trait modifiers for player <gold>{player}:'
+      one_trait_header: '<gray>Trait modifiers ({color}{trait}<gray>) for player <gold>{player}:'
+    removeall:
+      removed_all_traits: <gray>Removed <aqua>{num} <gray>trait modifiers from player
+        <gold>{player}
+  unknown_trait: <yellow>Unknown trait!
 leveler:
   level_up: '{skill} Level Up'
   skill_level_up: Skill Level Up
@@ -676,6 +710,7 @@ menus:
     stats: Stats
     stats_desc: Earn stat buffs by leveling up skills
     stats_click: Click to learn more or view your stats
+    active_job: Active Job
   level_progression:
     level_progression_title: '{skill} Levels - Page {page}'
     your_ranking: Your Skill Ranking
@@ -696,6 +731,14 @@ menus:
     mana_abilities_desc: <3>Mana Abilities</3> <1>are a special type of ability that
       requires activation and consumes mana.</1>
     abilities_click: Click to view {skill} abilities
+    job: Job
+    job_desc: Selecting {skill} as your job allows you to earn money while gaining
+      XP.
+    job_select: Left click to select {skill} as your job
+    job_active: You are actively working this job
+    job_quit: Right click to quit this job
+    job_limit: You have reached your limit on jobs. Quit an active job first to select
+      this one.
   stats:
     stats_title: Your Stats
     skills: Skills
@@ -974,4 +1017,4 @@ units:
   mana: Mana
   hp: HP
   xp: XP
-file_version: 33
+file_version: 34
