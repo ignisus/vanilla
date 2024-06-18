@@ -484,6 +484,8 @@ custom-rules:
     is-enabled: true
     use-preset: challenge-vanilla, nametag-minimized
     conditions:
+      entities:
+        included-list: [ 'VILLAGER' ]
       external-plugins:
         included-list: ['eco-bosses', 'mythic-mobs', 'elite-mobs', 'infernal-mobs', 'citizens', 'shop-keepers', 'simple-pets', 'elite-bosses', 'blood-night']
         #excluded-list: ['*']

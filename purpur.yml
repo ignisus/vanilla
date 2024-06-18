@@ -87,6 +87,10 @@ settings:
     suppress-unrecognized-recipe-errors: false
   use-alternate-keepalive: false
   blocks:
+    magma-block:
+      reverse-bubble-column-flow: false
+    soul-sand:
+      reverse-bubble-column-flow: false
     cave_vines:
       max-growth-age: 25
     kelp:
@@ -207,6 +211,19 @@ world-settings:
       entity:
         shared-random: true
     mobs:
+      armadillo:
+        ridable: false
+        ridable-in-water: true
+        controllable: true
+        attributes:
+          max_health: 12.0
+        breeding-delay-ticks: 6000
+      bogged:
+        ridable: false
+        ridable-in-water: true
+        controllable: true
+        attributes:
+          max_health: 16.0
       sniffer:
         ridable: false
         ridable-in-water: true

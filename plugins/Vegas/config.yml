@@ -21,7 +21,7 @@
 # ╔═════════════════════════════════════════╗
 # ║  DO NOT CHANGE! THIS IS UPDATE CONTROL  ║
 # ╚═════════════════════════════════════════╝
-Version: Gargantua v.14
+Version: Gargantua v.15
 
 
 # ╔═════════════════════════════════════════╗
@@ -2256,4 +2256,17 @@ Minesweeper hard mode chance to lose on click: 35.0
 Minesweeper hard mode coefficient on each click: 35.0
 Minesweeper hard mode mines amount: 10
 Minesweeper empty slots: []
+Chip denominations enable: false
+Chip denominations:
+- 100000.0
+- 50000.0
+- 10000.0
+- 5000.0
+- 1000.0
+- 500.0
+- 100.0
+- 50.0
+- 10.0
+- 1.0
+Add balances from the amount to the account (true) or delete (false): true
 

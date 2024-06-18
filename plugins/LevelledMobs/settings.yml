@@ -36,7 +36,7 @@ debug-misc: [ ]
 # ||  your server startup since it is asynchronous, it
 # ||  only speaks if it found an update, and it only runs
 # ||  once every server startup. Pointless to disable.
-use-update-checker: true
+use-update-checker: false
 
 # ||  ADVANCED USERS ONLY
 # ||  If your server software (e.g. Paper) has

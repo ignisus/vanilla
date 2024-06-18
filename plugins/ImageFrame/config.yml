@@ -74,6 +74,10 @@ Messages:
       'FALSE': '&cDisabled'
       UNSET: '&7Unset'
     UpdateMessage: '&ePlayer Preference {Preference}&e has been updated to {Value}&e!'
+  ImageMapAlreadyCreating: '&cAn ImageMap is already being processed, please wait!'
+  # Leave this empty ("") to disable action bar message
+  ImageMapProcessingActionBar: '&eImageMap &a{Name} &eis being processed{Dots}'
+  InvalidImageMap: '&cThis image map had likely already been deleted.'
 
 Settings:
   MapItemFormat: '&f{Name} &7({X}, {Y})'
