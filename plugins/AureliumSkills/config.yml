@@ -5,7 +5,7 @@ hooks:
   HolographicDisplays:
     enabled: false
   DecentHolograms:
-    enabled: true
+    enabled: false
 reset-skills-on-death: false
 save-blank-profiles: false
 mysql:
