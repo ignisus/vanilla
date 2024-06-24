@@ -6,6 +6,7 @@ usercache.json
 usernamecache.json
 ops.json
 tmp/
+ops.json
 version_history.json
 .console_history
 versions/

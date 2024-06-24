@@ -212,7 +212,7 @@ world-settings:
         shared-random: true
     mobs:
       armadillo:
-        ridable: false
+        ridable: true
         ridable-in-water: true
         controllable: true
         attributes:
@@ -645,7 +645,7 @@ world-settings:
       parrot:
         controllable: true
         always-drop-exp: false
-        ridable: false
+        ridable: true
         ridable-in-water: false
         ridable-max-y: 256.0
         attributes:
@@ -655,7 +655,7 @@ world-settings:
       magma_cube:
         controllable: true
         always-drop-exp: false
-        ridable: false
+        ridable: true
         ridable-in-water: false
         attributes:
           attack_damage: size
@@ -848,10 +848,10 @@ world-settings:
       turtle:
         controllable: true
         always-drop-exp: false
-        ridable: false
-        ridable-in-water: false
+        ridable: true
+        ridable-in-water: true
         attributes:
-          max_health: 30.0
+          max_health: 60.0
         breeding-delay-ticks: 6000
         takes-damage-from-water: false
       vex:
@@ -955,10 +955,10 @@ world-settings:
       wolf:
         controllable: true
         always-drop-exp: false
-        ridable: false
+        ridable: true
         ridable-in-water: false
         attributes:
-          max_health: 8.0
+          max_health: 24.0
         default-collar-color: RED
         milk-cures-rabid-wolves: true
         spawn-rabid-chance: 0.0
@@ -999,8 +999,8 @@ world-settings:
         ridable-in-water: false
         ridable-max-y: 256.0
         flames:
-          damage: 1.0
-          fire-time: 8
+          damage: 2.0
+          fire-time: 10
         allow-griefing: false
         flames-on-swoop: false
         attributes:
