@@ -1,6 +1,9 @@
 Messages:
   Reloaded: '&eImageFrame has been reloaded!'
-  ImageMapProcessing: '&cImageMap is being processed, please wait!'
+  ImageMapAlreadyCreating: '&cAn ImageMap is already being processed, please wait!'
+  ImageMapProcessing: '&eImageMap is being processed, please wait!'
+  # Leave this empty ("") to disable action bar message
+  ImageMapProcessingActionBar: '&eImageMap &a{Name} &eis being processed{Dots}'
   ImageMapCreated: '&aImageMap has been created!'
   ImageMapRefreshed: '&aImageMap has been refreshed!'
   ImageMapDeleted: '&eImageMap had been deleted!'
@@ -18,6 +21,7 @@ Messages:
     - '&bImageID: {ImageID}'
     - '&aName: {Name}'
     - '&eMap Size: {Width} x {Height}'
+    - '&6Dithering: {DitheringType}'
     - '&dCreator: {CreatorName} ({CreatorUUID})'
     - '&fAccess: {Access}'
     - '&aTime Created: {TimeCreated}'
@@ -35,6 +39,7 @@ Messages:
   MapLookup: '&bList of image maps by {CreatorName} ({CreatorUUID}):'
   ItemFrameOccupied: '&cFailed to place or remove some maps on selected ItemFrame, they are either destroyed, replaced, occupied or protected.'
   NotEnoughSpace: '&cUnable to place Combined ImageMap as there is not enough room.'
+  InvalidImageMap: '&cThis image map had likely already been deleted.'
   AccessPermission:
     Updated: '&aUpdated access for {PlayerName} ({PlayerUUID}), they now have {Permission} permission.'
     Types:
@@ -74,10 +79,6 @@ Messages:
       'FALSE': '&cDisabled'
       UNSET: '&7Unset'
     UpdateMessage: '&ePlayer Preference {Preference}&e has been updated to {Value}&e!'
-  ImageMapAlreadyCreating: '&cAn ImageMap is already being processed, please wait!'
-  # Leave this empty ("") to disable action bar message
-  ImageMapProcessingActionBar: '&eImageMap &a{Name} &eis being processed{Dots}'
-  InvalidImageMap: '&cThis image map had likely already been deleted.'
 
 Settings:
   MapItemFormat: '&f{Name} &7({X}, {Y})'

@@ -1,9 +1,0 @@
-GriefDefender {
-    # A list of owner unique friendly claim names mapped to their respective claim UUID.
-    claim-names {
-        "11111111-1111-1111-1111-111111111111" {}
-        f0c8c180-7e01-4c4a-9c3e-6cb0511c56ba {
-            sevilla="337f0239-d13f-4615-92ff-6287922e3dfb"
-        }
-    }
-}

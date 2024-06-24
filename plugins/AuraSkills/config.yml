@@ -60,6 +60,8 @@ action_bar:
   round_xp: true
   placeholder_api: true
   use_suffix: true
+  format_last: false
+  update_async: false
 boss_bar:
   enabled: true
   mode: multi
@@ -101,6 +103,10 @@ jobs:
       income_per_xp: 0.1
       expression: 0.1*xp
     use_final_xp: true
+    batching:
+      enabled: false
+      interval_ms: 2000
+      display_individual: false
 enable_roman_numerals: false
 damage_holograms:
   enabled: true
