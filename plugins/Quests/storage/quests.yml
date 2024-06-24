@@ -116,8 +116,8 @@ quests:
             v: 3120
             type: GOLDEN_APPLE
             amount: 5
-          npc-delivery-ids:
-          - 5
+          npc-delivery-ids: 
+          - 6
           delivery-messages:
           - <npc> Gracias
           start-message: Dame 5 manzanas doradas para restablecer mi energía
