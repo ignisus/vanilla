@@ -1,8 +1,0 @@
-isEnabled: true
-material: ENDER_EYE
-name: '&dMutated Eye'
-lore:
-- "&dA grisly trophy..."
-potionEffects: 
-- "NIGHT_VISION,2,self,continuous"
-
