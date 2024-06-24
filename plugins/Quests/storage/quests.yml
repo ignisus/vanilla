@@ -111,18 +111,6 @@ quests:
     stages:
       ordered:
         '1':
-          items-to-deliver:
-          - ==: org.bukkit.inventory.ItemStack
-            v: 3120
-            type: GOLDEN_APPLE
-            amount: 5
-          npc-delivery-ids: 
-          - 6
-          delivery-messages:
-          - <npc> Gracias
-          start-message: Dame 5 manzanas doradas para restablecer mi energía
-          complete-message: Gracias, ahora tengo fuerzas para seguir peleando
-        '2':
           npc-ids-to-talk-to:
           - 6
           start-message: Encuentra a Tao-Paipai que esta haciendo de las suyas
