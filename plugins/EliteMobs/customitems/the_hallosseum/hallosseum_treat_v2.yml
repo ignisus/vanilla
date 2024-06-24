@@ -1,7 +1,0 @@
-isEnabled: true
-name: "&aTreat!"
-material: "COOKIE"
-lore:
-- "&eA delicious snack!"
-scalability: fixed
-itemType: unique
