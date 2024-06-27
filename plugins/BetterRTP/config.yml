@@ -26,7 +26,7 @@ Settings:
     # # Respect hClaims areas (https://www.spigotmc.org/resources/hclaims.90540/)
     hClaims: false
     # # Respect GriefDefender areas (https://www.spigotmc.org/resources/griefdefender.68900/)
-    GriefDefender: false
+    GriefDefender: true
     # # Respect UltimateClaims areas (https://songoda.com/marketplace/product/ultimateclaims-the-ultimate-claiming-plugin.65)
     UltimateClaims: false
     # # Respect Pueblos regions (https://www.spigotmc.org/resources/pueblos.91255/) (My Favorite :D)

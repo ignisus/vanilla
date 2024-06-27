@@ -873,28 +873,28 @@ mecha-shoptitle: '&6Mecha Shop'
 mecha-shopslots:
  '1':
   mechaType: 'MKI'
-  price: 500
+  price: 1000
   itemMaterial: 'CHEST'
   itemDisplayName: '&7Mecha MKI'
   itemLore:
    - '&7It works... Believe me!'
-   - '&6Price: &7500'
+   - '&6Price: &71000'
  '4':
   mechaType: 'MKII'
-  price: 600
+  price: 1500
   itemMaterial: 'CHEST'
   itemDisplayName: '&fMecha MKII'
   itemLore:
    - '&7Crush your enemies.'
-   - '&6Price: &7600'
+   - '&6Price: &71500'
  '7':
   mechaType: 'MKV'
-  price: 1000
+  price: 2000
   itemMaterial: 'CHEST'
-  itemDisplayName: '&cMecha MKV'
+  itemDisplayName: '&cMecha Ignisus'
   itemLore:
    - '&7Tons of damage.'
-   - '&6Price: &71000'
+   - '&6Price: &72000'
 bikes:
  'BLACK':
   seatMaterial: 'BLACK_TERRACOTTA'
@@ -1034,7 +1034,7 @@ rafts:
    - 'BLACK-SKULL'
    - 'BLACK-CREEPER'
    - 'ORANGE-TRIANGLES_BOTTOM'
-  maxSpeed: 0.4
+  maxSpeed: 0.5
   acelerationValue: 0.003
   displayName: '&cNether Raft'
   permission: 'Rafts.type.NETHER'
@@ -1044,8 +1044,8 @@ rafts:
   bannerLayers:
    - 'BLACK-BASE'
    - 'WHITE-SKULL'
-  maxSpeed: 0.5
-  acelerationValue: 0.003
+  maxSpeed: 0.7
+  acelerationValue: 0.006
   displayName: '&7Pirate Raft'
   permission: 'Rafts.type.PIRATE'
   maxHealth: 40
@@ -1080,13 +1080,13 @@ planes:
   mainMaterial: 'CYAN_TERRACOTTA'
   wheelsUrl: 'http://textures.minecraft.net/texture/7e873aa9cf76821da515fb7461e88b71759c1164908d8b2013145b58cfbf'
   wingsMaterial: 'HEAVY_WEIGHTED_PRESSURE_PLATE'
-  maxSpeed: 1.2
-  acelerationValue: 0.008
+  maxSpeed: 1.5
+  acelerationValue: 0.010
   takeOffSpeed: 0.8
   displayName: '&7P-61 Plane'
   permission: 'Planes.type.P3'
   bombPower: 3.2
-  maxHealth: 40
+  maxHealth: 50
   fuelCapacity: 1200
   fuelWasteSpeed: 1.0
 parachutes:
@@ -1182,8 +1182,8 @@ helicopters:
   rotorSpeedValue: 0.1
   displayName: '&cApache Helicopter'
   permission: 'Helicopters.type.H3'
-  missilePower: 3.3
-  maxHealth: 40
+  missilePower: 5
+  maxHealth: 50
   fuelCapacity: 1300
   fuelWasteSpeed: 1.0
 tanks:
@@ -1228,8 +1228,8 @@ tanks:
   acelerationValue: 0.004
   displayName: '&aArmata Tank'
   permission: 'Tanks.type.T3'
-  missilePower: 5.3
-  maxHealth: 40
+  missilePower: 8
+  maxHealth: 80
   fuelCapacity: 1300
   fuelWasteSpeed: 1.0
 submarines:
@@ -1647,32 +1647,32 @@ mechas:
   wheelJoinsMaterial1: IRON_LEGGINGS
   wheelJoinsMaterial2: IRON_BOOTS
  'MKV':
-  maxSpeed: 1.3
-  maxBackSpeed: 1.1
-  accelerationValue: 0.007
-  displayName: '&cMecha MKV'
+  maxSpeed: 1.5
+  maxBackSpeed: 1.2
+  accelerationValue: 0.010
+  displayName: '&cMecha Ignisus'
   permission: 'Mechas.type.MKV'
-  maxHealth: 400
-  fuelCapacity: 2000
-  fuelWasteSpeed: 1.0
-  thrustAccelerationValue: 0.125
+  maxHealth: 500
+  fuelCapacity: 2500
+  fuelWasteSpeed: 0.8
+  thrustAccelerationValue: 0.140
   maxThrustTime: 60
   thrustRecoverSpeed: 2.1
   gunEnabled: true
-  gunRange: 60
+  gunRange: 100
   gunProjectileSpeed: 3.0
   gunShootDelay: 1
-  gunDamage: 9.0
-  gunFuelWaste: 0.8
+  gunDamage: 10.0
+  gunFuelWaste: 0.3
   gunColorRed: 163
   gunColorGreen: 20
   gunColorBlue: 7
   hookEnabled: true
-  hookRange: 18
+  hookRange: 25
   hookProjectileSpeed: 1.5
   hookShootDelay: 30
-  hookDamage: 7.0
-  hookFuelWaste: 1.0
+  hookDamage: 9.0
+  hookFuelWaste: 0.5
   bodyMaterialUrl1: 'https://textures.minecraft.net/texture/621f4e6b3cbb231dd7f1f5e7afe3a928473db67681b62bf1d6a597f12df8ca29'
   bodyMaterialUrl2: 'https://textures.minecraft.net/texture/51f63ccbcd7e2b7afbd64cf54cba47946c23511cdbf74b893e217953135fc5cf'
   wheelMaterialUrl1: 'http://textures.minecraft.net/texture/1b1fda04299089b01ccee39cf88e9c71bdd394bfe473eae364f53793a6d593'
