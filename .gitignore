@@ -18,6 +18,8 @@ usercache.json
 usernamecache.json
 ops.json
 whitelist.json
+banned-players.json
+banned-ips.json
 bukkit.yml
 pufferfish.yml
 commands.yml
