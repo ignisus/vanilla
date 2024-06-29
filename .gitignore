@@ -22,5 +22,6 @@ banned-players.json
 banned-ips.json
 bukkit.yml
 pufferfish.yml
+permissions.yml
 commands.yml
 wepif.yml
