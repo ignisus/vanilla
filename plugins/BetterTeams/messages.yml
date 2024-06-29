@@ -500,6 +500,9 @@ command:
   bal: bal
   withdraw: withdraw
   setowner: setowner
+  debug: debug
+  teleport: teleport
+  money: money
 internalError: '&4Something went wrong while executing that command, please report
   it to your server owners'
 announce:

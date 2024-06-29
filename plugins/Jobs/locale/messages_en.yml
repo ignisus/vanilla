@@ -235,6 +235,10 @@ command:
     help:
       info: Shows all possible entities that can be used with the plugin.
       args: ''
+  recalculatepermissions:
+    help:
+      info: Reset players permission cache
+      args: (playername)
   stats:
     help:
       info: Show the level you are in each job you are part of.
@@ -341,6 +345,9 @@ command:
       fish:
         info: '&eFish'
         none: '%jobname% does not get money from fishing.'
+      pyrofishingpro:
+        info: '&eFish'
+        none: '%jobname% does not get money from fishing.'
       craft:
         info: '&eCraft'
         none: '%jobname% does not get money from crafting.'
@@ -392,6 +399,9 @@ command:
       bucket:
         info: '&eBucket'
         none: '%jobname% does not get money for bucketing.'
+      brush:
+        info: '&eBrush'
+        none: '%jobname% does not get money for brushing blocks.'
   playerinfo:
     help:
       info: Show how much each job is getting paid and for what on another player.

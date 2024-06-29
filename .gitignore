@@ -6,13 +6,14 @@ usercache.json
 usernamecache.json
 ops.json
 tmp/
+help.yml
 ops.json
 version_history.json
 .console_history
 versions/
 texturepacks/
-#Worlds
 Mining/
 Earth_nether/
 Earth_the_end/
 start.sh
+wepif.yml
