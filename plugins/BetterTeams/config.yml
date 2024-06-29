@@ -1,4 +1,4 @@
-language: es_mx
+language: en_us
 storageType: YAML
 prefix: name
 prefixFormat: '&7[&7BetterTeams&7] '
@@ -22,7 +22,7 @@ logTeamChat: true
 allowToggleTeamChat: true
 colorTeamName: true
 defaultColor: 7
-tpDelay: 10
+tpDelay: 5
 noMove: false
 maxMove: 0
 singleOwner: false
@@ -52,7 +52,7 @@ levels:
     maxWarps: 1
     maxBal: 1000000
     maxAdmins: 5
-    maxOwners: 1
+    maxOwners: 2
     rankLore:
     - '&7Rango 2'
   l3:
@@ -62,7 +62,7 @@ levels:
     maxWarps: 2
     maxBal: 10000000
     maxAdmins: 10
-    maxOwners: 2
+    maxOwners: 3
     rankLore:
     - '&7Rango 3'
   l4:
@@ -72,7 +72,7 @@ levels:
     maxWarps: 3
     maxBal: 100000000
     maxAdmins: 15
-    maxOwners: 2
+    maxOwners: 4
     rankLore:
     - '&7Rango 4'
   l5:
@@ -82,7 +82,7 @@ levels:
     maxWarps: 4
     maxBal: 1000000000
     maxAdmins: 20
-    maxOwners: 3
+    maxOwners: 5
     rankLore:
     - '&7Rango 5'
 purgeCommands:
@@ -118,9 +118,9 @@ database:
   user: root
   password: password
 titleRemoval: true
-announceTeamJoin: false
-announceTeamLeave: false
-announceTeamDisband: false
+announceTeamJoin: true
+announceTeamLeave: true
+announceTeamDisband: true
 chatPrefixes:
   globalToTeam: '!'
   globalToAlly: '?'

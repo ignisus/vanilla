@@ -38,7 +38,7 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: POTION
           potion-type: minecraft:invisibility
-          custom-effects: &id001 []
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -57,7 +57,7 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: POTION
           potion-type: minecraft:long_invisibility
-          custom-effects: *id001
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -129,7 +129,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Comet
             140","italic":false,"color":"green"}]}'
-          internal: H4sIAAAAAAAA/3WRzUrDQBDHt4pQA1YQvIfFYwpaalpzbPHgRTwUL1Jkspk0S5Ldkp3V1pKX8N18H7dF09LqXmaZj9/M/MdjzGOdUaFFfq9I0nICs2PW+mDutdmRTNh5KRWKClKKRIaGXHS5jjq7WNtTdvJAWJr137E8ocu5VqjInLLOtrbQFbZdRot9rTguqAIevax4rIuERykUBgMutMviEX/PJCEPuCQopGjCOk6tEUC4rTBUyRwpq7SdZY2XHN9hJpk0/hxEDjP0hVYEUhkffEe2KsGqcMP9oupg1bSfVYjqsP0PdaxLJP+mf83raePktccud4SyhnT5mgCBxy6ebOw4I5vnkp6hsGja7OwNMykKNJG1TuSrwV1f9ESYdMMQoNuHYdKNhwl2b0UKYZgmg14/3JzEG2/Yj1Ai+1w1/YMdTQ8G/VO6ve0OFPlP3H2Vdi5YT2vGvgHj5/xGUgIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:uuid": "794c2c6d-66aa-4a8d-b8de-5cfa66fd7246"
@@ -152,7 +151,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Nimbus
             2001","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/3WRzUrDQBDHt4rQBqwgeA+LxwTSD1uaY8WDl+KheBGRzWbSLNlkS3bWtoY8hu/m47gtmhZb9zLLfPxm5j8OIQ7pTqXi2UOBAjdztjgnrQ9iX5uciZhc5aIAXrIEQ56CRhvdbKPWrre2Qy4eEXK9/VuWw1W+VAUUqDuku6+VqoS2zWiRr4rCGktGw5eKRkrGNEyY1OBRrmwWDekqFQjUowKZFLwJqygxmjOEfYXGUmSAaanMIm28aPkWM0+FdpeMZ2wBLlcFMlFol7mWbIoYSmmH+0XVXtW034CUanXc/wc7E3lktNsPgh6tXxs3rR1yc6CV0ajyt5ghc8j1k4ksaWqyTOAzkwZ0m1y+Qyq4BB0aY3W+HfFREg+jsZ8E0POHEI/9KB5H/nDCR3AHwaA/Geyu4tzv2DOWA/msmv7egawnRj2p358Nj2T5T+EjqQ7uWL/WhHwDYZ2w91gCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:uuid": "6c6fd4b7-f0e1-4ed7-bd7b-49c6e5e03293"
@@ -174,7 +172,6 @@ data-version: 3|2|3839
           display-name: '{"text":"","extra":[{"text":"Firebolt","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Firebolt","italic":false,"color":"red"}]}'
-          internal: H4sIAAAAAAAA/3WRS0vDQBDHt4rQBqwgeA+LxwT6CG3JsaLgRTwUL1Jks5k0Sx5bdme1NeQz+N38RG6LprXVvcwyj9/M/MchxCHdaS55dluiwPWMLU5J653Y1yYnIiYXhSiBK5ZgyFPQaKPrTdTa1cZ2yNk9QqE3f8tyuCyWsoQSdYd0d7W5VNC2GS3yWVFYoWI0fK5oJPOYhgnLNXiUS5tFQ/qWCgTqUYEsF7wJyygxmjOEXYVGJTLAVEmzSBsvWr7FzFKh3SXjGVuAy2WJTJTaZa4lmzIGldvhflC1VzXtlfUeNf9m3gkFdmak9bzx0dohV3sqGY2yeIkZModcPprIYqYmywQ+sdyAbpPzV0gFz0GHxliFr3mvN5wEffDHozH3A2CRP4lGA78f9NgwGMSDcRJv7+HcbNkPrADyUTX9vT1BD+f8U7aD3Y7U+E/Y3wrt3a6e14R8AQR8viZMAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:uuid": "c003841e-767c-4eab-8b62-140a342d27fd"
@@ -482,7 +479,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"Requiere ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false},{"text":"Agricultura
             10","italic":false,"color":"dark_aqua"}]}'
-          attribute-modifiers: {}
           color:
             ==: Color
             ALPHA: 255
@@ -511,7 +507,6 @@ data-version: 3|2|3839
           - '{"text":"","extra":[{"text":"Vida: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false},{"text":"+59","italic":false,"color":"red"}]}'
           - '{"text":"","extra":[{"text":"Requiere ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false},{"text":"Agricultura
             10","italic":false,"color":"dark_aqua"}]}'
-          attribute-modifiers: {}
           repair-cost: 15
           color:
             ==: Color
@@ -540,7 +535,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"Requiere ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false},{"text":"Agricultura
             10","italic":false,"color":"dark_aqua"}]}'
-          attribute-modifiers: {}
           repair-cost: 15
           color:
             ==: Color
@@ -569,7 +563,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"Requiere ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false},{"text":"Agricultura
             10","italic":false,"color":"dark_aqua"}]}'
-          attribute-modifiers: {}
           repair-cost: 63
           color:
             ==: Color
@@ -601,7 +594,6 @@ data-version: 3|2|3839
           enchants:
             minecraft:knockback: 3
             minecraft:smite: 5
-          attribute-modifiers: {}
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -703,7 +695,6 @@ data-version: 3|2|3839
           display-name: '"Mochila"'
           lore:
           - '"Buena, bonita y barata."'
-          internal: H4sIAAAAAAAA/0WNsQ6CMBRFL7pABzYHN9LZ+AGOGEed3M2jVmlo+0x5JODXWybvcpZzchWgULeezXCJ4mS503uL4ou8Ehv3xC64aE2il5zGfvKDTY+O5+wsq5M5r1RQhsOHo40yVqj/kedky2wU2Ot2spEOTcfRCTVL01EioaPOV+o8jcLhRsGi0lc2vfOkgR+a7P9xoQAAAA==
           blockMaterial: BROWN_SHULKER_BOX
       item1:
         ==: org.bukkit.inventory.ItemStack
@@ -842,7 +833,6 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: COLORABLE_ARMOR
           display-name: '{"text":"","extra":["Botas de movilidad"]}'
-          attribute-modifiers: {}
           color:
             ==: Color
             ALPHA: 255
@@ -868,7 +858,6 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: COLORABLE_ARMOR
           display-name: '{"text":"","extra":["Botas de flash"]}'
-          attribute-modifiers: {}
           color:
             ==: Color
             ALPHA: 255
@@ -893,10 +882,8 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: TILE_ENTITY
           display-name: '{"text":"","extra":[{"text":"Netherite Shield","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"bold":false}]}'
-          attribute-modifiers: {}
           ItemFlags:
           - HIDE_ADDITIONAL_TOOLTIP
-          internal: H4sIAAAAAAAA/2VPwU7DMAw1cNlyQIDEEYnlPH6gxyGuExKIC0KV27ir1TSZEkfaQPsA/ppsY+1hvth+fs/2UwAKrhfW192LE5btO66u4OIbckzgkg3c9OyoDthIUaFzFPJ4ux/nvNlnBar2/do7chIVzEZ+y4ZKNIaFvUNbivdWeJ0VDyMJRQJXSajsveGGKcQpTIca4HjjflTUKYrvS4OCCu5eU2W5XqSuY/lAmyhOYOZIWgosFFsmawpH/A88HRG4PYf2jtXzYfkSe4LfHy20EV1oPde5CKiLzwFbnk48vh3kmeOrJsUahYwuGrSR5poF83dDm5yhYLOTkRGz/S7vCj6t2gGtvD1Rdl87gD9ixtc1qAEAAA==
           PublicBukkitValues: |-
             {
                 "netheriteshield:neitherite-shield": "neitherite-shield"
@@ -2360,709 +2347,6 @@ data-version: 3|2|3839
         type: GOLD_NUGGET
         amount: 32
   snapshots: []
-'36':
-  uniqueId: c83d1943-98cf-4fec-9f3c-fb80696c3d15
-  world: Earth
-  x: 29425
-  y: 6
-  z: -8658
-  yaw: 180.8161
-  type: admin
-  name: IKEA &4BETA
-  object:
-    type: villager
-    baby: false
-    profession: NONE
-    villagerType: TAIGA
-    villagerLevel: 1
-  recipes:
-    '1':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Cortina de baño"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornCurtainA4"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '2':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Piano"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornPianoA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '3':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Silla básica"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Chair"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '4':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Televisión plasma"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TV"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '5':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Sombrilla"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Sunshade"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '6':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Papelera"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TrashCan"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '7':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Silla de playa"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KEBeachChair"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '8':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Vela Grande"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "WaxCandle"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '9':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Sofá"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "sofa1"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '10':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Aire acondicionado"]}'
-          lore:
-          - '{"text":"","extra":["Parte externa"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "HKCDCAirCon2"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '11':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Silla informal"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "SchoolChair"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '12':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Pupitre"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "SchoolTable"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '13':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Micrófono"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "mic"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '14':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Váter"]}'
-          lore:
-          - '{"text":"","extra":["Pa cagar y eso"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornToiletA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '15':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Lavabo"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornWashstandA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '16':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Cama de matrimonio"]}'
-          lore:
-          - '{"text":"","extra":["Pa dormir o pa f*****"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornBedB"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '17':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Bañera"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornBathtubA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '18':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Banco de calle"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornBenchC"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '19':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Silla de campamento"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "CampChair"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '20':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Campamento de trabajo"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Tent1"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '21':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Campamento refugio"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Tent2"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '22':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Campamento mini"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Tent3"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '23':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Hamaca"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Hammock"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '24':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Maceta"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "FlowerPot"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '25':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Caseta para mascota"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornDogHouseA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '26':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Silla ergonómica"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Office-Chair"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '27':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Ordenador"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornComputerA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '28':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Columpio"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Swing"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '29':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Chimenea"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornFireplaceB1"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '30':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Kebap"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "grill"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '31':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Cama de hospital"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "krankenhausbett"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '32':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Buzón azul"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornMailBoxA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '33':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Buzón blanco"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornMailBoxC"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '34':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Buzón verde"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "TornMailBoxD"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '35':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Buzón azul-negro"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "tornmailboxb"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '36':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Butaca de madera"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KEWoodLazyChairLying"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '37':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":[{"text":"Wespa","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Wespa"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '38':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Expositor de comedor"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "SalatTeke"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '39':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Espantapájaros"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "WirdowwScarecrow"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '40':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: PIG_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Pizarra"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "BlackBoard"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-  snapshots: []
 '37':
   uniqueId: 5a65267a-b2e0-4e1a-905a-f2f74bbf3778
   world: Earth
@@ -3840,7 +3124,6 @@ data-version: 3|2|3839
           display-name: '{"text":"","extra":["Mochila"]}'
           lore:
           - '{"text":"","extra":["Barato, para la vuelta ar coleh"]}'
-          internal: H4sIAAAAAAAA/0WOsQ7CMAxEXVhKBjZmIs/dkToWMcLEhhAyIdCKJK5SF7Ug/p2wgJc33LuTFYCCeeXY3DdBGhn3dJtC9oR0OUyaCyx8E6yJdJWyq3t3t/F05iE549dJHL5UoAz7loMN0s1g/i85jjZPRgarF9pBImF5wIoiCRe6TdSO9KO3TkhT1IadrfFYoCQZS8R3ekSt+07Y78hbWL5+UfEf3LKpG0d4fAN8AJgq0AjVAAAA
           blockMaterial: BROWN_SHULKER_BOX
       item1:
         ==: org.bukkit.inventory.ItemStack
@@ -4607,280 +3890,6 @@ data-version: 3|2|3839
         v: 3839
         type: HEART_OF_THE_SEA
   snapshots: []
-'54':
-  uniqueId: 6d9f4d99-db7b-4f5e-86a0-f4e5df031216
-  world: Earth
-  x: 29424
-  y: 6
-  z: -8658
-  yaw: 191.59279
-  type: admin
-  name: Tommy
-  object:
-    type: villager
-    baby: false
-    profession: NONE
-    villagerType: SNOW
-    villagerLevel: 1
-  recipes:
-    '1':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: BOOK
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":["Microondas"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KEMicrowaveA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '2':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: BOOK
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":[{"text":"Laptop - A","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KELaptopA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '3':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: BOOK
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":["Nevera"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KERefrigeratorB"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '4':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: BOOK
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":["Lavadora"]}'
-          lore:
-          - '{"text":"","extra":["Regalo de aniversario para tu novia"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KEWashingMachineA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '5':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: BOOK
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":["Pecera"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KEFishTankA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '6':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: FLOWER_POT
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"text":"","extra":["Planta"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "KEPotPlantA"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-  snapshots: []
-'55':
-  uniqueId: 717bd496-db3c-4f36-a9d1-d044312a01d8
-  world: Earth
-  x: 29426
-  y: 6
-  z: -8658
-  yaw: 182.01419
-  type: admin
-  name: Timmy
-  object:
-    type: villager
-    baby: false
-    profession: NONE
-    villagerType: SNOW
-    villagerLevel: 1
-  recipes:
-    '1':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Plato Minecraft Style"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Plate"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '2':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Papel Higénico"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "Toilet_paper"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '3':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Lámpara escritorio negra"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "cDeskLampBlack"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '4':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Estanteria con maceta"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "shelf1"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '5':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Lámpara suelo negra"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "cFloorLampBlack"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '6':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '{"text":"","extra":["Taquillas"]}'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "ShoeLockers"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '7':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Lavabo"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "sink"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-    '8':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: COW_SPAWN_EGG
-        meta:
-          ==: ItemMeta
-          meta-type: SPAWN_EGG
-          display-name: '"Castillo de arena"'
-          PublicBukkitValues: |-
-            {
-                "furniturelib:model": "cSandCastle"
-            }
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3839
-        type: GOLD_INGOT
-  snapshots: []
 '56':
   uniqueId: 2bbc1fe3-f39f-4257-b76b-9c6ba27b5676
   world: Earth
@@ -4907,7 +3916,7 @@ data-version: 3|2|3839
           meta-type: POTION
           display-name: '{"text":"","extra":[{"text":"Cervecita","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
           potion-type: minecraft:strong_strength
-          custom-effects: &id002 []
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -5074,7 +4083,7 @@ data-version: 3|2|3839
           meta-type: POTION
           display-name: '{"text":"","extra":[{"text":"Aquarius","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
           potion-type: minecraft:swiftness
-          custom-effects: *id002
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -5105,7 +4114,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Old
             Raft","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/3VSzW4TMRCeQivSlSiIiiPSyuKYVCUJVbo3ijhUQoBQxQVVaNY7mzXxriN73Gwa7YFX4MaBN+A9uCPxGLwD3gq2UQM+eKz5+Wbm+xwBRLB3oo2cvahY8fIMp7dh6xLC6cEtlcG9UlUkLeacyIIch+iyjQZbt3YXdk6ZSte+A1YkTTk3FVXsdmHvulYbS72QsQU/V4JqtiiS9yuRGp2JJEftqC+kCVkiEYtCMYm+UIxayS5s0tw7iUzXFY6tmhEX1vhp0Xk54AeYs0K5eI5yhlOKpakYVeVijAOyrzKyOgz3F6rpr7r2S9LaLDb7/4F9rbP4bVhJNOedTzQRPFwjyjs25YcMGSN48ManAebEz2aK36H25O7A/QsqlNTkkpBpw4CBmuTbL9hxFvY/4gUeeFb64Jm1uHypHNeffjz68h2/BtZPYdupS6rnLeGL7faue3C3A/Q+qPZ4mB/mk6PD0WA4fpIPxulYDo4nKAdHk6fDUT5Ks9ExXmkcPb8a9hWWBJ9X3UL9NZFuLv5PKW6QtcHw/8TaYH3tSzTnDcBvrGO1/qMCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5130,7 +4138,6 @@ data-version: 3|2|3839
             Raft","italic":false,"color":"red"}]}'
           - '""'
           - '{"text":"","extra":[{"text":"Health: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false},{"text":"40/40.0","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/6VSwWoUQRAtY4KbAaMoHoWh8bi7jutInLkZEQxIEAleJEhvT81OO73TS3d1djbLHPwFbx78Az9D8C74Gf6DPYtONiYhB/vQ3VR1vepX7wUAAezsKS3KFxVJWhzyyXW4dgJ+9WBDZnBrKisUhueUigIt+eyizfqzbs9t2NonnNr27rECoaczXWFFdht2TmuVNthblf1cMqzJcJa+W7KxVhlLc64s9pnQ/hVL2byQhKzPJHElRZfW49xZwQlPKywZWSIVRrtJ0UXJ43uYw0LacMZFyScYCl0Rl5UNeeiRXZWhUf5zf6Ga/rJrb3z0XPM/mAe+GZrwjafEmqMuzBrYYAy+XUltYhCr/6f2ErmiIr2SygKV0vNL2cTRwzgaRmeZBHBvTXJnSU/fZ5x4AHdeu7FH2XNlKektVw7tDbh9jIUUCm3qXxo/ai9y+vUXbFkDdz/wYz50JNXwmTF88Upaqj/+uP/5O//i/bMPm1aeYD1rrTPfbPe6Bzc7QOe8/x6MsjzKkigaPMqQD+JE7A6SEcaDUZI8HuW7T8RTjFduDZ6vPnvApwiflh2h/pomF6h44fD/Gde5GV8mz1kLrTmgOWoAfgNm4QI+bQMAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5156,7 +4163,6 @@ data-version: 3|2|3839
             Raft","italic":false,"color":"gray"}]}'
           - '""'
           - '{"text":"","extra":[{"text":"Health: ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false},{"text":"40/40.0","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/6VSzW7UMBAeSiu2kSiIiiNSZHHcXULJtjQ3WiFRCaEKVVxQhRzvJDFx4pU96Wa7yqHPwIkDb8BjIHHnwFvwDjgrSJf+qAdyiC2P5/N8Px6ABxt7Sov8ZUmSZkc8vQ23TsF9PViRY7hXyBKF4QlFIkNLrjprq26t23Ud1g4IC9vuHZYndDHRJZZk12HjvFdpg71F2885w5oMZ9H7OYu1GrMo4cpinwntbrGITTNJyPpMEldSdGUdJ5UVnPC8w5KROVJmdJVm3Sk5fAdzlEnrT7jIeYq+0CVxWVqf+w65KsdolBvuL1TTn3fPp4bPLr/+B/RQGjeB/9ZxYs1xd8waWGEMvt3ILTWI5f9ze4VcURbdyGWGSunptWzC4EkYDIN/mXjwcMnzypIuPow5cQ8eHFaxQ9mr8lzSO64qtHfg/glmUii0kbtpnNbO5ejrL1izBjY/8hM+rEiq4QvjZH0tLdVnPx59/s6/uAAdwKqVp1hP2uxMV9t/3YO7HWBVuQA+fr6NYnc75oN4lASDMIxxED+Lk8FusBXuPMXRztZILOLq7S+GfcMLhE/zjlB/yZMrXLxS/AtyXdL4OnsuZGgpAs1xA/AbOr8Ec28DAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5180,7 +4186,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Ohio
             Submarine","italic":false,"color":"green"}]}'
-          internal: H4sIAAAAAAAA/3VSwW7UMBCdQiu2kSiIiiNSZHHcrbZ0VTW50aqHSgiQqLigCk2c2Y2JE6/scZvtKge+AnHgD/gP7hz5B/4Bp4J01RYfbMtv5s3Me44AItg61EaWxzUrXpzi7D6sXUJYA7incnhUqZqkxSmnsiDHAV10aDib7tyEjROmynX3wBVJU81NTTW7Tdi6ztXG0iBErMGvpaCGLYr0w1JkRucinaJ2NBTShCiRiotCMYmhUIxayR422dQ7iUzXGY6tKokLa/ys6F858Aea00K5eI6yxBnF0tSMqnYxxoHZ1zlZHZr7R9UOl335mSWqb5f/y/qmUCZ+57MKbcgX7VmPiDaCpytqecem+pgjYwRP3voskB36slT8HrUn9wAen1OhpCaXhkgbugz6pN9/w4azsP0Jz3HHs9I7L63FxSvluPn889nXH/gtSH8C605dUjPvVL9Y7/ZmAA97Qu+Ddc9lgkmO42S0l+0mo0k2oRHuHkxH4xd0IMf7+4ncm1wZHR1dNfsaK4Ivy36g4YpTd49/pys3hLsl9v98u2nAyudoz1qAP7jgrAqtAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5204,7 +4209,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Yellow
             Submarine","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/3WSz4rUQBDGa3UXZwOuongUQuNxZlmZ+Gdyc8XDgojgIogsUunUTNp00kN39U5mhxx8DAXfwPfw7t1H8B3sDJodHDeHdNNf1a8r35cIIIKDY21k+aJmxctTnF2HnQsIzwCuqRxuVaomaXHKqSzIcVCXnRrWplv3Ye+EqXLdPrAiaaq5qalmtw8Hl73aWBqEih34uRLUsEWRvl+JzOhcpFPUjoZCmlAlUrEoFJMYCsWolexlk029k8h02eHYqpK4sMbPiv6UAz9gTgvl4jnKEmcUS1MzqtrFGAeyr3OyOgz3F9UOV/31S9LaLLbv/4N9t5bjNz6r0AaEaM96TbQR3NswzDs21YccGSO489pnAXfsy1LxW9Se3A24fU6FkppcGiptGDRYlH77BXvOwt2PeI6HnpU+fGYtLl8qx82nH/c/f8evwf0T2HXqgpp5Z/xit3s3A7jZA70P6T2gh8kky6Ucycn40SiZkBw9zRM5Gj9JssljGh/lR8k66+j5ethXWBF8WfUfNNwI6yoD/hvNP+ZtOX5VeFspbPwi7VkL8BtuG2UoswIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5228,7 +4232,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Sierra
             II Submarine","italic":false,"color":"red"}]}'
-          internal: H4sIAAAAAAAA/32SwW7UMBCGp9CKbSQKAnFEiiyOuxVs2W7JjSIOKyGE1IoLqpDjTDYmTryyx222qxx4DJB4A96DO3cegXdgUkG6UMAH2/KMvxn/vyOACHYOjVXl85o0LY/l/DpsnAOPAVzTGdyqdI3KyZwSVaAnji67KK9Nt27D1oyw8t2eWZGy1cLWWJPfhp3Lu8Y6HHDGBnxbCWzISZG8WYnUmkwkuTQeh0JZzhKJOCs0oRgKTdJo1YdtmgevJOHlDU9Ol0iFs2Fe9KfEfMYcF9rHC6lKOcdY2Zqkrn0sYyaHOkNnuLlfqHa46ss7Pr1S/CfzSKNzMp7N4qOQVtIxQrQnfVi0EdxbEyx4stXbTJKM4M6rkDLxMJSlptfSBPQ34PYpFloZ9AlnOm6UJUo+f4ct7+DuO3kqdwNps/uUiy5faE/N+6/3P3yRn1j9GWx6fY7NohP+bLObmwHc7IEhsHsPcDrNJ2m+NxrvjbPR433MR0+muD/Kp5PJ+FH2MD2YHFx4HT27aPalrBA+rvoHDdfM+o8Gf3XnDwmviP4v/343Yu2LtCctwA9iyNc8swIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5266,7 +4269,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Merkava
             Mk.4 Tank","italic":false,"color":"gray"}]}'
-          internal: H4sIAAAAAAAA/3VSzW4TMRCe0lakK1EQqEeklcUxiUp3Ce3eKOJQiSIOERdUVbOOkzX748get5tGe+AxeuAN+h7cOfMKvAOzFWyj/vjgsfzNfDP+PgcAAWwfFkbmHyrStBjjbB3WLoBXDx7pCTwtdaWkxSklMlOOGF20KMe6jVuweUSqdO2ZuQJpyrmpVEVuC7ZvagtjVY8z1uD3UqiaLIrk61KkppiIZIqFU30hDWeJRJxnmpToC01YaNnBJp16J5HUTYUjq3NFmTV+lnW3xPxMM860C+coc5ypUJqKUFcuxJCZfTVRtuDh/lM1/WXXfmZxcbf7P9JjZXM8w/A4H8bhGKtcNCcdKJoAdlb08o5MeTpBwgCef/Yp8x36PNf0BQuv3GN4dqYyLQvlEs60PCcrlFz9gU1n4cU37jP0pIvhO8sjfdSO6u+/Xl7+xB8s/hFsOH2h6nmr+/lGu9c9eNIRes/mvYriWL6NotFgJGU0iCMZD/b3Xk8HB6NobzeN99+k0e611cH762E/Yangctk9qL/i1YMK3GvNLfnuKP6QebdcWPkgzUkD8Be93MBXsQIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5290,7 +4292,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Leopard
             2A7 Tank","italic":false,"color":"gold"}]}'
-          internal: H4sIAAAAAAAA/3VSzW4TMRCeQivSlSgIxBFpZXFMquanbNhbW3GoVCEOERdUoYl3kjX748get5tGe+At6IE34D24c+0z9B3wVrCNWuqDx/I38834+xwABLBzmGuZvS9Z8XKC88ewcQF+deCRSuBZoUqSBmccy5Qse3TZoD5WTdyGrWOmwjZnzxVIXSx0SSXbbdi5rc21oY7P2ICrlaCKDYr480pMdZ6IeIa5pa6Q2meJWJynikl0hWLMlWxhPZ05K5HptsKyURlxarSbp+0te35PM0mVDRcoM5xTKHXJqEobYuiZXZmQyf1w/6jq7qptP29mutf9L+kJ6QWaJBwcROEEy0zUpy0m6gBercnlLOviS4KMAbz46Kae7tBlmeJPmDuyT+D5GaVK5mRjn2n8mF6g+Oc1bFkDL7/iGe46VvnugTG4PFGWq2+/X1/+wh9e+2PYtOqCqkUj+/lms1cdeNoSOue9e7NHNBpHfdnbG46j3mh/1O9hNNzvRf13g+Fw8HY8nuGN08HRzbAfsCD4vmof1F2z6iEB/mvMHfHu6f2QdXc8WPse9WkN8AeuxrAWrwIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5314,7 +4315,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Armata
             Tank","italic":false,"color":"green"}]}'
-          internal: H4sIAAAAAAAA/3VSzW4TMRCe0lakK1EQFcdKK4tjUkUkJcreWtRDpQpxiLigCs16Z7NmfxzZ43bTaA99h1448Aa8B3cuPAXvgLeCbdQWHzzW/Hwz830OAALYPS60zE8qVryc4XwTNq7Anx48UQk8L1VF0mDKkczIso8u26i3dWt3YPuUqbTt22MFUpcLXVHFdgd272oLbajnMzbg10pQzQZF9GklYl0kIkqxsNQXUvssEYnLTDGJvlCMhZJdWMepsxKZ7iosG5UTZ0a7edZ52eN7mFmmbLhAmeOcQqkrRlXZEEOP7KqETOGH+wfV9Fdd+7khqh62/4t6ZEpkDGdY5aI579yiCeDVGlXOsi4/Jz41gJcfXOyRjl2eK/6IhSP7FF5cUKZkQTbymcaP6MmJvv+GbWtg7wte4IFjVRwcGYPLM2W5vv65//UHfvO8n8KWVVdUL1rKL7fau+7Bsw7QOa/b68l4MnkrD0eDaTocDsbD0XgwncZvBml8GI9wmsgxxrcqB+9uh32PJcHNqluovybTI7s/qsc9yh7Q/D/F7lO/9i2a8wbgDzErUqinAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5338,7 +4338,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Mecha
             MKI","italic":false,"color":"gray"}]}'
-          internal: H4sIAAAAAAAA/3VSzU4UQRAuFOIyiWg0HkkmHY+7hJBhAnMD42GDGA/EiyGmpqd2p52f3nRXwyybOfAIHj3wBr6Hd+Nr+A72EB02rPShq1M/X1V9XwcAAWwdl1oWb2tWPD/D6WNYuwJ/BvBIZfCsUjVJgxNOZE6WfXTeRb1tOrsJG2OmynZvjxVIXc10TTXbTdi6qy21oYHPWINfC0ENGxTJp4VIdZmJZIKlpaGQ2meJRFzmikkMhWIslezDOp04K5HprsKyUQVxbrSb5r2XPb6HOcuVDWcoC5xSKHXNqGobYuiRXZ2RKf1w/6Da4aJvPzU4X+3+F/SUZI7h6clYtOe9U7QBvFriyVnW1ecMGQN48cGlHufYFYXij1g6sk/g+QXlSpZkE59p/HyemeT7b9iwBl5+wQvccazKnSPjR3mnLDfXP7e//cAbT/oY1q26ombW8X253t3NAJ72gM550V6nhxRFJA9Hu/FePIow3hul0f7+KJ7EB1GWxojRwa3EwZvbYd9jRfB10S80XNJoZfP/SnGPrhWGHxLrHutLH6I9bwH+AHt+HJShAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5362,7 +4361,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Mecha
             MKII","italic":false,"color":"white"}]}'
-          internal: H4sIAAAAAAAA/4WSwW7UMBCGp9CKbSQKAnGsFFkcd6vSVm2aG0UcVlDEoeKCKjTrTDYmTryyx222qxz6DJw48Aa8B3cOvAXvgFNBumpB+GBbnpnP4/93BBDBxpE2snxZs+L5CU7vwsoFhDGAOyqDB5WqSVrMOZUFOQ7ReRcNa9Ot67A2Zqpctw+sSJpqZmqq2a3DxnWtNpYGIWMFfiwENWxRpO8XYmJ0JtIctaOhkCZkiVScF4pJDIVi1Er2YTPJvZPIdF3h2KqSuLDGT4v+lAM/YE4K5eIZyhKnFEtTM6raxRgHsq8zsjo09wfVDhf/u/439ZhkgfHxq/FYtKf9qWgjeLKklHdsqg8ZMkbw6K2fBNCRL0vF71B7cvfg4RkVSmpyaci0ocOgTfr1J6w5C48/4hlueVZ667m1OH+tHDeX3zc/f8MvQfYxrDp1Qc2sU/x8tZubAdzvgd4H254+S2SCB8n2CGW+P9o7zHZGSba7N9reySnP9w92c0yuTI5eXDX7BiuCT4v+QcMll24//a9u3BDslsj/8uum8Eufoj1tAX4BgllMzKUCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5387,15 +4385,14 @@ data-version: 3|2|3839
         meta:
           ==: ItemMeta
           meta-type: TILE_ENTITY
-          display-name: '{"text":"","extra":[{"text":"Mecha MKV","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          display-name: '{"text":"","extra":[{"text":"Mecha Ignisus","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Mecha
-            MKV","italic":false,"color":"red"}]}'
-          internal: H4sIAAAAAAAA/3VSzW7UMBCeQiu2kSgIxBEpsjju9rDdlm1uFHGooIhD1Quq0MSZbEyceGWP22xXOfAGXDnwBrwHd3gO3gGngnRhwQePNT/fzHyfI4AIdo60keWLmhUvTnF2GzauIJwB3FIZ3KtUTdJizoksyHGILrposE1nt2HrmKly3TtgRdJUc1NTzW4bdm5qtbE0CBkb8H0pqGGLInm7FKnRmUhy1I6GQpqQJRJxWSgmMRSKUSvZh02aeyeR6abCsVUlcWGNnxW9lwN+gDktlIvnKEucUSxNzahqF2MckH2dkdVhuN9Q7XDZt7fBu9b8F+YJyQLjk5dnoj3vnaKN4NEKTd6xqd5lyBjBgzc+DThHviwVn6H25O7A/QsqlNTkkpBpw3iBmOTLD9hyFh6+xwvc9az07jNrcfFKOW4+fHv86St+Dpwfw6ZTV9TMO7ovN7u7GcDdHtD7oNmTSTrNpvtP89Eh7aWjyfggG+FBjqPpeLJPezjGLMVrhaPn18O+xorg47JfaLgi0drm/1TiL7rWCP6fVn+SvvId2vMW4Cds8l2znwIAAA==
+            Ignisus","italic":false,"color":"red"}]}'
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
-                "vehicles:uuid": "4b8d857f-9e3b-426d-a6fa-8245e3a2adba"
+                "vehicles:uuid": "3df97e75-e9b7-4d04-a116-3fd62ef65316"
             }
           blockMaterial: CHEST
       item1:
@@ -5434,7 +4431,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Black
             Car","italic":false,"color":"gray"}]}'
-          internal: H4sIAAAAAAAA/3WSwW4TMRCGp9CKdCUKAnGstLI4JhWpmibsjVQcKiHEoeKCKjTr9WbNOuvIHrebRnvoI3DkwBvwHtwRr8E7MFvBNmrAB9vyzHwe/78jgAj2psbK8nVFmpZnOLsPW1fAowf3dAaP5rpS0mFOiSyUJ44u2yivdbvuws4pqblv98yKpJ0vbKUq8ruwd1trrFM9ztiCnyuhanIokg8rkVqTiSRH41VfSMtZIhGXhSYl+kITGi27sE3z4CWSuq3w5HSpqHA2zIrulJjPmLNC+3iBssSZiqWtCHXlY4yZHKpMOcPN/UU1/VV3/czhcvP2P9CpYWB8gk40592haCJ4tqZT8GTnHzMkjODJu5AyZxrKUtN7NEH5B/D4QhVaGuUTznTcHyuTfPsFO97B0094gQeBtDl45biVN9pTff1j/8t3/Mqin8K211eqXrR6X263c92Dhx0wBDbtuRof5sPhJB+Mhlk6OMrSlwMcHcvB+MV4NEnlcHJ4fHRjcXRy0+xbnCv4vOoe1F/zaOPl/7TijlwbCv/PrDuqr32I5rwB+A0NGMBvoQIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5458,7 +4454,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Yellow
             Car","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/3VSzW7TQBCeQitSSxQE4ohkrTgmFYWIJr7RikMlhDhUSAhVaLwex4vX3mh3tnEa+cA7cOHAG/Ae3LnwFLwD6wjciMAedlbz883M920EEMHBiTayfFGz4uU5zm7CzhWEM4AbKoM7lapJWsw5kQU5DtFlFw226ew+7J0xVa57B6xImmpuaqrZ7cPBda02lgYhYwd+rAQ1bFEk71YiNToTSY7a0VBIE7JEIhaFYhJDoRi1kn3YpLl3EpmuKxxbVRIX1vhZ0Xs54AeY80K5eI6yxBnF0tSMqnYxxgHZ1xlZHYb7A9UOV337JWltFtv9f8O+XYfjU7Sivei9oo3gwQZV3rGp3mfIGMG91z4NQCe+LBW/Qe3J3YK7l1QoqcklIdOGEQM5ydefsOcs3P+Al3joWenD59bi8qVy3Hz8/vDzN/wSeD+DXaeuqJl3lC92u7sZwO0e0Pug2yN8jOkkP5qOniE+GY1znI7S9AhH2fH4OMueTibTyXitcnS6HvYVVgSfVv1Cww2Ztlf/pxx/EbbF8v8E22J+41u0Fy3AL/rPWXOnAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5482,7 +4477,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Magenta
             Car","italic":false,"color":"light_purple"}]}'
-          internal: H4sIAAAAAAAA/3WSwW7UMBCGp7QV20gUBOoRKbI47latKGzIra04VALEoeKCqmrW8W5MnDiyx222qxx4DIR4g74Hdx6AN+AdmFSQrmDrg215Zj6P/98RQATbR8bK4nVFmuanOFuHtSvgMYB7OoOHpa6UdDilVObKE0fnXZTXplu3YPOEVOm7PbMiacvaVqoivwXbt7XGOjXgjDX4uRCqIYci/bgQE2sykU7ReDUU0nKWSMVlrkmJodCERss+bCfT4CWSuq3w5HShKHc2zPL+lJjPmNNc+7hGWeBMxdJWhLryMcZMDlWmnOHm/qLa4aK/3uhZTud1cLVZ0cUf+FuGMjE+Rifas/5YtBHsLCkWPNnyPEPCCB6/DxMmHYWi0PQBTVD+Pjy6ULmWRvmUMx1DWaP0+hdsegdPPuEF7gbSZvfQOZy/0Z6azz+efvmO31j+E9jw+ko1daf85UY3NwN40ANDYPueZS9fyFf7+8lIZuNkdCCnB6NkTyWj8fh5IjEZ72U4uTE7Or5p9h2WCr4u+gcNl9xa8faVtvwj2X9q32XcHQ4sfZL2rAX4DSp6cda1AgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5506,7 +4500,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Yellow
             Racing Car","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/3VSwWoUQRCtaIKbAaMYPAaGxuNuSHBd3LmZkENARCQIIkFqemp32umZXrqrs7NZ5uBniPgH/od3P8A/8B/sWXSyuKYPXU2/qlfV73UEEMHeiTayOKtY8eICp3dh6xrC6sEdlcGDUlUkLU44kTk5DuiiRUOs27gLO+dMpWvPgSuSppyZiip2u7B3U6uNpV7I2IKfS0E1WxTJ+6VIjc5EMkHtqC+kCVkiEfNcMYm+UIxayQ426cQ7iUw3FY6tKohza/w072458Aeai1y5eIaywCnF0lSMqnIxxoHZVxlZHYb7S9X0l137BWlt5pv9/9C+W8HxG5SqmsanaEVz2YGiieDxmmLesSk/ZMgYwaPXPg18J74oFL9F7cndg4dXlCupySUh04ZJg0bJt1+w4yzsf8QrPPSs9OELa3HxUjmuP/04+Pwdvwb5z2HbqWuqZ63y8+12r3twvyP0Ptj3RA4pGx9NxoOMnqaDYZY9H2B2nA2GRzR+Nhylx+PRaGV2dLoa9hWWBF+W3YP6a27dqsB/zflHvg3Nb7Nvw4e1T9JcNgC/AV8Rxji1AgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5530,7 +4523,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Red
             Racing Car","italic":false,"color":"red"}]}'
-          internal: H4sIAAAAAAAA/3VSzW7UMBCeQiu2kSgIxBEpsjjuVkubpSU3WnGohBCqKi6oQhNndmPixCt73Ga7yoGH4MCBN+A9uHPiJXgHnArShRYfPNb8fDPzfY4AItg60EaWL2tWvDjB2W1Yu4BwBnBL5XCvUjVJi1NOZUGOQ3TRRYNtOrsJG0dMleveASuSppqbmmp2m7B1VauNpUHIWIMfS0ENWxTpu6XIjM5FOkXtaCikCVkiFeeFYhJDoRi1kn3YZFPvJDJdVTi2qiQurPGzovdywA8wJ4Vy8RxliTOKpakZVe1ijAOyr3OyOgz3B6odLvv2NnivNf+NeUx5fIxS1bP4EK1oT/uIaCN4tMKVd2yq9zkyRvDgjc8C2IEvS8VvUXtyd+D+GRVKanJpyLRhxsBO+vUnbDgLDz/gGW57Vnr7hbW4eKUcNx+/P/78Db8E4o9g3akLauYd5+fr3d0M4G4P6H0Q7smUEHEv2R2NM7k/SpLJzmhfJpPRztNsVz4fZ88m4+RS5ujwctjXWBF8WvYLDVd0unn9GzX5h7hrVP9Ptb/pX/kY7WkL8AtAd5G7qQIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5554,7 +4546,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Purple
             Racing Car","italic":false,"color":"dark_purple"}]}'
-          internal: H4sIAAAAAAAA/3VSy27UMBS9pa2YRqIgEMtKkcVyplKHGYbJjlYsKiFUoYoNqqob52Zi4sSRH22moyz6GSwq9QP6H+z5Bdb8A84I0hFMvbAtn3uPj89xABDA7qFUPH9fWmHnpzjbhI0r8KMHj0QCTwtREteY2ohnZKxH5y3q17pdd2D72FJh2r3nCrgqKlVSac0O7N73SqWp5ys24OeCUW01sujLgsVKJixKURrqM658FYvYZSYssT4TFqXgHazi1BmOlu47jNUiJ5tp5WZZd2o9v6c5zYQJK+Q5zijkqrQoShNi6JldmZCWXtxfqqa/6K5PUOfnldOVXCPiD/fJEg4/IRflLDxCzZqzDmRNAC9XbHPGquI8QYsBPD9xsec7dHku7GeUjsxjeHZBmeCSTOQrtZfrjYrufsG20fDiK17gvrNC7r/TGucfhLH19Y+9b9/xxmdwDFtGXFFdtfZfbrVz3YMnHaFzPsNXyTg9OBjhcDCcxDQY0YgG0xFNB/R6PJ4O30zeTtJ4mXhwtBT7EQuC20X3oP5KZA86sDahf+z7z/iHMlwfxsp3ac4agN8hk6x9vwIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5592,7 +4583,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Black
             Bike","italic":false,"color":"gray"}]}'
-          internal: H4sIAAAAAAAA/3WSwW4TMRCGp9CKdCUKouKItLI4JlUiJd1kbwRxqIQQh4oLqtDE682a9e5G9rjdNNoDr8CNA2/Ae3BH4jF4B2Yr2EYN+GBbnvE34/93ABDA0dxUMn9Vkqb1OS7vw9418OjBPZ3Ao0KXSlpMKZaZcsTRdRvltW7XQzg4I1W4ds+sQFbFqipVSe4Qjm7vmsqqHmfswc+NUDVZFPH7jVhUJhFxisapvpAVZ4lYXGWalOgLTWi07MLVIvVOIqnbG46szhVltvLLrDsl5jPmPNMuXKHMcalCWZWEunQhhkz2ZaKs4eb+opr+piu/tLjerf4HOjcMDOdcVTQX3aloAni6JZR3VBUfEiQM4Mlbv2DQ3Oe5pndovHIP4PGlyrQ0ysWcablBlib+9gsOnIXjj3iJJ560OXlhuZfX2lH96cezL9/xK6t+BvtOX6t61Qp+td/OdQ8edkDv2bXnUTRNppgMB6NhlA7Gs/FsMB1ORoNoMh7NTuVpGk3SG4+DlzfNvsFCwedN96D+lkm7T/+nGXcE29H4f3bd0X3rSzQXDcBvalr8UqMCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5615,7 +4605,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Orange
             Bike","italic":false,"color":"gold"}]}'
-          internal: H4sIAAAAAAAA/3WSz24TMRDGp9CKdCUKAnFEiiyOSRVBFFV7axCHSgg4VFxQhWa9s1mzfxzZ43bTaA99hp448Aa8B3cOvAXvwGwF26gtPtiWZ/yb8fc5Aohgb15aXbyp2fDqGBf3YescZAzgnknhUWVq0g4zjnVOniW66qKyNt26CztHTJXv9sKKtK2Wtqaa/S7sXd8traOBZGzBr7Wihh2q+NNaJbZMVZxh6WmktJUsFauz3DCpkTKMpdF92CZZ8BqZrm94dqYgzp0Ni7w/ZeEL5jg3frhEXeCChtrWjKb2QxwKOdQpuVKa+4dqR+u+/KLr6Vb1v9D3DmvBzaWsak/6Y9VG8GxDqeDZVp9TZIzgyYeQCGkeisLwRywD+Qfw+JRyo0vysWQ66VC0ib//hh3v4OkXPMX9wKbcP3QOV2+N5+bi5/OvP/CbyH4E296cU7PsFD/b7uZmAA97YAhi2ws9O5hO0tlsjJQejKeaknGSvXw1nmZpmk1miZ4gXpkcvb5q9h1WBJfr/kGjDZfuePuddtyQ7JbK/zPshvIbn6I9aQH+ABhTOUqlAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5639,7 +4628,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Red
             Bike","italic":false,"color":"red"}]}'
-          internal: H4sIAAAAAAAA/3VSzW7UMBCeQiu2kSgIxBEpsjjuVmLLLtrcWNRDJYQQqrigCk2cycbEiVf2uM12lUOfgDMH3oD34N734B1wKkiXFnzwWPPzzcz3OQKIYG+ujSwPa1a8OsbFXdg6h3AGcEdl8KBSNUmLOSeyIMchuuqiwTad3YWdI6bKde+AFUlTLU1NNbtd2Luu1cbSIGRsweVaUMMWRfJxLVKjM5HkqB0NhTQhSyTirFBMYigUo1ayD5s0904i03WFY6tK4sIavyh6Lwf8AHNcKBcvUZa4oFiamlHVLsY4IPs6I6vDcH+g2uG6b2+D91bz35jvKYvnoaVoT3qfaCN4ssGSd2yqTxkyRvDonU8DzNyXpeIPqD25e/DwlAolNbkkZNowXeAl+f4TdpyFx5/xFPc9K73/ylpcvVGOm4vLp19/4LdA+RFsO3VOzbJj+2y7u5sB3O8BvQ+SPcPJwSQdoxy9xOl09GKW0mg2nsxGGR1MsueYT2fj/Erg6PXVsG+xIviy7hcabih0c/F/6nCDrFv0/k+pvynf+AztSQvwCzk/t4edAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5663,7 +4651,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Old
             Hover Bike","italic":false,"color":"gray"}]}'
-          internal: H4sIAAAAAAAA/3VSwW7UMBCd0lZsI1EQiCNSZHHcrYCybTc3FiG1EgIOFRdUoYkzuzFx4pU93ma7yoGfQOqhf8B/cOfGR/APOBWkq7b4YFuemTdv3nMEEMH2WBtZvKlY8eIYp+uwdgZh9eCOyuB+qSqSFiecyJwch+iijYazbs8t2DxiKl17D1iRNOXMVFSx24Ltq1ptLPVCxhr8Wgqq2aJIPi1FanQmkglqR30hTcgSiTjNFZPoC8WolezCJp14J5HpqsKxVQVxbo2f5t0rB/wAc5wrF89QFjilWJqKUVUuxjgg+yojqwO5f1BNf9m1n1pc3Oz+F/S9zuJDMycbj0Nn0Zx0EdFE8HhFLO/YlJ8zZIzg4QefBrCxLwrFH1F7cnfhwZxyJTW5JGTaQDLIk3z/DZvOwqMvOMcdz0rvvLKBz1vluP7688n5D7wIyh/BhlNnVM9a0U832r3uwb0O0Pvg3FN6JlOk57uD0T7S4OUB0WCEw4PBcHdvD0eI6Yt0eOlz9PqS7DssCb4tu4H6K0bdPv6tplwT7obW/7Ptmv4rX6M5aQD+AP0sXK+rAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5687,7 +4674,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Standard
             Hover Bike","italic":false,"color":"green"}]}'
-          internal: H4sIAAAAAAAA/31SwWoUQRCtaIKbAaMYPApD43E37LorJnNzRTAgIhi8SJDanpqddnqml+7qzWyWOfgZgv6B/+HdH/AL/Ad7gk6WRO1DV9Ov6lX1ex0BRLA31UYWzytWvDrB+U3YOoewenBDpXCnVBVJixknMifHAV21aIh1G3dh55ipdO05cEXSlAtTUcVuF/Yua7Wx1AsZW/BjLahmiyJ5txYzo1ORZKgd9YU0IUsk4ixXTKIvFKNWsoPNLPNOItNlhWOrCuLcGj/Pu1sO/IHmJFcuXqAscE6xNBWjqlyMcWD2VUpWh+H+UDX9ddd+bomq6+1/s75hrFK0afzCLMnG09BfNKcdLJoI7m9I5h2b8n2KjBHce+1ngXHqi0LxW9Se3C24u6RcSU0uCZk2jBpESr7+hB1nYf8DLvHAs9IHT63F1UvluP74/cGnb/gl6H8M206dU71opT/bbve6B7c7Qu+Dfw/Hj4f0JMPx4PBwMh5MjjAbHI1G6WD4CIcjpNE4m6QXbkfPLoZ9hSXB53X3oP6GXf/R4K/+XJHwmuz/cvCqFRvfpDltAH4B6CUqgbcCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5711,7 +4697,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Advanced
             Hover Bike","italic":false,"color":"gold"}]}'
-          internal: H4sIAAAAAAAA/31SzWoUQRCuaIKbAaNEPApD43E3oLtJZG5ZEQwE8RC8SJCanpqddnqml+7qzWyWOfgYIr6B7+E9D+Ab+A72BJ0sidqH/quqr77+vo4AItiZaiPLVzUrXp7i7C5sXEAYA7ijMnhQqZqkxZwTWZDjEF120bA23boNW8dMlev2ASuSppqbmmp227BzXauNpUHI2IAfK0ENWxTJ+5VIjc5EkqN2NBTShCyRiPNCMYmhUIxayT5s0tw7iUzXFY6tKokLa/ys6G854AeY00K5eI6yxBnF0tSMqnYxxgHZ1xlZHcj9gWqHq779rON0q/tv0KNsgbWkLH5tFmTjaWgv2rM+LNoIHq8p5h2b6kOGjBHsvvVpQJz6slT8DrUndw8eLqhQUpNLQqYNTINGybefsOUsPPqIC9zzrPTekbW4PFGOm0+XTz5/x69B/mPYdOqCmnmn/PlmNzcDuN8Deh/sezrO9ynN5Xg0GU/S0YSe0Sh98ZxGBxmFw8H4MN9Pr8yOXl6RfYMVwZdV/6Dhmlv/0eCv9tyQ8Jbq/zLwhhNrn6Q9awF+AS5eVzO1AgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5749,7 +4734,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Tiger
             Helicopter","italic":false,"color":"green"}]}'
-          internal: H4sIAAAAAAAA/3VSzUocQRAuEyXrQExIyFEYmhx3RV2HyNxiECKEkIPkEiTU9NTMdOanl+5qnXWZg4/hwTfIe+Tu2VfIO6RHcFw09qGr6a/qq+rv6wAggI2DSsvysGHF82PMn8PKOfg1gmcqhVe1akgazDiWBVn26LxHfWz7uA5rR0y17c+eK5C6numGGrbrsHFfW2lDI5+xAjcLQS0bFPGPhUh0lYo4w8rSWEjts0QszgrFJMZCMVZKDrBOMmclMt1XWDaqJC6Mdnkx3LLn9zTHhbLhDGWJOYVSN4yqsSGGntk1KZnKD3dH1Y0XQ/vcEDWP29+xqpxM+Jk8pGdMRnQnAya6AN4t6eUs6/pniowBvPnmEl9z4MpS8XesHNkX8PqUCiUrsrHPNH5Or1D8+y+sWQNvf+EpbjlW1dZHY3D+RVluL643L//glRf/CFatOqd21ut+ttrv7QheDoTOefPeR0n2QW5Ptye0v5NN9qbR3iSRKU52oyiR0a7E6U5ya3Xw6XbYr1gTXC6GB42XvHpKgP8680C8R4I/5d1DE5Y+SHfSAfwDcx/GP7ECAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5773,7 +4757,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Kamov
             KA-52 Helicopter","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/31SzW4TMRCeQivSlSgIxBFpZXHMVkmUNGVvLUKiKkIcKi6oQrPObNasdx3Zs/lptAcegwMSD8B7cOcVOPMOeCvYRgTwwWN5vvlm/H0OAAI4ONVG5s9LVry6wOlt2LkCvzpwS03gXqFKkhZTjmVGjn121WR9XDZxH/bOmArXnD1XIE0xMyWV7Pbh4KZWG0sdj9iB72tBS7Yo4rdrkRg9EXGK2lFXSONRIhaLTDGJrlCMWsk2bZK0chKZbiocW5UTZ9ZU06y9Zc/vaS4y5cIZyhynFEpTMqrShRh65qqckNV+uN9UdXfdtl+R1max3f8X7TkWZh6en0SjQfiCPMDMmKyoL1uEqAN4tCFb5dgU7ybIGMCD11Xia06rPFf8BnVF7g7cn1OmpCYXe6T143qh4i8/YM9ZePge53hYsdKHJ9bi6qVyvPzw7fHHr/jJe3AGu05d0XLWyL/YbfZlB+62hFXlPXwyGB/3ZE8m0fBp0o+GQ+pHmPTH0Xh0NMA0HY16w6Nrx4Nn18O+woLg87p9UHfDsv/L8Feb/hByS/1/GbnlyMZ3qS9rgJ/m+Su4vwIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5797,7 +4780,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Apache
             Helicopter","italic":false,"color":"red"}]}'
-          internal: H4sIAAAAAAAA/3VSwW7UMBCdQiu2kSgIxBEpsjjuVmnZpW1uLUKiEkIcKi6oQrPOZGPixCt73Ga7yoG/gAN/wH9w58o38A84FaQLpT7Y1ryZN+P3HAFEsHWkjSxf1Kx4cYKz27B2AWEN4JbK4F6lapIWc05lQY4DuujQcDbduQkbx0yV6+6BK5KmmpuaanabsHVVq42lQchYgx9LQQ1bFOm7pZganYk0R+1oKKQJWSIV54ViEkOhGLWSPWymuXcSma4qHFtVEhfW+FnRRznwB5qTQrl4jrLEGcXS1IyqdjHGgdnXGVkdhvtD1Q6XfXsbotea/+Y8DHwFxS8pYGbOZEV72oOijeDRilzesaneZ8gYwYM3fhpqjnxZKn6L2pO7A/fPqFBSk0tDpg1jBoHSrz9hw1l4+AHPcNuz0tuH1uLilXLcfPz++PM3/BK0P4Z1py6omXeyn693ezOAuz2h98G7J+PJs508Hyejp5ODZDSWe8loisneKNk/yCa7uzsyGctLp6Pnl8O+xorg07J/0HDFqhsV+K8z/8h3TfCbvPvbhJXv0Z62AL8AJmBOC68CAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5835,7 +4817,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Ki-61
             Plane","italic":false,"color":"dark_green"}]}'
-          internal: H4sIAAAAAAAA/3VSy27UMBS9hVZMI1EQiCVSZLGcVG2G6ZTsKGJRgVAXFRtUVTfOnYmJY4/8aDMdZcFndMEf8B/sWfML/ANOBemIDl7Y1n0cn3uOI4AIdo6k5tVb5YRbnOLsPmxcQVgDuCcKeFQLRdzg1GW8JOtCdtFlw9l05zZsHTuqbXcPWBHX9VwrUs5uw85tr9SGBqFiA34uGTXOIMs+LVmuZcGyKUpLQ8Z1qGIZuyyFIzZkwqEUvE/rfOotR0e3HdYZUZErjfazso+6gB9gTkth4znyCmcUc60cCmVjjAOyVwUZGcj9hWqHy/75Ak11PjNE6i6HP9DvRHKwH59IVMTasz7M2gierejlrdP1eYEOI3hy4vOAdOSrSriPKD3ZB/D4gkrBJdksVJrAMyiUffsFW9bA0894gbveCbn72hhcvBfWNV9+PL/+jl+D+MewacUVNfNO98vNbm8G8LAH9D6Y94IfYIrpeJIc8v295OVkb5zkIxoleTpKi9ErSifjyY3V0Zsbsh+wJrhe9gMNV7xaM/taU/6R7I7W/7Ntrf4rH6Q9awF+AzkGkZWxAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5859,7 +4840,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"YAK-3
             Plane","italic":false,"color":"gold"}]}'
-          internal: H4sIAAAAAAAA/3VSzW4TMRCeQivSlSgIxBFpZXHMVs2mP8neWsShAqEeKiSEKjRxJlmzzjqyx+2m0R54Bk4ceAPegzsH3oJ3wFvBNmqLDx5rfr6Z+T5HABFsHWkji1clK16c4vQ+rF1COB24p8bwaKZKkhYnnMmcHIfoookGWzV2EzaOmWaueQesSJrZ3JRUstuEretabSx1QsYa/FoKqtiiyD4sxcjoscgmqB11hTQhS2TiIldMoisUo1ayDZvRxDuJTNcVjq0qiHNr/DRvvRzwA8xprlw8R1nglGJpSkZVuhjjgOzLMVkdhvsHVXeXbftpM9Ot7n9B3x++TvrxicaSRH3WukUdwbMVprxjM/s4RsYInpz4UUA68kWh+B1qT+4BPD6nXElNLguZNkwYuMm+/4YNZ+HpJzzHbc9Kbx9ai4s3ynH1+efzrz/wW6D9GNaduqRq3jB+sd7cVQcetoDeB9lepEO5OxmklAyG/TTZ7e3sJYN0XyYHuN/f61Ha2zkYXokcvbwa9i3OCL4s24W6Kyrdsfudctyg7BbL/xPsBvMrn6I+qwH+ALN8lValAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -5883,7 +4863,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"P-61
             Plane","italic":false,"color":"gray"}]}'
-          internal: H4sIAAAAAAAA/3VSzWoUQRCuaIKbAaMYPApD43EnuDJuwtxM8BAQ2UPwIkFqemp32umdXrqrk9ksc8grePPgG/ge3gUfw3ewJ+hkyWofupr6+arq+zoCiGDvWBtZvalZ8fIMZ/dh6wrCGcA9VcCjuapJWpxyJktyHKLLLhps09ld2DllmrvuHbAiaeYLU1PNbhf2bmu1sTQIGVvwcyWoYYsi+7ASudGFyKaoHQ2FNCFLZOKyVExiKBSjVrIPm3zqnUSm2wrHVlXEpTV+VvZeDvgB5qxULl6grHBGsTQ1o6pdjHFA9nVBVofh/kK1w1XffmZxudn9D+gkGY/iicaaRHvee0UbwdM1orxjM/9YIGMETyY+D0DHvqoUv0ftyT2AxxdUKqnJZSHThgEDNdm3X7DjLOx/wgs88Kz0wWsbZnmrHDfXP559+Y5fA+unsO3UFTWLjvDL7e5uBvCwB/Q+qPZcyjTF4kWaHKWjl0n6ijA5wjxP8BDT0fhwjCjTG42jk5th3+Gc4POqX2i4JtLm6v8U4w5hGxz/T647vK99ifa8BfgNZ9GBw6MCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -6026,7 +5005,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Yellow
             Tractor","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/3VSwW4TMRCdQivSlSiIiiPSyuKYVKhES7I3ijhUQohDhIRQhSbe2axZ7zqyx03SaA/8BRz4A/6DO1e+gX/AG8E2IsUH2/KbeTPzniOACI7OtJHly5oVryY4uw17VxBWD26pDO5VqiZpMedUFuQ4oKsWDeeyPQ/h4Jypcu09cEXSVHNTU83uEI6uc7Wx1AsRe/BzLWjJFkX6fi2mRmcizVE76gtpQpRIxaJQTKIvFKNWsoPNNPdOItN1hmOrSuLCGj8rulcO/IFmUigXz1GWOKNYmppR1S7GODD7OiOrQ3N/qZr+uiu/Iq3NYrf+H9p3GzieWJQc4puLDhFNBA+35PKOTfUhQ8YIHrzx00B25stS8VvUntwduH9JhZKaXBoibWgzCJR++wUHzsLxR7zEE89Knzy3FlevlOPlpx+PvnzHr0H7c9h36oqW81b2xX67L3twtyP0Pnj3eHxKz0aj5HQwypNkMMyRBlPC8SDJnoyfDuUwoSTfOB292DT7GiuCz+tuoP6WVTePf6Mt/wi3o/b/jNtxYOt7NBcNwG/4aTVXrwIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -6049,7 +5027,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Red
             Tractor","italic":false,"color":"red"}]}'
-          internal: H4sIAAAAAAAA/3VSzWoUQRCuaIKbAaMoHgND43E3uO5sEudmgoeAiMjiRYLU9NTutPPTS3d1MptlDnmF3Dz4BnmP3AUfw3ewJ+hkNbEPXU39fFX1fR0ABLB1UGiZv6lY8WKCs/uwdgb+9OCeSuFRqSqSBqccy4ws++iijXpbt3YTNo6YStu+PVYgdTnXFVVsN2HrprbQhno+Yw1+LAXVbFDEn5Yi0UUq4ikWlvpCap8lYnGaKSbRF4qxULIL62TqrESmmwrLRuXEmdFulnVe9vgeZpIpG85R5jijUOqKUVU2xNAjuyolU/jh/kA1/WXX3njvrea/MT9QGk4MSvaZzXHnFk0Az1aIcpZ1+TlFxgCevHeJRzpwea74IxaO7AN4fEKZkgXZ2GcaP6CnJr78CRvWwNMveII7jlWx89oYXLxVluvz79tfr/CbZ/0I1q06o3reEn663t51Dx52gM551Z6PR8lovDeKBrhH00EUvYwGr9Lx/mA3fTHcHUbDJMLxtcbB4fWw77AkuFh2C/VXRLpj9zvV+IeyWyT/T6+/iV/5Es1xA/ALg1q9+qMCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -6073,7 +5050,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Green
             Tractor","italic":false,"color":"green"}]}'
-          internal: H4sIAAAAAAAA/3VSwW4TMRCd0lakK1EQiCPSyuKYVBEJod0bRVVVCSEOERdUoYl3NmvWu47scbtptAd+ohIH/oD/4M6Nj+Af8Fawjdrig235zbyZec8RQAS7h9rI4qhixcspzjdh4wLC6sE9lcLDUlUkLWacyJwcB3TZouGs23MHtk+YStfeA1ckTbkwFVXsdmD3OlcbS70QsQG/VoJqtiiSjysxMzoVSYbaUV9IE6JEIs5zxST6QjFqJTvYzDLvJDJdZzi2qiDOrfHzvHvlwB9oprly8QJlgXOKpakYVeVijAOzr1KyOjT3j6rpr7ryc0tU3S7/l/W4ReOpRckhujntANFE8HRNLO/YlJ9SZIzg8Xs/C1yHvigUf0Dtyd2HR2eUK6nJJSHShiaDPMn337DtLDz5jGe451npvdfW4vKtclx/+fns6w/8FpQ/gS2nLqhetKKfb7V73YMHHaH3wbnn6XgylCnSYD8d7Q/Go8nLAQ6H2WAks+zFwXCUjV9NrnyO3lw1+w5LgstVN1B/zag7p7/Tkxuy3ZL6f67dlH/tazSnDcAfodZ5DasCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -6097,7 +5073,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Copper
             Drill","italic":false,"color":"gold"}]}'
-          internal: H4sIAAAAAAAA/3VSzW7UMBCeQiu2kSgIxLFSZHHcrVBbFjY3WjhUQohDxQVVaOJMNiZOHNnjNttVDn0HLhx4A96DOxeegnfAqSBdtcUHjzU/38x8nyOACLYOtJHlm5oVL45xfhfWziGcEdxRGTyoVE3SYs6JLMhxiC76aLBtbzdh44ipcv07YEXSVI2pqWa3CVtXtdpYGoWMNfi1FNSyRZF8XIrU6EwkOWpHYyFNyBKJOCsUkxgLxaiVHMImzb2TyHRV4diqkriwxs+LwcsBP8AcF8rFDcoS5xRLUzOq2sUYB2RfZ2R1GO4fVDdeDu3n/Uw3uv8FPTRNQzZ+bZXWojsZ/KKL4MkKVd6xqT5lyBjBo/c+DVAHviwVf0Dtyd2Dh6dUKKnJJSHThhEDOcn337DhLDz+jKe441npnVfW4uKtctxe/Nz++gO/Bd6PYN2pc2qbnvKz9f5uR3B/APQ+6PY0R8xnL6Z7k+ns2d5kP9+dTlBiOsnT/dnL57vTWTbFS5Wjw8th32FF8GU5LDRekem25W8V5BppN3j+n2TXuF/5Ft1JB/AHK2LU/KcCAAA=
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -6120,7 +5095,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Iron
             Drill","italic":false,"color":"gray"}]}'
-          internal: H4sIAAAAAAAA/3VSzW7UMBCeQiu2kSgIxBEpsjjuVqnELm1ulHJYCSEOFRdUoVlnsjFx4pU9brNd5dBX4MaBN+A9uCPxGLwDTgXpqgs+eKz5+Wbm+xwBRLB3rI0sX9eseHmK87uwdQnhDOCOyuBBpWqSFnNOZUGOQ3TZRYNtOrsLO1OmynXvgBVJUy1MTTW7Xdi7qdXG0iBkbMHPlaCGLYr0w0rMjM5EmqN2NBTShCyRiotCMYmhUIxayT5sZrl3EpluKhxbVRIX1vh50Xs54AeY00K5eIGyxDnF0tSMqnYxxgHZ1xlZHYb7C9UOV337ucXlZvc/oFNr6vjEKq1Fe9Z7RRvBkzWivGNTfcyQMYJH7/wsAB37slT8HrUndw8enlOhpCaXhkwbBgzUpN9+wY6z8PgTnuO+Z6X3X9owyxvluLn68fTLd/waWJ/CtlOX1Cw6wi+2u7sZwP0e0Pug2rMkT8ZynNAIMUtGzyeTwxEmYxwl2eELzMeTg4Mjea1x9Op62LdYEXxe9QsN10TaXP2fYtwibIPj/8l1i/e1L9GetQC/ATJw0GmjAgAA
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -6144,7 +5118,6 @@ data-version: 3|2|3839
           lore:
           - '{"text":"","extra":[{"text":"This package contains a ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false},{"text":"Golden
             Drill","italic":false,"color":"yellow"}]}'
-          internal: H4sIAAAAAAAA/3VSzW4TMRCeQivSlSgIxBFpZXFMqgZlA9kbBYQqIcSh4oIqNOudZM1615E9bpJGe+AlkDjwBrwHd248BO+At4JtRIoPHmt+vpn5PkcAERwcayPLlzUrXp3i7CbsXEA4PbihcrhTqZqkxSmnsiDHIbpqo8EuW7sPeydMlWvfASuSppqbmmp2+3BwVauNpV7I2IGfa0FLtijS92uRGZ2LdIraUV9IE7JEKhaFYhJ9oRi1kl3YZFPvJDJdVTi2qiQurPGzovNywA8wp4Vy8RxliTOKpakZVe1ijAOyr3OyOgz3F6rpr7v2K9LaLLb7/4F9FUamOn5hldaiOev8oongwQZZ3rGpPuTIGMG9tz4LUMe+LBW/Q+3J3YK751QoqcmlIdOGIQM96bdfsOcs3P+I53joWenDZ9bi6rVyvPz04+GX7/g1MH8Cu05d0HLekr7Ybe9lD253gN4H5R5NaTR5nCTDwVE2GQ5GyfBokCXj8SB5OswnoxHi+Ale6hw9vxz2DVYEn9fdQv0Noa5b/lpJ/iFti+n/ibbF/sbXaM4agN949tWwqwIAAA==
           PublicBukkitValues: |-
             {
                 "vehicles:storage": [B; -84B, -19B, 0B, 5B, 115B, 114B, 0B, 19B, 106B, 97B, 118B, 97B, 46B, 117B, 116B, 105B, 108B, 46B, 65B, 114B, 114B, 97B, 121B, 76B, 105B, 115B, 116B, 120B, -127B, -46B, 29B, -103B, -57B, 97B, -99B, 3B, 0B, 1B, 73B, 0B, 4B, 115B, 105B, 122B, 101B, 120B, 112B, 0B, 0B, 0B, 0B, 119B, 4B, 0B, 0B, 0B, 0B, 120B],
@@ -6181,7 +5154,7 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: POTION
           potion-type: minecraft:luck
-          custom-effects: &id003 []
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -6196,7 +5169,7 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: POTION
           potion-type: minecraft:strong_leaping
-          custom-effects: *id003
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -6211,7 +5184,7 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: POTION
           potion-type: minecraft:long_water_breathing
-          custom-effects: *id003
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -6226,7 +5199,7 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: POTION
           potion-type: minecraft:strong_healing
-          custom-effects: *id003
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -6241,7 +5214,7 @@ data-version: 3|2|3839
           ==: ItemMeta
           meta-type: POTION
           potion-type: minecraft:strong_strength
-          custom-effects: *id003
+          custom-effects: []
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839
@@ -6429,7 +5402,6 @@ data-version: 3|2|3839
           enchants:
             minecraft:knockback: 3
             minecraft:smite: 5
-          attribute-modifiers: {}
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3839

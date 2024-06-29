@@ -84,9 +84,9 @@ presets:
         player-variable: '%level%'
         player-variable-scale: 1.0
         player-variable-tiers:
-          '31-45': 3-7
-          '16-30': 2-5
-          '0-15': 1-3
+          '501-1000': 3-7
+          '201-500': 2-5
+          '0-200': 1-3
           default: 1
         match-variable: false
         use-variable-as-max: false
@@ -103,9 +103,9 @@ presets:
       custom_special:
         formula: '%attack-damage% * 0.2'
       custom_nether:
-        formula: '%rand_-3_3% + %player-variable-mod%'
+        formula: '%rand_-3_3% + %auraskills_power%'
       custom_end:
-        formula: '%rand_-3_3% + %player-variable-mod%'
+        formula: '%rand_-3_3% + %auraskills_power%'
 
 
 #
@@ -284,10 +284,10 @@ default-rule:
     #===== Choose a Challenge =====
     #- challenge-vanilla
     #- challenge-bronze
-    - challenge-silver
+    #- challenge-silver
     #- challenge-gold
     #- challenge-platinum
-    #- challenge-formula
+    - challenge-formula
     
     #===== Choose Strategies =====
     #- lvlstrategy-random
@@ -389,7 +389,7 @@ custom-rules:
   - custom-rule: 'Nether World Levelling Strategy'
     is-enabled: true
     conditions:
-      worlds: 'world_nether'
+      worlds: 'Earth_nether'
     strategies:
       y-coordinate:
         start-height: 100
@@ -401,7 +401,7 @@ custom-rules:
   - custom-rule: 'End World Levelling Strategy'
     is-enabled: true
     conditions:
-      worlds: 'world_the_end'
+      worlds: 'Earth_the_end'
     strategies:
       distance-from-origin:
         increase-level-distance: 200
